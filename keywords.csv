@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.8735287814285714
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,2,0.8640424090909091
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.854952865
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.854950945
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.85
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.7930230788636364
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.7857629373409091
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.7787081992954545
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.7735282456428572
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.7361979729274194
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.723610111
