@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.9140429490909092
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.91150015
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.8735287814285714
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.854952865
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.854950525
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.8407509065909089
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.7903269305681818
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.7735282456428572
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.7439330022727273
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.7361979729274194
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.73166280025
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.723610111
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.6784495217499998
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.6141249999999999
