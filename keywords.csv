@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,1,1.0
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,1.0
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.92890039
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.9173619284615384
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.9140429490909092
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.91150015
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.8735287814285714
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.85495873
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.854950525
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.7903269305681818
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.7857629373409091
