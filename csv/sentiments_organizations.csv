@@ -1,44 +1,136 @@
 ,phrase,label,sentiment,subjectivity,language,count
-FOCUS,FOCUS,ORG,0.11562499999999998,0.0,de,8
+FOCUS,FOCUS,ORG,-0.09772727272727275,0.0,de,11
+SPD,SPD,ORG,0.11333333333333333,0.4666666666666667,de,5
+EU,EU,ORG,0.6199999999999999,0.0,de,5
 Gewerkschaften,Gewerkschaften,ORG,0.4125,0.20833333333333331,de,4
-EU,EU,ORG,0.6999999999999998,0.0,de,3
-DWD,DWD,ORG,-0.7,0.0,de,2
-SPD,SPD,ORG,0.0,0.5,de,2
-Grüne,Grüne,ORG,0.0,0.5,de,2
-FDP,FDP,ORG,0.0,0.5,de,2
-Kirche,Kirche,ORG,0.7,0.0,de,2
+DWD,DWD,ORG,0.0,0.0,de,4
+Gesellschaft unsere Arbeit,Gesellschaft unsere Arbeit,ORG,0.0,0.0,de,4
+CDU,CDU,ORG,0.37777777777777777,0.2222222222222222,de,3
+HVV,HVV,ORG,0.2333333333333333,0.0,de,3
+FDP,FDP,ORG,0.0,0.3333333333333333,de,3
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.4666666666666666,0.0,de,3
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.7,0.0,de,2
-Wohnen: Umweltforscher: Wohnfläche,Wohnen: Umweltforscher: Wohnfläche,ORG,0.0,0.0,de,1
-Bundesagentur für Arbeit aus!,Bundesagentur für Arbeit aus!,ORG,0.0,0.0,de,1
-TU Wien,TU Wien,ORG,0.0,0.0,de,1
+Hamburger Verkehrsverbund,Hamburger Verkehrsverbund,ORG,0.0,0.0,de,2
+Neumarkt!,Neumarkt!,ORG,0.0,0.0,de,2
+NDR.de,NDR.de,ORG,0.0,0.0,de,2
+WELT,WELT,ORG,0.5249999999999999,0.0,de,2
+Hurra!,Hurra!,ORG,0.0,0.0,de,2
+Zentral- und Landesbibliothek,Zentral- und Landesbibliothek,ORG,0.0,0.0,de,2
+Obdachlosenhilfe,Obdachlosenhilfe,ORG,0.0,0.5,de,2
+Lyft,Lyft,ORG,-0.7,0.0,de,2
+Gewerkschaft der Polizei,Gewerkschaft der Polizei,ORG,0.35,0.0,de,2
+Olympia,Olympia,ORG,0.0,0.0,de,2
+…,…,ORG,0.0,0.0,de,2
+Energie- und Inflationskrise.,Energie- und Inflationskrise.,ORG,-0.5,0.25,de,2
+Ex-Weltmeister,Ex-Weltmeister,ORG,0.0,0.0,de,2
+Homeoffice,Homeoffice,ORG,0.0,0.0,de,2
+Wintersport-Saison,Wintersport-Saison,ORG,0.7,0.0,de,2
+Kirche,Kirche,ORG,0.7,0.0,de,2
+Bundesministerium des Inneren,Bundesministerium des Inneren,ORG,0.0,0.0,de,2
+Mercedes-SUV,Mercedes-SUV,ORG,0.35,0.0,de,2
+STERN,STERN,ORG,0.0,0.0,de,2
+WDR,WDR,ORG,0.0,0.0,de,2
+Berliner Morgenpost,Berliner Morgenpost,ORG,0.0,0.0,de-DE,2
+Grüne,Grüne,ORG,0.0,0.5,de,2
+inf…,inf…,ORG,0.0,0.0,de,1
+Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1
 … Energiesparen,… Energiesparen,ORG,0.0,0.0,de,1
-Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,1
-CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1
+"Uhr
+Essen/DüsseldorfIn","Uhr
+Essen/DüsseldorfIn",ORG,0.0,0.0,de,1
+Bü…,Bü…,ORG,0.0,0.0,de,1
+fa…,fa…,ORG,0.0,0.0,de,1
+Hell…,Hell…,ORG,0.0,0.0,de,1
+Open Source,Open Source,ORG,0.7,0.0,de,1
+TU Wien,TU Wien,ORG,0.0,0.0,de,1
+Obdachlosenhilfe:,Obdachlosenhilfe:,ORG,0.0,0.0,de,1
+Halle​,Halle​,ORG,-0.5,0.0,de,1
+FIS,FIS,ORG,0.7,0.0,de,1
+Bundesagentur für Arbeit aus!,Bundesagentur für Arbeit aus!,ORG,0.0,0.0,de,1
+Olympia-Platz,Olympia-Platz,ORG,-0.5,0.0,de,1
+Wohnen: Umweltforscher: Wohnfläche,Wohnen: Umweltforscher: Wohnfläche,ORG,0.0,0.0,de,1
+Senat,Senat,ORG,-1.0,0.0,de,1
+Video: Vorweihnachtsklassiker,Video: Vorweihnachtsklassiker,ORG,0.0,0.0,de,1
+Dschungel  …,Dschungel  …,ORG,0.0,0.0,de,1
+Schausteller-Pfarrer,Schausteller-Pfarrer,ORG,0.0,0.0,de,1
+Sachsen-Anhalt),Sachsen-Anhalt),ORG,0.0,0.0,de,1
+"Foto: Photodisc/Getty Images) 
+","Foto: Photodisc/Getty Images) 
+",ORG,0.0,0.0,de,1
+Mittwoc…,Mittwoc…,ORG,0.0,0.0,de,1
+Organisatoren,Organisatoren,ORG,0.0,0.0,de,1
+RP ONLINE.,RP ONLINE.,ORG,0.0,0.0,de,1
+Deutsche Wetterdiens…,Deutsche Wetterdiens…,ORG,0.0,0.0,de,1
+Die Grünen) di…,Die Grünen) di…,ORG,0.0,0.0,de,1
+Frankfurter Weihnachtsmarkt-Saison,Frankfurter Weihnachtsmarkt-Saison,ORG,0.0,0.0,de,1
+Meinungsforschungsinstituts Yougov zeigt,Meinungsforschungsinstituts Yougov zeigt,ORG,0.0,0.0,de,1
+Roncalli-Weihnachtsmarkt,Roncalli-Weihnachtsmarkt,ORG,0.0,0.0,de,1
+Roncalli“-Weihnachtsmarkt,Roncalli“-Weihnachtsmarkt,ORG,0.0,0.0,de,1
+Silvester.,Silvester.,ORG,0.0,0.0,de,1
+Audi,Audi,ORG,0.0,0.0,de,1
+BA,BA,ORG,0.0,0.0,de,1
 Bundesagentur für Arbeit,Bundesagentur für Arbeit,ORG,0.0,0.0,de,1
-Österreich Werbung,Österreich Werbung,ORG,0.0,0.0,de,1
-ÖVP,ÖVP,ORG,1.0,0.0,de,1
-Tem…,Tem…,ORG,0.0,0.0,de,1
-WELT,WELT,ORG,0.35,0.0,de,1
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1
+Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,1
+LNG,LNG,ORG,-0.7,0.0,de,1
+Grünen Liga,Grünen Liga,ORG,0.0,0.0,de,1
+"Foto: dpa)
+Scharm el Scheich","Foto: dpa)
+Scharm el Scheich",ORG,0.7,0.0,de,1
 Deutschen Welle | DW | 29.01.2022.,Deutschen Welle | DW | 29.01.2022.,ORG,0.0,0.0,de,1
-Stiftung Warentest: Das,Stiftung Warentest: Das,ORG,0.7,0.0,de,1
-Smarte Heizkörperthermostate,Smarte Heizkörperthermostate,ORG,0.7,0.0,de,1
-Deutsche Institut für Wirtschaftsforschung,Deutsche Institut für Wirtschaftsforschung,ORG,0.0,0.0,de,1
-CO2-Bepreisung,CO2-Bepreisung,ORG,0.0,0.0,de,1
-Smarte Thermostate,Smarte Thermostate,ORG,0.6,0.0,de,1
-WirtschaftsWoche,WirtschaftsWoche,ORG,0.0,0.0,de,1
-Berliner Morgenpost,Berliner Morgenpost,ORG,0.0,0.0,de-DE,1
+Bertelsmann-Stiftung,Bertelsmann-Stiftung,ORG,-0.5,0.0,de,1
 INTERVIEW,INTERVIEW,ORG,-1.0,0.0,de,1
-"Weltskiverbandes,","Weltskiverbandes,",ORG,-1.0,0.0,de,1
-The Cure,The Cure,ORG,0.0,0.0,de,1
-DIW,DIW,ORG,0.0,0.0,de,1
-CHIP,CHIP,ORG,0.0,0.0,de,1
 Deutschen Instituts für Wirtschaftsforschung,Deutschen Instituts für Wirtschaftsforschung,ORG,0.0,0.0,de,1
+Gesellschaft gerechter machen.,Gesellschaft gerechter machen.,ORG,-0.15000000000000002,0.0,de,1
+DIW,DIW,ORG,0.0,0.0,de,1
+Deutsche Institut für Wirtschaftsforschung,Deutsche Institut für Wirtschaftsforschung,ORG,0.0,0.0,de,1
+Bundes?,Bundes?,ORG,0.0,0.0,de,1
+NRW-Kommunen,NRW-Kommunen,ORG,0.0,0.0,de,1
+Kommunen,Kommunen,ORG,0.0,0.0,de,1
+The Cure,The Cure,ORG,0.0,0.0,de,1
+A…,A…,ORG,0.0,0.0,de,1
+Riesenslalom: Schmid rast,Riesenslalom: Schmid rast,ORG,1.0,0.0,de,1
+"Weltskiverbandes,","Weltskiverbandes,",ORG,-1.0,0.0,de,1
+Bundestag,Bundestag,ORG,0.7,0.0,de,1
+Berliner Grünen-Fraktion,Berliner Grünen-Fraktion,ORG,0.0,0.0,de,1
+E-Paper,E-Paper,ORG,0.7,0.0,de,1
+SPIEGEL,SPIEGEL,ORG,0.7,0.0,de,1
+Energie-Infrastruktur,Energie-Infrastruktur,ORG,1.0,0.0,de,1
+Gassparen ang…,Gassparen ang…,ORG,0.0,0.0,de,1
+Foto: Imago,Foto: Imago,ORG,0.0,0.0,de,1
+Gas sparenGas,Gas sparenGas,ORG,1.0,0.0,de,1
+Temperat…,Temperat…,ORG,0.0,0.0,de,1
+Sommerbelag der Zukunft,Sommerbelag der Zukunft,ORG,0.0,0.0,de,1
+WirtschaftsWoche,WirtschaftsWoche,ORG,0.0,0.0,de,1
+Smarte Thermostate,Smarte Thermostate,ORG,0.6,0.0,de,1
+CO2-Bepreisung,CO2-Bepreisung,ORG,0.0,0.0,de,1
+Mini-Jetlag,Mini-Jetlag,ORG,0.0,0.0,de,1
 NSO,NSO,ORG,0.0,0.0,de,1
 "Inhaltsverzeichnis
 Elon","Inhaltsverzeichnis
 Elon",ORG,0.0,0.0,de,1
-Moskaus,Moskaus,ORG,0.0,0.0,de,1
-Entlastungspaketen des Bundes,Entlastungspaketen des Bundes,ORG,-0.85,0.0,de,1
-Union: Ampel,Union: Ampel,ORG,0.0,0.0,de,1
+Michael Wendler &,Michael Wendler &,ORG,-0.35,0.0,de,1
+Berlins Grünen-Fraktion,Berlins Grünen-Fraktion,ORG,0.0,0.0,de,1
+die Grünen,die Grünen,ORG,0.0,0.0,de,1
+Österreich Werbung,Österreich Werbung,ORG,0.0,0.0,de,1
+ÖVP,ÖVP,ORG,1.0,0.0,de,1
+Tem…,Tem…,ORG,0.0,0.0,de,1
+CHIP,CHIP,ORG,0.0,0.0,de,1
+Zentrum der Diskussionen,Zentrum der Diskussionen,ORG,0.0,0.0,de,1
+COP,COP,ORG,0.0,0.0,de,1
+Smarte Heizkörperthermostate,Smarte Heizkörperthermostate,ORG,0.7,0.0,de,1
+Stiftung Warentest: Das,Stiftung Warentest: Das,ORG,0.7,0.0,de,1
 Deutsch…,Deutsch…,ORG,-1.0,0.0,de,1
-BA,BA,ORG,0.0,0.0,de,1
+t3n.de,t3n.de,ORG,0.0,0.0,de,1
+Constellr,Constellr,ORG,-1.0,0.0,de,1
+Union: Ampel,Union: Ampel,ORG,0.0,0.0,de,1
+US-Fa…,US-Fa…,ORG,0.0,0.0,de,1
+Uber-Rivale Lyft,Uber-Rivale Lyft,ORG,-0.7,0.0,de,1
+DSV,DSV,ORG,0.0,0.0,de,1
+Deutschen Skiverbands,Deutschen Skiverbands,ORG,0.0,0.0,de,1
+P…,P…,ORG,0.0,0.0,de,1
+Nachbarschaftshilfe: Mein,Nachbarschaftshilfe: Mein,ORG,0.0,0.0,de,1
+Entlastungspaketen des Bundes,Entlastungspaketen des Bundes,ORG,-0.85,0.0,de,1
+Wi…,Wi…,ORG,0.0,0.0,de,1
+Moskaus,Moskaus,ORG,0.0,0.0,de,1
+Normalpreises!,Normalpreises!,ORG,0.0,0.0,de,1

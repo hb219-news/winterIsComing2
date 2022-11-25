@@ -1,49 +1,59 @@
 ,phrase,label,sentiment,subjectivity,language,count
-…,…,PER,0.0,0.0,de,6
-Energiesparen,Energiesparen,PER,0.0,0.0,de,5
-Corona,Corona,PER,-0.7,0.0,de,2
-Johan Eliasch,Johan Eliasch,PER,0.0,0.0,de,2
-Tierschützer,Tierschützer,PER,0.7,0.0,de,2
-Steigende,Steigende,PER,0.0,0.0,de,1
-Gelue ketpeu,Gelue ketpeu,PER,-1.0,0.0,de,1
-Andreas Wellinger,Andreas Wellinger,PER,0.0,0.0,de,1
+Rainer Münz,Rainer Münz,PER,-0.7,0.0,de,4
+Francesco Friedrich,Francesco Friedrich,PER,0.0,0.0,de,3
+Johan Eliasch,Johan Eliasch,PER,-0.3333333333333333,0.0,de,3
+Marco Odermatt,Marco Odermatt,PER,0.0,0.0,de,3
+Michael Wendler,Michael Wendler,PER,-0.2333333333333333,0.0,de,3
+Olga Saizewa,Olga Saizewa,PER,0.925,0.0,de,2
+Mahsa Amini,Mahsa Amini,PER,1.0,0.0,de,2
+Stephan Leyhe,Stephan Leyhe,PER,0.0,0.0,de,2
+Martin Schmitt,Martin Schmitt,PER,0.7,0.0,de,2
+Laura Müller,Laura Müller,PER,-0.175,0.0,de,2
+Andreas Wellinger,Andreas Wellinger,PER,-0.5,0.0,de,2
+Hanne Horvath,Hanne Horvath,PER,0.0,0.0,de,2
+Olaf Scholz,Olaf Scholz,PER,0.0,0.5,de,2
+Alexander Schmid,Alexander Schmid,PER,0.7,0.0,de,2
+Mike Tindall,Mike Tindall,PER,0.35,0.0,de,2
+Lucia Weihnachtsmarkt,Lucia Weihnachtsmarkt,PER,1.0,0.0,de,1
+Oeekl helueu Fekt enp,Oeekl helueu Fekt enp,PER,-1.0,0.0,de,1
+Inge Hannemann,Inge Hannemann,PER,0.5666666666666667,0.3333333333333333,de,1
+Hubertus Heil,Hubertus Heil,PER,0.5666666666666667,0.3333333333333333,de,1
+Jörg Brunsmann,Jörg Brunsmann,PER,0.0,0.0,de,1
+plelluueu ueek,plelluueu ueek,PER,0.0,0.0,de,1
+Björn Alexander,Björn Alexander,PER,0.0,0.0,de,1
+Münchens Freibäder,Münchens Freibäder,PER,0.0,0.0,de,1
+Gefrierender Regen,Gefrierender Regen,PER,0.7,0.0,de,1
+Euro Ersparnis,Euro Ersparnis,PER,1.0,0.0,de,1
+Topmanager-Trainer Jürn-F,Topmanager-Trainer Jürn-F,PER,0.7,0.0,de,1
+Cvoeftqsåtjefou Gsbol,Cvoeftqsåtjefou Gsbol,PER,0.0,0.0,de,1
+Schönster Weihnachtsmarkt,Schönster Weihnachtsmarkt,PER,0.0,0.0,de,1
+Bernhard Paul,Bernhard Paul,PER,0.0,0.0,de,1
+Nargess Eskandari-Grünberg,Nargess Eskandari-Grünberg,PER,0.0,0.0,de,1
+Simone Borris,Simone Borris,PER,0.0,0.0,de,1
+Sascha Ellinghaus,Sascha Ellinghaus,PER,0.0,0.0,de,1
+Niclas Beiersdorf,Niclas Beiersdorf,PER,0.0,0.0,de,1
+Frank May Saarbrücken,Frank May Saarbrücken,PER,0.0,0.0,de,1
+Franz Julen,Franz Julen,PER,0.0,0.0,de,1
+tbhuf Fmlf Cýefocfoefs- Fifgsbv,tbhuf Fmlf Cýefocfoefs- Fifgsbv,PER,0.0,0.0,de,1
+Vincent Büssow,Vincent Büssow,PER,0.0,0.0,de,1
+Herman Haluschtschenko,Herman Haluschtschenko,PER,0.0,0.0,de,1
+Mikaela Shiffrin,Mikaela Shiffrin,PER,0.0,0.0,de,1
+Robert Smith,Robert Smith,PER,0.0,1.0,de,1
+Franziska Schütze,Franziska Schütze,PER,0.0,0.0,de,1
+Eti Ben Simon,Eti Ben Simon,PER,0.0,0.0,de,1
+Laura Mülle,Laura Mülle,PER,-0.35,0.0,de,1
+Louis Hagen,Louis Hagen,PER,0.7,0.0,de,1
+Karolin Schäfer,Karolin Schäfer,PER,0.0,0.0,de,1
+Tim Vincent Dicke,Tim Vincent Dicke,PER,0.0,0.0,de,1
+Stephan Karrenbauer,Stephan Karrenbauer,PER,0.0,0.0,de,1
+Wilfried Haslauer,Wilfried Haslauer,PER,1.0,0.0,de,1
 Matthew Perry,Matthew Perry,PER,0.0,0.0,de,1
 vel Iea Plepeu pel,vel Iea Plepeu pel,PER,0.0,0.0,de,1
 Vup Oll,Vup Oll,PER,-1.0,0.0,de,1
 Nek upel,Nek upel,PER,-1.0,0.0,de,1
-Lutz Stordel.,Lutz Stordel.,PER,0.0,0.0,de,1
-Kompromiss,Kompromiss,PER,0.0,0.0,de,1
-Vincent Büssow,Vincent Büssow,PER,0.0,0.0,de,1
+Gelue ketpeu,Gelue ketpeu,PER,-1.0,0.0,de,1
+Marcel Suter,Marcel Suter,PER,0.0,0.0,de,1
+Lutz Stordel,Lutz Stordel,PER,0.0,0.0,de,1
 Musstest du,Musstest du,PER,0.0,0.0,de,1
 Pia Klaus,Pia Klaus,PER,0.0,0.0,de,1
-"Marie Mühlenberg
-07.11.2022","Marie Mühlenberg
-07.11.2022",PER,0.0,0.0,de,1
-Wilfried Haslauer,Wilfried Haslauer,PER,1.0,0.0,de,1
-Heizthermostate,Heizthermostate,PER,0.0,0.0,de,1
-Ungemütlich,Ungemütlich,PER,-1.0,0.0,de,1
-"Lucas Maier
-KommentareTeilen
-Die Armee","Lucas Maier
-KommentareTeilen
-Die Armee",PER,0.0,0.0,de,1
-"Karolin Schäfer,","Karolin Schäfer,",PER,0.0,0.0,de,1
-Tim Vincent Dicke,Tim Vincent Dicke,PER,0.0,0.0,de,1
-Olaf Scholz,Olaf Scholz,PER,0.0,0.0,de,1
-Ista,Ista,PER,0.0,0.0,de,1
-Münchens Freibäder,Münchens Freibäder,PER,0.0,0.0,de,1
-Putins,Putins,PER,0.0,0.0,de,1
-"Johan Eliasch,","Johan Eliasch,",PER,-1.0,0.0,de,1
-Mikaela Shiffrin,Mikaela Shiffrin,PER,0.0,0.0,de,1
-Marco Odermatt.,Marco Odermatt.,PER,0.0,0.0,de,1
-Robert Smith,Robert Smith,PER,0.0,1.0,de,1
-Gaspreisbremse,Gaspreisbremse,PER,0.0,0.0,de,1
-Lohnt,Lohnt,PER,0.0,0.0,de,1
-Franziska Schütze.,Franziska Schütze.,PER,0.0,0.0,de,1
-Eti Ben Simon,Eti Ben Simon,PER,0.0,0.0,de,1
-Geliebt,Geliebt,PER,1.0,0.0,de,1
-"Autofreie Sonntage, strengere Tempolimits,","Autofreie Sonntage, strengere Tempolimits,",PER,0.0,0.0,de,1
-Louis Hagen,Louis Hagen,PER,0.7,0.0,de,1
-Sina Schuldt/dpa,Sina Schuldt/dpa,PER,0.7,0.0,de,1
-Energiepauschale,Energiepauschale,PER,0.0,0.0,de,1
-Björn Alexander.,Björn Alexander.,PER,0.0,0.0,de,1
+nan nan,nan nan,PER,0.0,0.0,,1
