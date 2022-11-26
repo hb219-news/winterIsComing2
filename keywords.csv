@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,5,0.9162125732954546
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.9140429490909092
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.8594879799999999
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.8364340162727273
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.8190657815
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.7797580441923077
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.7787081992954545
