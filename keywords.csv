@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.6784495217499998
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.6717785509829545
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.661334135875
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.6307192669883065
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.6268815039249999
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.5361123669400605
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.5332910830912215
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.445930713767875
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.4437053124999999
