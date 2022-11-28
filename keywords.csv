@@ -20,3 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.4634773853904999
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.445930713767875
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.3771495156249999
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1
