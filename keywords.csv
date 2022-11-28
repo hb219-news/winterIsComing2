@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.9162125732954546
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.85
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.7797580441923077
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.7787081992954545
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,4,0.7603896356022726
@@ -20,4 +21,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.4634773853904999
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.445930713767875
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.3771495156249999
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1
