@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.85
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.8359061834786932
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.73165845625
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.7224999999999999
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.696206364275
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.6921918261710226
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.6819473108306817
