@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.6341548475821429
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.6268815039249999
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.5725611400511365
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.5361123669400605
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.49257769720814903
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.492577697208149
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.46519207644450594
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.4634773853904999
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.4582485006275383
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.3793411367026937
