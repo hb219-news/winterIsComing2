@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.6268815039249999
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.6265601528125
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.6239986619064772
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.6141249999999999
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.6118857264788067
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5840666588341071
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.5809689418624431
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.5725611400511365
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.5485873399767457
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.5220062499999999
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.492577697208149
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.4651920764445059
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.3939562275819249
