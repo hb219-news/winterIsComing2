@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5840666588341071
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.5809689418624431
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.5725611400511365
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.5257965835256884
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.5220062499999999
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.492577697208149
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.4651920764445059
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.4609699400877442
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.3939562275819249
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.3077948109717506
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.2746290267676962
