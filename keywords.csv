@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.6784495217499998
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.6719775506769922
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.6717785509829545
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.6671447725634615
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.6265601528125
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.6239986619064772
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.6118857264788067
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.603659406564423
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.5885976200591477
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5840666588341071
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.5809689418624431
