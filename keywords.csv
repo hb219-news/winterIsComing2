@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.6268815039249999
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.6239986619064772
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.6118857264788067
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.603659406564423
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.5885976200591477
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5840666588341071
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.5809689418624431
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.5725611400511365
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.532576549890625
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.5131108855797595
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.492577697208149
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.4651920764445059
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.4609699400877442
