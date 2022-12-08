@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.5809689418624431
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.5805078528809658
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.5725611400511365
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.5661192545230341
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.532576549890625
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5166539738325204
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.5131108855797595
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.492577697208149
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.48615385634457897
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.4651920764445059
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.4609699400877442
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.4437053124999999
