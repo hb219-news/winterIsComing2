@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.5853495676205056
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.5809689418624431
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.5783318004448215
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.563768274705036
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.5370162991998283
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.532576549890625
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.529616623953826
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5166539738325204
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.5131108855797595
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.5114489716154876
