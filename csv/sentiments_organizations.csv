@@ -1,117 +1,127 @@
 ,phrase,label,sentiment,subjectivity,language,count
-FOCUS,FOCUS,ORG,-0.02884615384615386,0.0,de,13
-DWD,DWD,ORG,-0.17499999999999996,0.0,de,8
+FOCUS,FOCUS,ORG,-0.15833333333333333,0.0,de,15
+DWD,DWD,ORG,-0.11666666666666664,0.0,de,12
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.35,0.0,de,8
 EU,EU,ORG,0.4428571428571428,0.0,de,7
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.4666666666666666,0.0,de,6
+WELT,WELT,ORG,0.48999999999999994,0.1,de,5
 SPD,SPD,ORG,0.11333333333333333,0.4666666666666667,de,5
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.27999999999999997,0.0,de,5
 Bundestag,Bundestag,ORG,0.13999999999999999,0.0,de,5
 Gesellschaft unsere Arbeit,Gesellschaft unsere Arbeit,ORG,0.0,0.0,de,4
-WELT,WELT,ORG,0.6124999999999999,0.125,de,4
-FDP,FDP,ORG,0.0,0.5,de,4
 Gewerkschaften,Gewerkschaften,ORG,0.4125,0.20833333333333331,de,4
-Bundes?,Bundes?,ORG,-0.3333333333333333,0.0,de,3
-CDU,CDU,ORG,0.37777777777777777,0.2222222222222222,de,3
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.4666666666666666,0.0,de,3
-HVV,HVV,ORG,0.2333333333333333,0.0,de,3
+FDP,FDP,ORG,0.0,0.5,de,4
+ÖVP,ÖVP,ORG,0.3333333333333333,0.0,de,3
+…,…,ORG,0.0,0.0,de,3
 Berliner Polizei,Berliner Polizei,ORG,-0.11666666666666665,0.0,de,3
-…,…,ORG,0.0,0.0,de,2
+Grüne,Grüne,ORG,0.0,0.3333333333333333,de,3
+Bundes?,Bundes?,ORG,-0.3333333333333333,0.0,de,3
+HVV,HVV,ORG,0.2333333333333333,0.0,de,3
+Heizkostenhilfe,Heizkostenhilfe,ORG,0.6666666666666666,0.0,de,3
+CDU,CDU,ORG,0.37777777777777777,0.2222222222222222,de,3
 Lyft,Lyft,ORG,-0.7,0.0,de,2
-WDR,WDR,ORG,0.0,0.0,de,2
-Zentral- und Landesbibliothek,Zentral- und Landesbibliothek,ORG,0.0,0.0,de,2
+Islamischen Republik,Islamischen Republik,ORG,0.0,0.0,de,2
 Gewerkschaft der Polizei,Gewerkschaft der Polizei,ORG,0.35,0.0,de,2
-STERN,STERN,ORG,0.0,0.0,de,2
-Obdachlosenhilfe,Obdachlosenhilfe,ORG,0.0,0.5,de,2
-Ex-Weltmeister,Ex-Weltmeister,ORG,0.0,0.0,de,2
-Mercedes-SUV,Mercedes-SUV,ORG,0.35,0.0,de,2
+Zentral- und Landesbibliothek,Zentral- und Landesbibliothek,ORG,0.0,0.0,de,2
 Hurra!,Hurra!,ORG,0.0,0.0,de,2
+Berlin: Polizei,Berlin: Polizei,ORG,0.0,0.0,de,2
 erÃ¶ffnet,erÃ¶ffnet,ORG,0.0,0.0,de,2
+Ex-Weltmeister,Ex-Weltmeister,ORG,0.0,0.0,de,2
 Ebersberger Archäologin,Ebersberger Archäologin,ORG,0.0,0.0,de,2
+Märchenweihnachtsmarkt,Märchenweihnachtsmarkt,ORG,0.0,0.0,de,2
+Foto: imago,Foto: imago,ORG,0.0,0.0,de,2
+STERN,STERN,ORG,0.0,0.0,de,2
 Kirche,Kirche,ORG,0.7,0.0,de,2
+Mercedes-SUV,Mercedes-SUV,ORG,0.35,0.0,de,2
 Hamburger Verkehrsverbund,Hamburger Verkehrsverbund,ORG,0.0,0.0,de,2
 Neumarkt!,Neumarkt!,ORG,0.0,0.0,de,2
-Grüne,Grüne,ORG,0.0,0.5,de,2
-Bundesministerium des Inneren,Bundesministerium des Inneren,ORG,0.0,0.0,de,2
 NDR.de,NDR.de,ORG,0.0,0.0,de,2
-Olympia,Olympia,ORG,0.0,0.0,de,2
-EU-Bürger,EU-Bürger,ORG,0.0,0.0,de,2
-WM-Winter,WM-Winter,ORG,1.0,0.0,de,2
+Bundesministerium des Inneren,Bundesministerium des Inneren,ORG,0.0,0.0,de,2
+Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,2
 Energie- und Inflationskrise.,Energie- und Inflationskrise.,ORG,-0.5,0.25,de,2
-Tierparks?,Tierparks?,ORG,0.0,0.0,de,2
-Kommunen,Kommunen,ORG,0.0,0.0,de,2
+WDR,WDR,ORG,0.0,0.0,de,2
+Obdachlosenhilfe,Obdachlosenhilfe,ORG,0.0,0.5,de,2
+Olympia,Olympia,ORG,0.0,0.0,de,2
+ABG Holding,ABG Holding,ORG,0.0,0.0,de,2
 Wintersport-Saison,Wintersport-Saison,ORG,0.7,0.0,de,2
+WM-Winter,WM-Winter,ORG,1.0,0.0,de,2
+Kommunen,Kommunen,ORG,0.0,0.0,de,2
 DDR,DDR,ORG,1.0,0.0,de,2
-Berlin: Polizei,Berlin: Polizei,ORG,0.0,0.0,de,2
-Homeoffice,Homeoffice,ORG,0.0,0.0,de,2
-Truppe: Einpersonenpackungen,Truppe: Einpersonenpackungen,ORG,0.5,0.0,de,2
-Bundeswehr,Bundeswehr,ORG,0.5,0.0,de,2
-Berliner Morgenpost,Berliner Morgenpost,ORG,0.0,0.0,de-DE,2
-Islamischen Republik,Islamischen Republik,ORG,0.0,0.0,de,2
-deutschen Skispringerinnen,deutschen Skispringerinnen,ORG,1.0,0.0,de,2
 Snowboard Germany,Snowboard Germany,ORG,1.0,0.0,de,2
-Potsdam-Institut für Klimafolgenforschung,Potsdam-Institut für Klimafolgenforschung,ORG,0.0,0.0,de,1
-Audi,Audi,ORG,0.0,0.0,de,1
-PIK,PIK,ORG,0.0,0.0,de,1
-Berliner Obdachlosenhilfe:,Berliner Obdachlosenhilfe:,ORG,0.7,0.0,de,1
-SvenSimon München,SvenSimon München,ORG,-1.0,0.0,de,1
-Steirern,Steirern,ORG,0.0,0.0,de,1
-Wintersport-Programm,Wintersport-Programm,ORG,0.0,0.0,de,1
-BA,BA,ORG,0.0,0.0,de,1
-Bundesagentur für Arbeit aus!,Bundesagentur für Arbeit aus!,ORG,0.0,0.0,de,1
-Bundesagentur für Arbeit,Bundesagentur für Arbeit,ORG,0.0,0.0,de,1
-CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1
-Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,1
+Truppe: Einpersonenpackungen,Truppe: Einpersonenpackungen,ORG,0.5,0.0,de,2
+deutschen Skispringerinnen,deutschen Skispringerinnen,ORG,1.0,0.0,de,2
+Bundeswehr,Bundeswehr,ORG,0.5,0.0,de,2
+Apple,Apple,ORG,0.0,0.0,de,2
+Homeoffice,Homeoffice,ORG,0.0,0.0,de,2
+Berliner Morgenpost,Berliner Morgenpost,ORG,0.0,0.0,de-DE,2
+EU-Bürger,EU-Bürger,ORG,0.0,0.0,de,2
+Sat.1,Sat.1,ORG,-1.0,0.0,de,2
+Tierparks?,Tierparks?,ORG,0.0,0.0,de,2
 Roncalli“-Weihnachtsmarkt,Roncalli“-Weihnachtsmarkt,ORG,0.0,0.0,de,1
+Audi,Audi,ORG,0.0,0.0,de,1
+Silvester.,Silvester.,ORG,0.0,0.0,de,1
+Roncalli-Weihnachtsmarkt,Roncalli-Weihnachtsmarkt,ORG,0.0,0.0,de,1
+Meinungsforschungsinstituts Yougov zeigt,Meinungsforschungsinstituts Yougov zeigt,ORG,0.0,0.0,de,1
+Frankfurter Weihnachtsmarkt-Saison,Frankfurter Weihnachtsmarkt-Saison,ORG,0.0,0.0,de,1
+Die Grünen) di…,Die Grünen) di…,ORG,0.0,0.0,de,1
+Deutsche Wetterdiens…,Deutsche Wetterdiens…,ORG,0.0,0.0,de,1
+Bedingtes „Heizschwammerlverbot“,Bedingtes „Heizschwammerlverbot“,ORG,-0.7,0.0,de,1
+Tokio Hotel,Tokio Hotel,ORG,0.0,0.0,de,1
+Sozialdemokrat,Sozialdemokrat,ORG,0.0,0.0,de,1
+RP ONLINE.,RP ONLINE.,ORG,0.0,0.0,de,1
+BA,BA,ORG,0.0,0.0,de,1
+Bundesagentur für Arbeit,Bundesagentur für Arbeit,ORG,0.0,0.0,de,1
+Belgischen Eisenbahn,Belgischen Eisenbahn,ORG,0.0,0.0,de,1
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1
+SNCB,SNCB,ORG,0.0,0.0,de,1
+Bundesagentur für Arbeit aus!,Bundesagentur für Arbeit aus!,ORG,0.0,0.0,de,1
 Grünen Liga,Grünen Liga,ORG,0.0,0.0,de,1
+Lucia-Weihnachtsmarktes,Lucia-Weihnachtsmarktes,ORG,0.0,0.0,de,1
+Mvdjb,Mvdjb,ORG,0.0,0.0,de,1
 Wohnen: Umweltforscher: Wohnfläche,Wohnen: Umweltforscher: Wohnfläche,ORG,0.0,0.0,de,1
 Würzburger Kickers,Würzburger Kickers,ORG,1.0,0.0,de,1
-Olympia-Platz,Olympia-Platz,ORG,-0.5,0.0,de,1
-Energie-Lockdowns,Energie-Lockdowns,ORG,0.0,0.0,de,1
-Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1
-"Uhr
-Essen/DüsseldorfIn","Uhr
-Essen/DüsseldorfIn",ORG,0.0,0.0,de,1
-Bedingtes „Heizschwammerlverbot“,Bedingtes „Heizschwammerlverbot“,ORG,-0.7,0.0,de,1
-Obdachlosenhilfe:,Obdachlosenhilfe:,ORG,0.0,0.0,de,1
-Silvester.,Silvester.,ORG,0.0,0.0,de,1
-Ve…,Ve…,ORG,0.0,0.0,de,1
-Glühweinstand!,Glühweinstand!,ORG,0.7,0.0,de,1
-Atemstillstand!,Atemstillstand!,ORG,0.0,0.0,de,1
-"Foto: Julian Stratenschulte/dpa/Symbolbild
-","Foto: Julian Stratenschulte/dpa/Symbolbild
-",ORG,0.0,0.0,de,1
-Protestlern,Protestlern,ORG,1.0,0.0,de,1
-Nachri…,Nachri…,ORG,0.0,0.0,de,1
-Ukraine.,Ukraine.,ORG,0.0,0.0,de,1
-Kommission,Kommission,ORG,0.0,0.0,de,1
-Normalpreises!,Normalpreises!,ORG,0.0,0.0,de,1
-Foto: imago,Foto: imago,ORG,0.0,0.0,de,1
-Senat,Senat,ORG,-1.0,0.0,de,1
-Video: Vorweihnachtsklassiker,Video: Vorweihnachtsklassiker,ORG,0.0,0.0,de,1
-internationale Gemeinschaft.,internationale Gemeinschaft.,ORG,0.0,0.0,de,1
-Dschungel  …,Dschungel  …,ORG,0.0,0.0,de,1
-Schausteller-Pfarrer,Schausteller-Pfarrer,ORG,0.0,0.0,de,1
-Sachsen-Anhalt),Sachsen-Anhalt),ORG,0.0,0.0,de,1
-Weihnachtsmarkt-Anschlag.,Weihnachtsmarkt-Anschlag.,ORG,-1.0,0.0,de,1
-"Foto: Photodisc/Getty Images) 
-","Foto: Photodisc/Getty Images) 
-",ORG,0.0,0.0,de,1
-Mittwoc…,Mittwoc…,ORG,0.0,0.0,de,1
+Polizei,Polizei,ORG,0.0,0.0,de,1
+Tourismus: Entspannter Start,Tourismus: Entspannter Start,ORG,0.7,0.0,de,1
 Organisatoren,Organisatoren,ORG,0.0,0.0,de,1
-RP ONLINE.,RP ONLINE.,ORG,0.0,0.0,de,1
+Energie-Lockdowns,Energie-Lockdowns,ORG,0.0,0.0,de,1
 Leipzig,Leipzig,ORG,1.0,0.0,de,1
-Tokio Hotel,Tokio Hotel,ORG,0.0,0.0,de,1
 "Lesetipp
 Julia Heitmann","Lesetipp
 Julia Heitmann",ORG,0.0,0.0,de,1
-Deutsche Wetterdiens…,Deutsche Wetterdiens…,ORG,0.0,0.0,de,1
-Die Grünen) di…,Die Grünen) di…,ORG,0.0,0.0,de,1
-Frankfurter Weihnachtsmarkt-Saison,Frankfurter Weihnachtsmarkt-Saison,ORG,0.0,0.0,de,1
-Roncalli-Weihnachtsmarkt,Roncalli-Weihnachtsmarkt,ORG,0.0,0.0,de,1
-Meinungsforschungsinstituts Yougov zeigt,Meinungsforschungsinstituts Yougov zeigt,ORG,0.0,0.0,de,1
+Atemstillstand!,Atemstillstand!,ORG,0.0,0.0,de,1
+Weihnachtsmarkt-Anschlag.,Weihnachtsmarkt-Anschlag.,ORG,-1.0,0.0,de,1
+Glühweinstand!,Glühweinstand!,ORG,0.7,0.0,de,1
+Wintersport-Programm,Wintersport-Programm,ORG,0.0,0.0,de,1
+internationale Gemeinschaft.,internationale Gemeinschaft.,ORG,0.0,0.0,de,1
+Protestlern,Protestlern,ORG,1.0,0.0,de,1
+Berliner Obdachlosenhilfe:,Berliner Obdachlosenhilfe:,ORG,0.7,0.0,de,1
+Potsdam-Institut für Klimafolgenforschung,Potsdam-Institut für Klimafolgenforschung,ORG,0.0,0.0,de,1
+"Foto: Julian Stratenschulte/dpa/Symbolbild
+","Foto: Julian Stratenschulte/dpa/Symbolbild
+",ORG,0.0,0.0,de,1
+Olympia-Platz,Olympia-Platz,ORG,-0.5,0.0,de,1
+Nachri…,Nachri…,ORG,0.0,0.0,de,1
+Ukraine.,Ukraine.,ORG,0.0,0.0,de,1
+PIK,PIK,ORG,0.0,0.0,de,1
+SvenSimon München,SvenSimon München,ORG,-1.0,0.0,de,1
+Kommission,Kommission,ORG,0.0,0.0,de,1
+Normalpreises!,Normalpreises!,ORG,0.0,0.0,de,1
+Senat,Senat,ORG,-1.0,0.0,de,1
+Steirern,Steirern,ORG,0.0,0.0,de,1
+Video: Vorweihnachtsklassiker,Video: Vorweihnachtsklassiker,ORG,0.0,0.0,de,1
+Dschungel  …,Dschungel  …,ORG,0.0,0.0,de,1
+Schausteller-Pfarrer,Schausteller-Pfarrer,ORG,0.0,0.0,de,1
+Sachsen-Anhalt),Sachsen-Anhalt),ORG,0.0,0.0,de,1
+"Foto: Photodisc/Getty Images) 
+","Foto: Photodisc/Getty Images) 
+",ORG,0.0,0.0,de,1
+Arbeiterwohlfahrt,Arbeiterwohlfahrt,ORG,0.0,0.0,de,1
+Mittwoc…,Mittwoc…,ORG,0.0,0.0,de,1
+Ve…,Ve…,ORG,0.0,0.0,de,1
 Deutschen Welle | DW | 29.01.2022.,Deutschen Welle | DW | 29.01.2022.,ORG,0.0,0.0,de,1
-Bü…,Bü…,ORG,0.0,0.0,de,1
-Mini-Jetlag,Mini-Jetlag,ORG,0.0,0.0,de,1
-DIW,DIW,ORG,0.0,0.0,de,1
+Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1
+"Inhaltsverzeichnis
+Elon","Inhaltsverzeichnis
+Elon",ORG,0.0,0.0,de,1
 kabel eins,kabel eins,ORG,0.0,0.0,de,1
 "Lupe
 Soldatinnen","Lupe
@@ -119,70 +129,78 @@ Soldatinnen",ORG,1.0,0.0,de,1
 Gesellschaft gerechter machen.,Gesellschaft gerechter machen.,ORG,-0.15000000000000002,0.0,de,1
 Deutschen Instituts für Wirtschaftsforschung,Deutschen Instituts für Wirtschaftsforschung,ORG,0.0,0.0,de,1
 EU-Entscheidung,EU-Entscheidung,ORG,0.0,0.0,de,1
+Mini-Jetlag,Mini-Jetlag,ORG,0.0,0.0,de,1
 NSO,NSO,ORG,0.0,0.0,de,1
-NRW-Kommunen,NRW-Kommunen,ORG,0.0,0.0,de,1
-"Inhaltsverzeichnis
-Elon","Inhaltsverzeichnis
-Elon",ORG,0.0,0.0,de,1
 Michael Wendler &,Michael Wendler &,ORG,-0.35,0.0,de,1
+"Uhr
+Essen/DüsseldorfIn","Uhr
+Essen/DüsseldorfIn",ORG,0.0,0.0,de,1
 CSU,CSU,ORG,0.0,0.0,de,1
 Moskaus,Moskaus,ORG,0.0,0.0,de,1
 Wi…,Wi…,ORG,0.0,0.0,de,1
 Entlastungspaketen des Bundes,Entlastungspaketen des Bundes,ORG,-0.85,0.0,de,1
-Deutsche Institut für Wirtschaftsforschung,Deutsche Institut für Wirtschaftsforschung,ORG,0.0,0.0,de,1
-The Cure,The Cure,ORG,0.0,0.0,de,1
+Kulturkreis Haimhausen: Kinderchor,Kulturkreis Haimhausen: Kinderchor,ORG,0.0,0.0,de,1
 Nachbarschaftshilfe: Mein,Nachbarschaftshilfe: Mein,ORG,0.0,0.0,de,1
-Foto: Imago,Foto: Imago,ORG,0.0,0.0,de,1
+P…,P…,ORG,0.0,0.0,de,1
+DIW,DIW,ORG,0.0,0.0,de,1
+Deutsche Institut für Wirtschaftsforschung,Deutsche Institut für Wirtschaftsforschung,ORG,0.0,0.0,de,1
+NRW-Kommunen,NRW-Kommunen,ORG,0.0,0.0,de,1
+The Cure,The Cure,ORG,0.0,0.0,de,1
 CO2-Bepreisung,CO2-Bepreisung,ORG,0.0,0.0,de,1
 Smarte Thermostate,Smarte Thermostate,ORG,0.6,0.0,de,1
 WirtschaftsWoche,WirtschaftsWoche,ORG,0.0,0.0,de,1
 Sommerbelag der Zukunft,Sommerbelag der Zukunft,ORG,0.0,0.0,de,1
 Temperat…,Temperat…,ORG,0.0,0.0,de,1
 Gas sparenGas,Gas sparenGas,ORG,1.0,0.0,de,1
+Foto: Imago,Foto: Imago,ORG,0.0,0.0,de,1
 Gassparen ang…,Gassparen ang…,ORG,0.0,0.0,de,1
-A…,A…,ORG,0.0,0.0,de,1
 Energie-Infrastruktur,Energie-Infrastruktur,ORG,1.0,0.0,de,1
 SPIEGEL,SPIEGEL,ORG,0.7,0.0,de,1
 E-Paper,E-Paper,ORG,0.7,0.0,de,1
 INTERVIEW,INTERVIEW,ORG,-1.0,0.0,de,1
 "Weltskiverbandes,","Weltskiverbandes,",ORG,-1.0,0.0,de,1
 Riesenslalom: Schmid rast,Riesenslalom: Schmid rast,ORG,1.0,0.0,de,1
-Kulturkreis Haimhausen: Kinderchor,Kulturkreis Haimhausen: Kinderchor,ORG,0.0,0.0,de,1
-P…,P…,ORG,0.0,0.0,de,1
-Halle​,Halle​,ORG,-0.5,0.0,de,1
-… Energiesparen,… Energiesparen,ORG,0.0,0.0,de,1
-Berliner Grünen-Fraktion,Berliner Grünen-Fraktion,ORG,0.0,0.0,de,1
-Bertelsmann-Stiftung,Bertelsmann-Stiftung,ORG,-0.5,0.0,de,1
-LNG,LNG,ORG,-0.7,0.0,de,1
-CHIP,CHIP,ORG,0.0,0.0,de,1
+A…,A…,ORG,0.0,0.0,de,1
+Deutschen Skiverbands,Deutschen Skiverbands,ORG,0.0,0.0,de,1
+DSV,DSV,ORG,0.0,0.0,de,1
+Uber-Rivale Lyft,Uber-Rivale Lyft,ORG,-0.7,0.0,de,1
+"Foto: dpa)
+Scharm el Scheich","Foto: dpa)
+Scharm el Scheich",ORG,0.7,0.0,de,1
+Alex…,Alex…,ORG,-1.0,0.0,de,1
 ISW,ISW,ORG,0.0,0.0,de,1
 inf…,inf…,ORG,0.0,0.0,de,1
+… Energiesparen,… Energiesparen,ORG,0.0,0.0,de,1
 "Coronavirus: Isolation, Masken, Testen","Coronavirus: Isolation, Masken, Testen",ORG,0.0,0.0,de,1
-die Grünen,die Grünen,ORG,0.0,0.0,de,1
 fa…,fa…,ORG,0.0,0.0,de,1
+CHIP,CHIP,ORG,0.0,0.0,de,1
 FIS,FIS,ORG,0.7,0.0,de,1
 Hell…,Hell…,ORG,0.0,0.0,de,1
 Open Source,Open Source,ORG,0.7,0.0,de,1
 TU Wien,TU Wien,ORG,0.0,0.0,de,1
 Deutschland  n-tv,Deutschland  n-tv,ORG,0.7,0.0,de,1
-Berlins Grünen-Fraktion,Berlins Grünen-Fraktion,ORG,0.0,0.0,de,1
-Österreich Werbung,Österreich Werbung,ORG,0.0,0.0,de,1
-Deutschen Skiverbands,Deutschen Skiverbands,ORG,0.0,0.0,de,1
-Deutsch…,Deutsch…,ORG,-1.0,0.0,de,1
-DSV,DSV,ORG,0.0,0.0,de,1
-Uber-Rivale Lyft,Uber-Rivale Lyft,ORG,-0.7,0.0,de,1
+Halle​,Halle​,ORG,-0.5,0.0,de,1
+Bü…,Bü…,ORG,0.0,0.0,de,1
+Obdachlosenhilfe:,Obdachlosenhilfe:,ORG,0.0,0.0,de,1
+Duisburg,Duisburg,ORG,-1.0,0.0,de,1
+LNG,LNG,ORG,-0.7,0.0,de,1
 US-Fa…,US-Fa…,ORG,0.0,0.0,de,1
+Bertelsmann-Stiftung,Bertelsmann-Stiftung,ORG,-0.5,0.0,de,1
 Union: Ampel,Union: Ampel,ORG,0.0,0.0,de,1
 Constellr,Constellr,ORG,-1.0,0.0,de,1
 t3n.de,t3n.de,ORG,0.0,0.0,de,1
+Deutsch…,Deutsch…,ORG,-1.0,0.0,de,1
 Stiftung Warentest: Das,Stiftung Warentest: Das,ORG,0.7,0.0,de,1
-ÖVP,ÖVP,ORG,1.0,0.0,de,1
 Smarte Heizkörperthermostate,Smarte Heizkörperthermostate,ORG,0.7,0.0,de,1
 WSC Winterberg,WSC Winterberg,ORG,0.0,0.0,de,1
 voe xboo,voe xboo,ORG,0.0,0.0,de,1
 COP,COP,ORG,0.0,0.0,de,1
 Zentrum der Diskussionen,Zentrum der Diskussionen,ORG,0.0,0.0,de,1
 Tem…,Tem…,ORG,0.0,0.0,de,1
-"Foto: dpa)
-Scharm el Scheich","Foto: dpa)
-Scharm el Scheich",ORG,0.7,0.0,de,1
+Österreich Werbung,Österreich Werbung,ORG,0.0,0.0,de,1
+die Grünen,die Grünen,ORG,0.0,0.0,de,1
+Berlins Grünen-Fraktion,Berlins Grünen-Fraktion,ORG,0.0,0.0,de,1
+Berliner Grünen-Fraktion,Berliner Grünen-Fraktion,ORG,0.0,0.0,de,1
+"Zirkuszelt ...
+Seine","Zirkuszelt ...
+Seine",ORG,-1.0,0.0,de,1
