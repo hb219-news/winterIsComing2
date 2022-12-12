@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.5783318004448215
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.5370162991998283
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.529616623953826
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.5166539738325204
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.5131108855797595
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.5114489716154876
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.5052608120502755
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.4861538563445789
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.4670179517618699
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.4620976730858123
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.46030611775764235
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.4149581422564007
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.40036426997783
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.3205770882812498
