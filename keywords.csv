@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.4356322108731645
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.432991048109845
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.4220455449956151
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.4149581422564007
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.40228807666839494
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.4022880766683949
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.4008002299262038
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.40036426997783
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.37584893909975875
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.2929215681779406
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.2724905250390623
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.265826504325988
