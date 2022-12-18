@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.3758489390997587
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.3698425708933682
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.3407601694811554
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.2929215681779406
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.2724905250390623
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.2504834829512495
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.2337347027525417
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.2259534136770898
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0873542191012514
