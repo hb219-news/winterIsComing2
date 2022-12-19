@@ -1,269 +1,325 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,66
+"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,78
 "nan When browsing with ads:
 ","nan When browsing with ads:
-",MISC,,,de,55
-…,…,MISC,-0.3916666666666667,0.16666666666666666,de,50
-deutschen,deutschen,MISC,,,de,12
+",MISC,,,de,67
+…,…,MISC,-0.02777777777777783,0.1111111111111111,de,57
+deutschen,deutschen,MISC,,,de,13
 Frankfurter,Frankfurter,MISC,,,de,9
+Zeit,Zeit,MISC,,,de,9
+Millionen,Millionen,MISC,,,de,8
 "When browsing with ads:
 ","When browsing with ads:
 ",MISC,,,de,8
 Weltcup-Auftakt,Weltcup-Auftakt,MISC,,,de,8
-Millionen,Millionen,MISC,,,de,8
-Weihnachten,Weihnachten,MISC,,,de,7
+Weihnachten,Weihnachten,MISC,0.0,0.0,de,7
 Berliner,Berliner,MISC,,,de,7
-Spotify,Spotify,MISC,,,de,6
+Pandemie,Pandemie,MISC,,,de,7
+Skisaison.,Skisaison.,MISC,0.85,0.0,de,7
 Fußball-WM,Fußball-WM,MISC,,,de,6
-Zeit,Zeit,MISC,,,de,6
-Pandemie,Pandemie,MISC,,,de,6
-Deutschen,Deutschen,MISC,,,de,5
+Spotify,Spotify,MISC,,,de,6
+Freiburger,Freiburger,MISC,,,de,5
 Drohanruf,Drohanruf,MISC,,,de,5
-wohlig-warmes,wohlig-warmes,MISC,,,de,4
-Sparradar,Sparradar,MISC,,,de,4
+Deutschen,Deutschen,MISC,,,de,5
+Wetterlage im Ticker,Wetterlage im Ticker,MISC,,,de,5
 Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,4
-Weihnachtsmarkt-Besuch,Weihnachtsmarkt-Besuch,MISC,,,de,4
-Wetterlage im Ticker,Wetterlage im Ticker,MISC,,,de,4
-polnischen,polnischen,MISC,,,de,4
-WM,WM,MISC,,,de,4
-russischen,russischen,MISC,,,de,4
 deutsche,deutsche,MISC,,,de,4
+wohlig-warmes,wohlig-warmes,MISC,,,de,4
+Leipziger,Leipziger,MISC,,,de,4
 ePaper,ePaper,MISC,,,de,4
-Skisaison.,Skisaison.,MISC,0.7,0.0,de,3
-europäische,europäische,MISC,,,de,3
-Streaming-Primus,Streaming-Primus,MISC,,,de,3
-Weltcup,Weltcup,MISC,,,de,3
-Maut-Vignette,Maut-Vignette,MISC,,,de,3
-Fest,Fest,MISC,,,de,3
-kommende Jahr,kommende Jahr,MISC,,,de,3
-Deutsche,Deutsche,MISC,,,de,3
-Erfurter,Erfurter,MISC,,,de,3
-deutscher,deutscher,MISC,,,de,3
-PLUS-Inhalten,PLUS-Inhalten,MISC,,,de,3
-Eissportzentren,Eissportzentren,MISC,,,de,3
-Ukrainer,Ukrainer,MISC,,,de,3
-Wetterlage im Ticker - Wetterdienst,Wetterlage im Ticker - Wetterdienst,MISC,,,de,3
-Jahr rasan…,Jahr rasan…,MISC,,,de,3
+Weihnachtsmarkt-Besuch,Weihnachtsmarkt-Besuch,MISC,,,de,4
+WM,WM,MISC,,,de,4
+polnischen,polnischen,MISC,,,de,4
+russischen,russischen,MISC,,,de,4
+Sparradar,Sparradar,MISC,,,de,4
 "Print-Magazin
 werbefrei &amp;","Print-Magazin
 werbefrei &amp;",MISC,,,de,3
-84-Jähriger,84-Jähriger,MISC,,,de,3
+Streaming-Primus,Streaming-Primus,MISC,,,de,3
+PLUS-Inhalten,PLUS-Inhalten,MISC,,,de,3
+Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,3
+Jahr rasan…,Jahr rasan…,MISC,,,de,3
+österreichischen,österreichischen,MISC,,,de,3
+Eissportzentren,Eissportzentren,MISC,,,de,3
+russische,russische,MISC,,,de,3
+Weltcup,Weltcup,MISC,,,de,3
 diesem Jahr,diesem Jahr,MISC,,,de,3
-Zehn,Zehn,MISC,,,de,2
-brasilianischen,brasilianischen,MISC,,,de,2
-Weltcups,Weltcups,MISC,,,de,2
-BILD,BILD,MISC,,,de,2
-Weltcup-Saison.,Weltcup-Saison.,MISC,,,de,2
-Was für wen,Was für wen,MISC,,,de,2
-Weihnachtsmarktsaison.,Weihnachtsmarktsaison.,MISC,0.0,0.0,de,2
-WeihnachtsmÃ¤rkte NRW-,WeihnachtsmÃ¤rkte NRW-,MISC,,,de,2
-iPhone 14,iPhone 14,MISC,,,de,2
-Ampel-Koalition,Ampel-Koalition,MISC,,,de,2
-Freiburger,Freiburger,MISC,,,de,2
-Zeit für alle Deutschen.,Zeit für alle Deutschen.,MISC,,,de,2
-Der Winter,Der Winter,MISC,,,de,2
-Notfall: Polizist,Notfall: Polizist,MISC,,,de,2
-Wintersport-Fans,Wintersport-Fans,MISC,,,de,2
-Der Mann,Der Mann,MISC,,,de,2
-30 Jahre lang,30 Jahre lang,MISC,,,de,2
-The Weather Channel,The Weather Channel,MISC,,,de,2
-Hamburger,Hamburger,MISC,,,de,2
-Brauchtum: Leipziger Weihnachtsmarkt,Brauchtum: Leipziger Weihnachtsmarkt,MISC,,,de,2
+Maut-Vignette,Maut-Vignette,MISC,,,de,3
+Fest,Fest,MISC,,,de,3
+deutscher,deutscher,MISC,,,de,3
+84-Jähriger,84-Jähriger,MISC,,,de,3
+europäische,europäische,MISC,,,de,3
+Der Winter,Der Winter,MISC,,,de,3
+Ukrainer,Ukrainer,MISC,,,de,3
+kommende Jahr,kommende Jahr,MISC,,,de,3
+Deutsche,Deutsche,MISC,,,de,3
+Erfurter,Erfurter,MISC,,,de,3
+Wetterlage im Ticker - Wetterdienst,Wetterlage im Ticker - Wetterdienst,MISC,,,de,3
+Mittwochabend für Einsamkeit,Mittwochabend für Einsamkeit,MISC,,,de,2
 Hartz-IV-Ausgaben,Hartz-IV-Ausgaben,MISC,,,de,2
+Ampel-Koalition,Ampel-Koalition,MISC,,,de,2
+Tag:,Tag:,MISC,,,de,2
+Brauchtum: Leipziger Weihnachtsmarkt,Brauchtum: Leipziger Weihnachtsmarkt,MISC,,,de,2
+Vierschanzentournee der Skispringer für diesen Winter,Vierschanzentournee der Skispringer für diesen Winter,MISC,,,de,2
+brasilianischen,brasilianischen,MISC,,,de,2
+Notfall: Polizist,Notfall: Polizist,MISC,,,de,2
+Skigebietssprecher,Skigebietssprecher,MISC,,,de,2
+Zeit für alle Deutschen.,Zeit für alle Deutschen.,MISC,,,de,2
+Weltcups,Weltcups,MISC,,,de,2
+Skilifte.,Skilifte.,MISC,,,de,2
+30 Jahre lang,30 Jahre lang,MISC,,,de,2
+Leipziger Tatortreiniger,Leipziger Tatortreiniger,MISC,,,de,2
+Zehn,Zehn,MISC,,,de,2
+PolizeibehÃ¶rden,PolizeibehÃ¶rden,MISC,,,de,2
+Herbst.,Herbst.,MISC,,,de,2
 "SPIEGEL
 </li><li>","SPIEGEL
 </li><li>",MISC,,,de,2
-Neuschnee.,Neuschnee.,MISC,0.0,0.0,de,2
-Vierschanzentournee der Skispringer für diesen Winter,Vierschanzentournee der Skispringer für diesen Winter,MISC,,,de,2
-Münchner,Münchner,MISC,,,de,2
-WeihnachtsmÃ¤rkte,WeihnachtsmÃ¤rkte,MISC,,,de,2
-StÃ¤nde,StÃ¤nde,MISC,,,de,2
-Zeit der milden Temperaturen,Zeit der milden Temperaturen,MISC,,,de,2
-Herbst.,Herbst.,MISC,,,de,2
+"Hessen, Sachsen, das Sauerland","Hessen, Sachsen, das Sauerland",MISC,,,de,2
 Wetter,Wetter,MISC,,,de,2
 "NACHRICHTEN
 ","NACHRICHTEN
 ",MISC,,,de,2
-Di…,Di…,MISC,,,de,2
-"Cordoba, die Einsamkeit der Verfolgten, Enzensberger und die Zivilreligion des Regenbogens.","Cordoba, die Einsamkeit der Verfolgten, Enzensberger und die Zivilreligion des Regenbogens.",MISC,,,de,2
-Speed-Auftakt,Speed-Auftakt,MISC,,,de,2
-alpinen Skisaison,alpinen Skisaison,MISC,,,de,2
-Die Temperaturen,Die Temperaturen,MISC,,,de,2
-iranischen,iranischen,MISC,,,de,2
-Leipziger,Leipziger,MISC,,,de,2
-US-amerikanische,US-amerikanische,MISC,,,de,2
+"Die Stimme Berlins
+</li><li>","Die Stimme Berlins
+</li><li>",MISC,,,de,2
+Die Stimme Berlins.,Die Stimme Berlins.,MISC,,,de,2
+iPhone 14,iPhone 14,MISC,,,de,2
+Was für wen,Was für wen,MISC,,,de,2
+The Weather Channel,The Weather Channel,MISC,,,de,2
+Gut einen Monat,Gut einen Monat,MISC,,,de,2
 Dezember-Abschlag.,Dezember-Abschlag.,MISC,,,de,2
-Skisprung-Auftakt,Skisprung-Auftakt,MISC,,,de,2
-Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,2
-Euro,Euro,MISC,,,de,2
-französischen,französischen,MISC,,,de,2
-Zweierbob-Weltcup,Zweierbob-Weltcup,MISC,,,de,2
-"Gas, Strom, Holz, Öl","Gas, Strom, Holz, Öl",MISC,,,de,2
-Nacht auf Sonntag,Nacht auf Sonntag,MISC,,,de,2
-Heute Nacht,Heute Nacht,MISC,,,de,2
-Kalicki vor Nolte.,Kalicki vor Nolte.,MISC,,,de,2
+StÃ¤nde,StÃ¤nde,MISC,,,de,2
+Wintersport-Fans,Wintersport-Fans,MISC,,,de,2
+WeihnachtsmÃ¤rkte,WeihnachtsmÃ¤rkte,MISC,,,de,2
+Die Temperaturen,Die Temperaturen,MISC,,,de,2
 norwegischen,norwegischen,MISC,,,de,2
+Kalicki vor Nolte.,Kalicki vor Nolte.,MISC,,,de,2
+Zweierbob-Weltcup,Zweierbob-Weltcup,MISC,,,de,2
+französischen,französischen,MISC,,,de,2
+Tourismus: Skisaison am Feldberg,Tourismus: Skisaison am Feldberg,MISC,,,de,2
+Weihnachtsmarktsaison.,Weihnachtsmarktsaison.,MISC,0.0,0.0,de,2
+Münchner,Münchner,MISC,,,de,2
+WeihnachtsmÃ¤rkte NRW-,WeihnachtsmÃ¤rkte NRW-,MISC,,,de,2
+Hamburger,Hamburger,MISC,,,de,2
+Weltcup-Saison.,Weltcup-Saison.,MISC,,,de,2
+Heute Nacht,Heute Nacht,MISC,,,de,2
+Kontaktbeschränkungen,Kontaktbeschränkungen,MISC,,,de,2
+alpinen Skisaison,alpinen Skisaison,MISC,,,de,2
+Speed-Auftakt,Speed-Auftakt,MISC,,,de,2
+18 Jahre alter Fahranfänger,18 Jahre alter Fahranfänger,MISC,,,de,2
+Der Mann,Der Mann,MISC,,,de,2
+Zeit der milden Temperaturen,Zeit der milden Temperaturen,MISC,,,de,2
+Nacht auf Sonntag,Nacht auf Sonntag,MISC,,,de,2
+Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,2
+Dieses Jahr,Dieses Jahr,MISC,,,de,2
+Du fühlst dich,Du fühlst dich,MISC,,,de,2
+BILD,BILD,MISC,,,de,2
+"Cordoba, die Einsamkeit der Verfolgten, Enzensberger und die Zivilreligion des Regenbogens.","Cordoba, die Einsamkeit der Verfolgten, Enzensberger und die Zivilreligion des Regenbogens.",MISC,,,de,2
+Di…,Di…,MISC,,,de,2
+"Gas, Strom, Holz, Öl","Gas, Strom, Holz, Öl",MISC,,,de,2
+Ukrainekrieg,Ukrainekrieg,MISC,,,de,2
+TV-Star Stefan Mross,TV-Star Stefan Mross,MISC,,,de,2
+Der Eisregen am Mittwoch,Der Eisregen am Mittwoch,MISC,,,de,2
+Blitzeis!,Blitzeis!,MISC,,,de,2
 "When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,2
-Ukrainekrieg,Ukrainekrieg,MISC,,,de,2
-Skilifte.,Skilifte.,MISC,,,de,2
-DÃ¼sseldorfer,DÃ¼sseldorfer,MISC,0.0,0.0,de,2
-TV-Star Stefan Mross,TV-Star Stefan Mross,MISC,,,de,2
-russische,russische,MISC,,,de,2
+Die Nacht im Überblick,Die Nacht im Überblick,MISC,,,de,2
+US-amerikanische,US-amerikanische,MISC,,,de,2
+russischer,russischer,MISC,,,de,2
+Neuschnee.,Neuschnee.,MISC,0.0,0.0,de,2
+Euro,Euro,MISC,,,de,2
+Skisprung-Auftakt,Skisprung-Auftakt,MISC,,,de,2
+iranischen,iranischen,MISC,,,de,2
+Tages,Tages,MISC,,,de,2
 DSV-Athlet,DSV-Athlet,MISC,,,de,2
-Gut einen Monat,Gut einen Monat,MISC,,,de,2
-18 Jahre alter Fahranfänger,18 Jahre alter Fahranfänger,MISC,,,de,2
-PolizeibehÃ¶rden,PolizeibehÃ¶rden,MISC,,,de,2
-Dieses Jahr,Dieses Jahr,MISC,,,de,2
-Tag:,Tag:,MISC,,,de,2
-Skigebietssprecher,Skigebietssprecher,MISC,,,de,2
-MÃ¼nâ€¦,MÃ¼nâ€¦,MISC,,,de,1
-DAS DOPPELTE,DAS DOPPELTE,MISC,,,de,1
+DÃ¼sseldorfer,DÃ¼sseldorfer,MISC,0.0,0.0,de,2
+"Krieg, Klimakrise","Krieg, Klimakrise",MISC,,,de,1
 Wintersport-Saison.,Wintersport-Saison.,MISC,,,de,1
-F…,F…,MISC,,,de,1
-Dezem…,Dezem…,MISC,,,de,1
 Inflationsopfer?,Inflationsopfer?,MISC,,,de,1
-Striezelmarkt,Striezelmarkt,MISC,,,de,1
-Gr…,Gr…,MISC,,,de,1
-"Ehrenamtliche, die ältere Menschen an Heiligabend","Ehrenamtliche, die ältere Menschen an Heiligabend",MISC,,,de,1
-BILD verrä…,BILD verrä…,MISC,,,de,1
-Wâ€¦,Wâ€¦,MISC,,,de,1
-Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,1
-Kältesaison hältBerlin,Kältesaison hältBerlin,MISC,,,de,1
-"Kriegs: ""Unmöglich, so zu","Kriegs: ""Unmöglich, so zu",MISC,,,de,1
 steirische,steirische,MISC,,,de,1
 Freitag.,Freitag.,MISC,,,de,1
-Der kalte Novemberwind,Der kalte Novemberwind,MISC,,,de,1
-Wien Citytrip,Wien Citytrip,MISC,,,de,1
-Sekretâ€¦,Sekretâ€¦,MISC,,,de,1
-Novemberwind,Novemberwind,MISC,,,de,1
-Weihnachtsartikel aus Holz:,Weihnachtsartikel aus Holz:,MISC,,,de,1
-britischen,britischen,MISC,,,de,1
-fÃ¼hrtâ€¦,fÃ¼hrtâ€¦,MISC,,,de,1
-Regionalverband.,Regionalverband.,MISC,,,de,1
-Weihnachtsmarkt-Outfit,Weihnachtsmarkt-Outfit,MISC,,,de,1
-… Am Wochenende,… Am Wochenende,MISC,,,de,1
-Das perfekte Weihnachtsmarkt-Outfit.,Das perfekte Weihnachtsmarkt-Outfit.,MISC,,,de,1
-Lily,Lily,MISC,,,de,1
-Vorfreude,Vorfreude,MISC,,,de,1
-Märchengasse,Märchengasse,MISC,,,de,1
-Anschlags vor sechs Jahren auf dem Weihnachtsmarkt,Anschlags vor sechs Jahren auf dem Weihnachtsmarkt,MISC,,,de,1
-Gebrannte Mandeln,Gebrannte Mandeln,MISC,,,de,1
-Hessische,Hessische,MISC,,,de,1
-Alterseinsamkeit.,Alterseinsamkeit.,MISC,,,de,1
-Stars in der Manege,Stars in der Manege,MISC,,,de,1
-Auto rast,Auto rast,MISC,,,de,1
-Willing…,Willing…,MISC,,,de,1
-Düsseldorfer,Düsseldorfer,MISC,,,de,1
-jtu,jtu,MISC,,,de,1
-Kö-Unfall.,Kö-Unfall.,MISC,,,de,1
-Düsseldorf: Zwei Schwerverletzte bei Unfall auf der,Düsseldorf: Zwei Schwerverletzte bei Unfall auf der,MISC,,,de,1
-finnischen,finnischen,MISC,,,de,1
-Ko…,Ko…,MISC,,,de,1
-Blackout,Blackout,MISC,,,de,1
-"Düsseldorf
-</li><li>","Düsseldorf
-</li><li>",MISC,,,de,1
-Brauchtum: Fliegender Weihnachtsmann,Brauchtum: Fliegender Weihnachtsmann,MISC,,,de,1
-Winter Promo Ticket,Winter Promo Ticket,MISC,,,de,1
-Silvester?,Silvester?,MISC,,,de,1
-Oberstdor…,Oberstdor…,MISC,,,de,1
-Ein anhaltender Tiefdruckeinfluss,Ein anhaltender Tiefdruckeinfluss,MISC,,,de,1
-Inklusion: Ein Weihnachtsmarkt,Inklusion: Ein Weihnachtsmarkt,MISC,,,de,1
-Ein fliegender Weihnachtsmann,Ein fliegender Weihnachtsmann,MISC,,,de,1
-Prix Goncourt.,Prix Goncourt.,MISC,,,de,1
-Unterföhring: Eine,Unterföhring: Eine,MISC,,,de,1
-Aug…,Aug…,MISC,,,de,1
-"Fußball-WM: ""Waren","Fußball-WM: ""Waren",MISC,,,de,1
-Obdachlosen-Verein,Obdachlosen-Verein,MISC,,,de,1
-"Die stillen Trabanten"" des Leipziger Regiss…","Die stillen Trabanten"" des Leipziger Regiss…",MISC,,,de,1
-Inflationsopfer Wintersport?,Inflationsopfer Wintersport?,MISC,,,de,1
-S…,S…,MISC,,,de,1
-"Krieg, Klimakrise","Krieg, Klimakrise",MISC,,,de,1
-Apple Watch,Apple Watch,MISC,,,de,1
-Tag verteilt abregnen.,Tag verteilt abregnen.,MISC,,,de,1
-Die geheimste Erinnerung des Menschen,Die geheimste Erinnerung des Menschen,MISC,,,de,1
-Deutsch,Deutsch,MISC,,,de,1
-Weiterlesen),Weiterlesen),MISC,,,de,1
-iPhone-,iPhone-,MISC,,,de,1
-Wetter: Kälte und Glätte,Wetter: Kälte und Glätte,MISC,,,de,1
-Apple-Watch-Modelle,Apple-Watch-Modelle,MISC,,,de,1
-Inflation.,Inflation.,MISC,,,de,1
-senegalesische,senegalesische,MISC,,,de,1
-Die Skisaison,Die Skisaison,MISC,,,de,1
-Zürcher,Zürcher,MISC,,,de,1
-diesem Jahr markant,diesem Jahr markant,MISC,,,de,1
-sozialen,sozialen,MISC,,,de,1
-Bundeswirtschaftsminister.,Bundeswirtschaftsminister.,MISC,,,de,1
-Um Abwicklung,Um Abwicklung,MISC,,,de,1
-Foxconn-Angestellten,Foxconn-Angestellten,MISC,,,de,1
-Feiertags-Wochenende.,Feiertags-Wochenende.,MISC,,,de,1
-iPhone-14-Geräten,iPhone-14-Geräten,MISC,,,de,1
-T…,T…,MISC,,,de,1
-Das kalte Wetter,Das kalte Wetter,MISC,,,de,1
-C…,C…,MISC,,,de,1
-Große Augen am Glühweinstand!,Große Augen am Glühweinstand!,MISC,,,de,1
-Mann,Mann,MISC,,,de,1
 Graues und wechselhaftes Wetter,Graues und wechselhaftes Wetter,MISC,,,de,1
-Wintersportwochen von Schulen.,Wintersportwochen von Schulen.,MISC,,,de,1
-Verleihgebühren,Verleihgebühren,MISC,,,de,1
-iPhones.,iPhones.,MISC,,,de,1
-Gâ€¦,Gâ€¦,MISC,,,de,1
-"RegionalÂ Â BILD
-</li><li>","RegionalÂ Â BILD
-</li><li>",MISC,,,de,1
-österreichische,österreichische,MISC,,,de,1
-europäischer,europäischer,MISC,,,de,1
-europäischen,europäischen,MISC,,,de,1
-Russland,Russland,MISC,0.0,0.0,de,1
-Politik-Magazin Foreign…,Politik-Magazin Foreign…,MISC,,,de,1
-ukrainischen,ukrainischen,MISC,,,de,1
-Ein Pfeil,Ein Pfeil,MISC,,,de,1
-Proteste im Iran,Proteste im Iran,MISC,,,de,1
-China.,China.,MISC,,,de,1
-Videos,Videos,MISC,,,de,1
+Kältesaison hältBerlin,Kältesaison hältBerlin,MISC,,,de,1
+"Kriegs: ""Unmöglich, so zu","Kriegs: ""Unmöglich, so zu",MISC,,,de,1
+iPhone-,iPhone-,MISC,,,de,1
+Inflationsopfer Wintersport?,Inflationsopfer Wintersport?,MISC,,,de,1
+BILD verrä…,BILD verrä…,MISC,,,de,1
+Apple-Watch-Modelle,Apple-Watch-Modelle,MISC,,,de,1
+DAS DOPPELTE,DAS DOPPELTE,MISC,,,de,1
+Ein fliegender Weihnachtsmann,Ein fliegender Weihnachtsmann,MISC,,,de,1
+Apple Watch,Apple Watch,MISC,,,de,1
+Brauchtum: Fliegender Weihnachtsmann,Brauchtum: Fliegender Weihnachtsmann,MISC,,,de,1
+S…,S…,MISC,,,de,1
+Weiterlesen),Weiterlesen),MISC,,,de,1
+Unterföhring: Eine,Unterföhring: Eine,MISC,,,de,1
+Novemberwind,Novemberwind,MISC,,,de,1
+"Biathlon  sport.de
+</li><li>Weltcup-Start: Biathlon","Biathlon  sport.de
+</li><li>Weltcup-Start: Biathlon",MISC,,,de,1
 Ein Mann,Ein Mann,MISC,,,de,1
 AirTag,AirTag,MISC,,,de,1
-Kartoffelpuffer-Königin,Kartoffelpuffer-Königin,MISC,,,de,1
-To…,To…,MISC,,,de,1
-"Regen, Dunkelheit und Kälte","Regen, Dunkelheit und Kälte",MISC,,,de,1
+Inflation.,Inflation.,MISC,,,de,1
+Proteste im Iran,Proteste im Iran,MISC,,,de,1
+Ein Pfeil,Ein Pfeil,MISC,,,de,1
+ukrainischen,ukrainischen,MISC,,,de,1
+Russland,Russland,MISC,0.0,0.0,de,1
+europäischen,europäischen,MISC,,,de,1
 "Star News
 </li><li>Promis","Star News
 </li><li>Promis",MISC,,,de,1
 Ein Süßigkeiten-Stand erregt,Ein Süßigkeiten-Stand erregt,MISC,,,de,1
 Umstrittene Regel-Revolution,Umstrittene Regel-Revolution,MISC,,,de,1
-"Biathlon  sport.de
-</li><li>Weltcup-Start: Biathlon","Biathlon  sport.de
-</li><li>Weltcup-Start: Biathlon",MISC,,,de,1
 Biathlon-Auftakt,Biathlon-Auftakt,MISC,,,de,1
-Dynafit.,Dynafit.,MISC,,,de,1
-Weihnachtsmarktbesucher,Weihnachtsmarktbesucher,MISC,,,de,1
+"Die stillen Trabanten"" des Leipziger Regiss…","Die stillen Trabanten"" des Leipziger Regiss…",MISC,,,de,1
+europäischer,europäischer,MISC,,,de,1
+Mann,Mann,MISC,,,de,1
+Große Augen am Glühweinstand!,Große Augen am Glühweinstand!,MISC,,,de,1
+Der kalte Novemberwind,Der kalte Novemberwind,MISC,,,de,1
+C…,C…,MISC,,,de,1
+Videos,Videos,MISC,,,de,1
+Aug…,Aug…,MISC,,,de,1
+"Fußball-WM: ""Waren","Fußball-WM: ""Waren",MISC,,,de,1
+Obdachlosen-Verein,Obdachlosen-Verein,MISC,,,de,1
+Verleihgebühren,Verleihgebühren,MISC,,,de,1
+Wintersportwochen von Schulen.,Wintersportwochen von Schulen.,MISC,,,de,1
+Kartoffelpuffer-Königin,Kartoffelpuffer-Königin,MISC,,,de,1
 Business,Business,MISC,,,de-DE,1
-Weihnachtsmarktbesucher kalt!,Weihnachtsmarktbesucher kalt!,MISC,,,de,1
-Weihnachtszeit,Weihnachtszeit,MISC,,,de,1
+Zürcher,Zürcher,MISC,,,de,1
+Deutschland: »Kalt,Deutschland: »Kalt,MISC,,,de,1
+Autounfall bei Glatteis:,Autounfall bei Glatteis:,MISC,,,de,1
+HIlfsfonds,HIlfsfonds,MISC,,,de,1
+Badische Neue…,Badische Neue…,MISC,,,de,1
+"BILD
+","BILD
+",MISC,,,de,1
+Wo morgen Eisregen droht  B.Z.,Wo morgen Eisregen droht  B.Z.,MISC,,,de,1
+Wo morgen Eisregen,Wo morgen Eisregen,MISC,,,de,1
+Moâ€¦,Moâ€¦,MISC,,,de,1
+"SPIEGEL
+</li><li>Wetter","SPIEGEL
+</li><li>Wetter",MISC,,,de,1
+"Bus, Telefon, Schlafstellen","Bus, Telefon, Schlafstellen",MISC,,,de,1
+Blackout,Blackout,MISC,,,de,1
+Caritas-Kältetelefon,Caritas-Kältetelefon,MISC,,,de,1
+… Am Wochenende,… Am Wochenende,MISC,,,de,1
+Anschlags vor sechs Jahren auf dem Weihnachtsmarkt,Anschlags vor sechs Jahren auf dem Weihnachtsmarkt,MISC,,,de,1
+Stars in der Manege,Stars in der Manege,MISC,,,de,1
+Zwischen den zerscho…,Zwischen den zerscho…,MISC,,,de,1
+russischen Invasion,russischen Invasion,MISC,,,de,1
+fÃ¼hrtâ€¦,fÃ¼hrtâ€¦,MISC,,,de,1
+jtu,jtu,MISC,,,de,1
+Deutschland erleb…,Deutschland erleb…,MISC,,,de,1
+Fortbewegung auf Glatteis:,Fortbewegung auf Glatteis:,MISC,,,de,1
+"BILD
+</li><li>","BILD
+</li><li>",MISC,,,de,1
+Wetterlage,Wetterlage,MISC,,,de,1
+Mittwochabend die Lifte,Mittwochabend die Lifte,MISC,,,de,1
+Gute Nachrichten,Gute Nachrichten,MISC,,,de,1
+Glatteisunfällen.,Glatteisunfällen.,MISC,,,de,1
+Rutschgefahr auf den Straßen,Rutschgefahr auf den Straßen,MISC,,,de,1
+Deutscher Wetterdienst: Erneut Glatteis,Deutscher Wetterdienst: Erneut Glatteis,MISC,,,de,1
+hessischen,hessischen,MISC,,,de,1
+Große Freude und Erleichterung,Große Freude und Erleichterung,MISC,,,de,1
+Stuttgarter,Stuttgarter,MISC,,,de,1
+"Monat
+<ul><li>","Monat
+<ul><li>",MISC,,,de,1
+"Anmelden
+-Artikel","Anmelden
+-Artikel",MISC,,,de,1
+Süddeutsche Zeitung,Süddeutsche Zeitung,MISC,,,de,1
+Blitzeis,Blitzeis,MISC,0.0,0.0,de,1
+Zwei Stunden am Tag,Zwei Stunden am Tag,MISC,,,de,1
+soziale,soziale,MISC,,,de,1
+Obdachlosenhilfe: Feuer und Glühwein:,Obdachlosenhilfe: Feuer und Glühwein:,MISC,,,de,1
+Proble…,Proble…,MISC,,,de,1
+Glatteisgefahr,Glatteisgefahr,MISC,,,de,1
+finnischen,finnischen,MISC,,,de,1
+Viktor But,Viktor But,MISC,,,de,1
+diesem Jahr markant,diesem Jahr markant,MISC,,,de,1
+senegalesische,senegalesische,MISC,,,de,1
+To…,To…,MISC,,,de,1
+"Regen, Dunkelheit und Kälte","Regen, Dunkelheit und Kälte",MISC,,,de,1
+Dynafit.,Dynafit.,MISC,,,de,1
+Das kalte Wetter,Das kalte Wetter,MISC,,,de,1
+Tag verteilt abregnen.,Tag verteilt abregnen.,MISC,,,de,1
+Die geheimste Erinnerung des Menschen,Die geheimste Erinnerung des Menschen,MISC,,,de,1
+Deutsch,Deutsch,MISC,,,de,1
+Prix Goncourt.,Prix Goncourt.,MISC,,,de,1
+Die Skisaison,Die Skisaison,MISC,,,de,1
+Weihnachtsartikel aus Holz:,Weihnachtsartikel aus Holz:,MISC,,,de,1
+Bundeswirtschaftsminister.,Bundeswirtschaftsminister.,MISC,,,de,1
+Um Abwicklung,Um Abwicklung,MISC,,,de,1
+Foxconn-Angestellten,Foxconn-Angestellten,MISC,,,de,1
+iPhone-14-Geräten,iPhone-14-Geräten,MISC,,,de,1
+iPhones.,iPhones.,MISC,,,de,1
+T…,T…,MISC,,,de,1
+Feiertags-Wochenende.,Feiertags-Wochenende.,MISC,,,de,1
+sozialen,sozialen,MISC,,,de,1
+China.,China.,MISC,,,de,1
+Politik-Magazin Foreign…,Politik-Magazin Foreign…,MISC,,,de,1
+österreichische,österreichische,MISC,,,de,1
+"RegionalÂ Â BILD
+</li><li>","RegionalÂ Â BILD
+</li><li>",MISC,,,de,1
+Winter Promo Ticket,Winter Promo Ticket,MISC,,,de,1
+Silvester?,Silvester?,MISC,,,de,1
+Willing…,Willing…,MISC,,,de,1
+Gr…,Gr…,MISC,,,de,1
+Skigebiete: Saisonstart,Skigebiete: Saisonstart,MISC,,,de,1
+Wâ€¦,Wâ€¦,MISC,,,de,1
+Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,1
+Wien Citytrip,Wien Citytrip,MISC,,,de,1
+"Ehrenamtliche, die ältere Menschen an Heiligabend","Ehrenamtliche, die ältere Menschen an Heiligabend",MISC,,,de,1
+Weltcup-Start,Weltcup-Start,MISC,,,de,1
+ZDF.,ZDF.,MISC,,,de,1
+Biathlon-Weltcup,Biathlon-Weltcup,MISC,,,de,1
+Sekretâ€¦,Sekretâ€¦,MISC,,,de,1
+MÃ¼nâ€¦,MÃ¼nâ€¦,MISC,,,de,1
+Ein anhaltender Tiefdruckeinfluss,Ein anhaltender Tiefdruckeinfluss,MISC,,,de,1
+Wetter: Kälte und Glätte,Wetter: Kälte und Glätte,MISC,,,de,1
+Gâ€¦,Gâ€¦,MISC,,,de,1
+Inklusion: Ein Weihnachtsmarkt,Inklusion: Ein Weihnachtsmarkt,MISC,,,de,1
+Messer-Opfer,Messer-Opfer,MISC,,,de,1
+Striezelmarkt,Striezelmarkt,MISC,,,de,1
 Heidelberg Materials,Heidelberg Materials,MISC,,,de,1
+Kalter Herbst [premium],Kalter Herbst [premium],MISC,,,de,1
+Thermo-Hygrometer k…,Thermo-Hygrometer k…,MISC,,,de,1
+Smarte Heizkörperthermostat…,Smarte Heizkörperthermostat…,MISC,,,de,1
+Die Kosten fürs Heizen,Die Kosten fürs Heizen,MISC,,,de,1
+chinesischer,chinesischer,MISC,,,de,1
+cfmjfcufo Xfjiâ€¦ [+3357 chars],cfmjfcufo Xfjiâ€¦ [+3357 chars],MISC,,,de,1
+Staâ€¦,Staâ€¦,MISC,,,de,1
+Wintersport: Romantik,Wintersport: Romantik,MISC,,,de,1
 Vorjahresniveau.,Vorjahresniveau.,MISC,,,de,1
+Weltcup-Winter.,Weltcup-Winter.,MISC,,,de,1
 PekOeleeu,PekOeleeu,MISC,,,de,1
 PekOeleeu Oelue,PekOeleeu Oelue,MISC,,,de,1
 "Hi, ich heiße Matthew","Hi, ich heiße Matthew",MISC,,,de,1
 no…,no…,MISC,,,de,1
 Fest der Freude,Fest der Freude,MISC,,,de,1
+Weihnachtszeit,Weihnachtszeit,MISC,,,de,1
 McKinsey-Studie,McKinsey-Studie,MISC,,,de,1
-Staâ€¦,Staâ€¦,MISC,,,de,1
 Weihnachtsmar…,Weihnachtsmar…,MISC,,,de,1
-Eislauf-Saison.,Eislauf-Saison.,MISC,,,de,1
+Who's Who,Who's Who,MISC,,,de,1
+Schanzentisch,Schanzentisch,MISC,,,de,1
 Vierfacher Start,Vierfacher Start,MISC,,,de,1
-Pandemie der Einsamkeit [premium].,Pandemie der Einsamkeit [premium].,MISC,,,de,1
-BAföG,BAföG,MISC,,,de,1
-Sparm…,Sparm…,MISC,,,de,1
-bayerisch-österreichischen Grenze im Schnitt,bayerisch-österreichischen Grenze im Schnitt,MISC,,,de,1
-Wintersport: Romantik,Wintersport: Romantik,MISC,,,de,1
-cfmjfcufo Xfjiâ€¦ [+3357 chars],cfmjfcufo Xfjiâ€¦ [+3357 chars],MISC,,,de,1
-Glühwein-Preise?,Glühwein-Preise?,MISC,,,de,1
-WELT-Reporter,WELT-Reporter,MISC,,,de,1
+LNG-Terminal,LNG-Terminal,MISC,,,de,1
+Neue Tee- und Wärmestube,Neue Tee- und Wärmestube,MISC,,,de,1
+Pariser Bataclan,Pariser Bataclan,MISC,,,de,1
+n-tv,n-tv,MISC,,,de,1
+\u00fcberall.,\u00fcberall.,MISC,,,de,1
+ukrainischer Armee,ukrainischer Armee,MISC,,,de,1
+Liveticker: +++ 05:44 ISW,Liveticker: +++ 05:44 ISW,MISC,,,de,1
+Der hallesche Weihnachtsmarkt,Der hallesche Weihnachtsmarkt,MISC,,,de,1
+SpanienDer,SpanienDer,MISC,,,de,1
+LNG-Boom,LNG-Boom,MISC,,,de,1
+Gletscherunglück: Skisaison,Gletscherunglück: Skisaison,MISC,,,de,1
 W…,W…,MISC,,,de,1
 Brasilien: Streit,Brasilien: Streit,MISC,,,de,1
 AusfÃ¤llen der,AusfÃ¤llen der,MISC,,,de,1
@@ -271,28 +327,22 @@ AusfÃ¤llen der,AusfÃ¤llen der,MISC,,,de,1
 CO₂-Preis.,CO₂-Preis.,MISC,,,de,1
 Ein paar Schwünge,Ein paar Schwünge,MISC,,,de,1
 Doppel-WM,Doppel-WM,MISC,,,de,1
-Gletscherunglück: Skisaison,Gletscherunglück: Skisaison,MISC,,,de,1
-chinesischer,chinesischer,MISC,,,de,1
-Schanzentisch,Schanzentisch,MISC,,,de,1
-Weltcup-Winter.,Weltcup-Winter.,MISC,,,de,1
-Who's Who,Who's Who,MISC,,,de,1
-Kalter Herbst [premium],Kalter Herbst [premium],MISC,,,de,1
-Thermo-Hygrometer k…,Thermo-Hygrometer k…,MISC,,,de,1
-Smarte Heizkörperthermostat…,Smarte Heizkörperthermostat…,MISC,,,de,1
-Die Kosten fürs Heizen,Die Kosten fürs Heizen,MISC,,,de,1
-Der wärmste Oktober,Der wärmste Oktober,MISC,,,de,1
-Offensivfähigkeit,Offensivfähigkeit,MISC,,,de,1
-Twitter-Hetzer?,Twitter-Hetzer?,MISC,,,de,1
-Energiekrise: Wie Bioenergiedörfer,Energiekrise: Wie Bioenergiedörfer,MISC,,,de,1
+WELT-Reporter,WELT-Reporter,MISC,,,de,1
+Eislauf-Saison.,Eislauf-Saison.,MISC,,,de,1
+Pandemie der Einsamkeit [premium].,Pandemie der Einsamkeit [premium].,MISC,,,de,1
+Dezem…,Dezem…,MISC,,,de,1
+Steigen draußen,Steigen draußen,MISC,,,de,1
+Angriff auf ukrainische Energienetze: »Dies,Angriff auf ukrainische Energienetze: »Dies,MISC,,,de,1
+Bundesnetzagentur zufo…,Bundesnetzagentur zufo…,MISC,,,de,1
 INTERVIEW,INTERVIEW,MISC,,,de,1
 Lässt,Lässt,MISC,,,de,1
 Papier-Trick.,Papier-Trick.,MISC,,,de,1
 Heizkosten-Explosion: Selbstexperiment: Wie übersteht man kalte Tage ohne Heizung?,Heizkosten-Explosion: Selbstexperiment: Wie übersteht man kalte Tage ohne Heizung?,MISC,,,de,1
 FOCUS online…,FOCUS online…,MISC,,,de,1
 "Steigen draußen die Temperaturen, laufen","Steigen draußen die Temperaturen, laufen",MISC,,,de,1
-Steigen draußen,Steigen draußen,MISC,,,de,1
+Energiekrise: Wie Bioenergiedörfer,Energiekrise: Wie Bioenergiedörfer,MISC,,,de,1
+Umfrage: Mehrheit der sozialen,Umfrage: Mehrheit der sozialen,MISC,,,de,1
 Tausende Euro,Tausende Euro,MISC,,,de,1
-"Die Stunde, die uns glücklich","Die Stunde, die uns glücklich",MISC,,,de,1
 Hohe Heizkosten: Wie man den Winter auf den Kanaren,Hohe Heizkosten: Wie man den Winter auf den Kanaren,MISC,,,de,1
 Teuer-Schock,Teuer-Schock,MISC,,,de,1
 Urlaub,Urlaub,MISC,,,de,1
@@ -300,15 +350,20 @@ Flucht vor Heizkosten,Flucht vor Heizkosten,MISC,,,de,1
 Deutsche über Inflation: „Ich traue mich,Deutsche über Inflation: „Ich traue mich,MISC,,,de,1
 Hunderte Euro im Jahr,Hunderte Euro im Jahr,MISC,,,de,1
 Energiepreisexplosion,Energiepreisexplosion,MISC,,,de,1
-Bundesnetzagentur zufo…,Bundesnetzagentur zufo…,MISC,,,de,1
-Angriff auf ukrainische Energienetze: »Dies,Angriff auf ukrainische Energienetze: »Dies,MISC,,,de,1
 Hohe Energiekosten:,Hohe Energiekosten:,MISC,,,de,1
-Umfrage: Mehrheit der sozialen,Umfrage: Mehrheit der sozialen,MISC,,,de,1
+Soziale,Soziale,MISC,,,de,1
+BAföG,BAföG,MISC,,,de,1
+Warten,Warten,MISC,,,de,1
+Sparm…,Sparm…,MISC,,,de,1
+bayerisch-österreichischen Grenze im Schnitt,bayerisch-österreichischen Grenze im Schnitt,MISC,,,de,1
+Der wärmste Oktober,Der wärmste Oktober,MISC,,,de,1
+Offensivfähigkeit,Offensivfähigkeit,MISC,,,de,1
+Twitter-Hetzer?,Twitter-Hetzer?,MISC,,,de,1
+"Die Stunde, die uns glücklich","Die Stunde, die uns glücklich",MISC,,,de,1
 fürs Leben,fürs Leben,MISC,,,de,1
 Twitter,Twitter,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
-Warten,Warten,MISC,,,de,1
 EU-weite Einigung,EU-weite Einigung,MISC,,,de,1
+Schweizer,Schweizer,MISC,,,de,1
 Homeoffice.,Homeoffice.,MISC,,,de,1
 Pandemiejahren 2020,Pandemiejahren 2020,MISC,,,de,1
 Armee,Armee,MISC,,,de,1
@@ -317,82 +372,58 @@ Wecker-Apps,Wecker-Apps,MISC,,,de,1
 Gaspreisbremse,Gaspreisbremse,MISC,,,de,1
 Marx-Halle,Marx-Halle,MISC,,,de,1
 DER STANDARD.,DER STANDARD.,MISC,,,de,1
-Schweizer,Schweizer,MISC,,,de,1
-Soziale,Soziale,MISC,,,de,1
-LNG-Boom,LNG-Boom,MISC,,,de,1
-LNG-Terminal,LNG-Terminal,MISC,,,de,1
-SpanienDer,SpanienDer,MISC,,,de,1
-Friedhofbesucher…,Friedhofbesucher…,MISC,,,de,1
-Hartz-IV-Haushalten,Hartz-IV-Haushalten,MISC,,,de,1
-Advent 2022,Advent 2022,MISC,,,de,1
-Winter  Süddeutsche Zeitung,Winter  Süddeutsche Zeitung,MISC,,,de,1
-Wetter Berlin: Woche,Wetter Berlin: Woche,MISC,,,de,1
-Wetter in,Wetter in,MISC,,,de,1
-Notstand,Notstand,MISC,,,de,1
-Energiepreise: Wie Deutschlands Nachbarn,Energiepreise: Wie Deutschlands Nachbarn,MISC,,,de,1
-WDR-Wetterredaktion,WDR-Wetterredaktion,MISC,,,de,1
-Insg…,Insg…,MISC,,,de,1
-Gestohlenes Christkind,Gestohlenes Christkind,MISC,,,de,1
-| Nachrichten,| Nachrichten,MISC,,,de,1
-Wetter NRW: Schnee,Wetter NRW: Schnee,MISC,,,de,1
-Android App,Android App,MISC,,,de,1
-Regen Radar,Regen Radar,MISC,,,de,1
-Wetter App,Wetter App,MISC,,,de,1
-Wintereinbruch am Wochenende: Das,Wintereinbruch am Wochenende: Das,MISC,,,de,1
-"Nachrichten  NDR.de
-</li><li>Wetter","Nachrichten  NDR.de
-</li><li>Wetter",MISC,,,de,1
-Fußball-WM: Public,Fußball-WM: Public,MISC,,,de,1
-Weltcup-Rennen,Weltcup-Rennen,MISC,,,de,1
-Gänsehaut und Glücksgefühle,Gänsehaut und Glücksgefühle,MISC,,,de,1
-Zeit im Jahr,Zeit im Jahr,MISC,,,de,1
+Mehr Platz für,Mehr Platz für,MISC,,,de,1
+Bob-Pilot,Bob-Pilot,MISC,,,de,1
+Bel Plel pep penlpekeu Vlulelpoullp,Bel Plel pep penlpekeu Vlulelpoullp,MISC,,,de,1
+Ein Unbekannter,Ein Unbekannter,MISC,,,de,1
 Bewerbungsgespräch …,Bewerbungsgespräch …,MISC,,,de,1
 Tageslicht.,Tageslicht.,MISC,,,de,1
 Das grausige Tötungsdelikt an einer Frau,Das grausige Tötungsdelikt an einer Frau,MISC,,,de,1
-Messer-Opfer,Messer-Opfer,MISC,,,de,1
+Energiepreise: Wie Deutschlands Nachbarn,Energiepreise: Wie Deutschlands Nachbarn,MISC,,,de,1
 CO2-Preises,CO2-Preises,MISC,,,de,1
 CO2-Preis,CO2-Preis,MISC,,,de,1
 Krüppel-Fichten,Krüppel-Fichten,MISC,,,de,1
 Lichte Weihnacht,Lichte Weihnacht,MISC,,,de,1
-Ein Unbekannter,Ein Unbekannter,MISC,,,de,1
 Regen aus der Nacht,Regen aus der Nacht,MISC,,,de,1
+Glühwein-Preise?,Glühwein-Preise?,MISC,,,de,1
 Auftrag des Sportbekleidungshersteller…,Auftrag des Sportbekleidungshersteller…,MISC,,,de,1
 Gletscherskigebiete,Gletscherskigebiete,MISC,,,de,1
 Herr Weihnachtsbaum?,Herr Weihnachtsbaum?,MISC,,,de,1
 Weihnachtsbaum-Kritiker,Weihnachtsbaum-Kritiker,MISC,,,de,1
-Bahnhofsmissionen.,Bahnhofsmissionen.,MISC,,,de,1
-Hartz IV,Hartz IV,MISC,,,de,1
-Der hallesche Weihnachtsmarkt,Der hallesche Weihnachtsmarkt,MISC,,,de,1
-Bel Plel pep penlpekeu Vlulelpoullp,Bel Plel pep penlpekeu Vlulelpoullp,MISC,,,de,1
-"Advent und Archäologie: ""Der Becher","Advent und Archäologie: ""Der Becher",MISC,,,de,1
-niederösterreichische,niederösterreichische,MISC,,,de,1
-sozialer,sozialer,MISC,,,de,1
-Buntes: Pittiplatsch-Kindertasse,Buntes: Pittiplatsch-Kindertasse,MISC,,,de,1
-Umfrage: Frauen,Umfrage: Frauen,MISC,,,de,1
-IeeO,IeeO,MISC,,,de,1
+Gänsehaut und Glücksgefühle,Gänsehaut und Glücksgefühle,MISC,,,de,1
+Weltcup-Rennen,Weltcup-Rennen,MISC,,,de,1
+Fußball-WM: Public,Fußball-WM: Public,MISC,,,de,1
+"Nachrichten  NDR.de
+</li><li>Wetter","Nachrichten  NDR.de
+</li><li>Wetter",MISC,,,de,1
+Zeit im Jahr,Zeit im Jahr,MISC,,,de,1
+Weihnachtsmarktbesucher kalt!,Weihnachtsmarktbesucher kalt!,MISC,,,de,1
 peu Plkteleu klelenteupe,peu Plkteleu klelenteupe,MISC,,,de,1
-Bob-Pilot,Bob-Pilot,MISC,,,de,1
-Lokalrunde: Ein Weihnachtsmarkt,Lokalrunde: Ein Weihnachtsmarkt,MISC,,,de,1
-Mehr Platz für,Mehr Platz für,MISC,,,de,1
-Neue Tee- und Wärmestube,Neue Tee- und Wärmestube,MISC,,,de,1
-Pariser Bataclan,Pariser Bataclan,MISC,,,de,1
-n-tv,n-tv,MISC,,,de,1
-\u00fcberall.,\u00fcberall.,MISC,,,de,1
-ukrainischer Armee,ukrainischer Armee,MISC,,,de,1
-Liveticker: +++ 05:44 ISW,Liveticker: +++ 05:44 ISW,MISC,,,de,1
-Gletscher-Express,Gletscher-Express,MISC,,,de,1
-Alpen-Überquerung,Alpen-Überquerung,MISC,,,de,1
-Die Schneewurst kommt!,Die Schneewurst kommt!,MISC,,,de,1
-Im letzten Jahr,Im letzten Jahr,MISC,,,de,1
-Vorüber…,Vorüber…,MISC,,,de,1
-Wochenende.,Wochenende.,MISC,0.0,0.0,de,1
-Auftrag der E-Control.,Auftrag der E-Control.,MISC,,,de,1
-"Die Stimme Berlins
-</li><li>","Die Stimme Berlins
+Auto rast,Auto rast,MISC,,,de,1
+F…,F…,MISC,,,de,1
+britischen,britischen,MISC,,,de,1
+Oberstdor…,Oberstdor…,MISC,,,de,1
+"Düsseldorf
+</li><li>","Düsseldorf
 </li><li>",MISC,,,de,1
-Die Stimme Berlins.,Die Stimme Berlins.,MISC,,,de,1
-Informatio…,Informatio…,MISC,,,de,1
-Skript,Skript,MISC,,,de,1
+Ko…,Ko…,MISC,,,de,1
+Düsseldorf: Zwei Schwerverletzte bei Unfall auf der,Düsseldorf: Zwei Schwerverletzte bei Unfall auf der,MISC,,,de,1
+Kö-Unfall.,Kö-Unfall.,MISC,,,de,1
+Düsseldorfer,Düsseldorfer,MISC,,,de,1
+Alterseinsamkeit.,Alterseinsamkeit.,MISC,,,de,1
+Weihnachtsmarktbesucher,Weihnachtsmarktbesucher,MISC,,,de,1
+Hessische,Hessische,MISC,,,de,1
+Gebrannte Mandeln,Gebrannte Mandeln,MISC,,,de,1
+Märchengasse,Märchengasse,MISC,,,de,1
+Vorfreude,Vorfreude,MISC,,,de,1
+Lily,Lily,MISC,,,de,1
+Das perfekte Weihnachtsmarkt-Outfit.,Das perfekte Weihnachtsmarkt-Outfit.,MISC,,,de,1
+Weihnachtsmarkt-Outfit,Weihnachtsmarkt-Outfit,MISC,,,de,1
+Regionalverband.,Regionalverband.,MISC,,,de,1
+Hartz-IV-Haushalten,Hartz-IV-Haushalten,MISC,,,de,1
+Advent 2022,Advent 2022,MISC,,,de,1
+Winter  Süddeutsche Zeitung,Winter  Süddeutsche Zeitung,MISC,,,de,1
+Im letzten Jahr,Im letzten Jahr,MISC,,,de,1
 LLVM.,LLVM.,MISC,,,de,1
 GNU,GNU,MISC,,,de,1
 Mold,Mold,MISC,,,de,1
@@ -401,4 +432,35 @@ HelloBetter-Gründerin,HelloBetter-Gründerin,MISC,,,de,1
 vier Jahre her,vier Jahre her,MISC,,,de,1
 alpine Ski-Weltcup,alpine Ski-Weltcup,MISC,,,de,1
 KOMMENTAR,KOMMENTAR,MISC,,,de,1
+Die Schneewurst kommt!,Die Schneewurst kommt!,MISC,,,de,1
+Wetter Berlin: Woche,Wetter Berlin: Woche,MISC,,,de,1
+Alpen-Überquerung,Alpen-Überquerung,MISC,,,de,1
+Gletscher-Express,Gletscher-Express,MISC,,,de,1
+"Advent und Archäologie: ""Der Becher","Advent und Archäologie: ""Der Becher",MISC,,,de,1
+niederösterreichische,niederösterreichische,MISC,,,de,1
+sozialer,sozialer,MISC,,,de,1
+Buntes: Pittiplatsch-Kindertasse,Buntes: Pittiplatsch-Kindertasse,MISC,,,de,1
+Umfrage: Frauen,Umfrage: Frauen,MISC,,,de,1
+IeeO,IeeO,MISC,,,de,1
+Skript,Skript,MISC,,,de,1
+Informatio…,Informatio…,MISC,,,de,1
+Auftrag der E-Control.,Auftrag der E-Control.,MISC,,,de,1
+Wochenende.,Wochenende.,MISC,0.0,0.0,de,1
+Wetter in,Wetter in,MISC,,,de,1
+Notstand,Notstand,MISC,,,de,1
 Chaos auf den Straßen.,Chaos auf den Straßen.,MISC,,,de,1
+Friedhofbesucher…,Friedhofbesucher…,MISC,,,de,1
+WDR-Wetterredaktion,WDR-Wetterredaktion,MISC,,,de,1
+Gestohlenes Christkind,Gestohlenes Christkind,MISC,,,de,1
+| Nachrichten,| Nachrichten,MISC,,,de,1
+Wetter NRW: Schnee,Wetter NRW: Schnee,MISC,,,de,1
+Android App,Android App,MISC,,,de,1
+Regen Radar,Regen Radar,MISC,,,de,1
+Wetter App,Wetter App,MISC,,,de,1
+Wintereinbruch am Wochenende: Das,Wintereinbruch am Wochenende: Das,MISC,,,de,1
+Bahnhofsmissionen.,Bahnhofsmissionen.,MISC,,,de,1
+Insg…,Insg…,MISC,,,de,1
+Hartz IV,Hartz IV,MISC,,,de,1
+Lokalrunde: Ein Weihnachtsmarkt,Lokalrunde: Ein Weihnachtsmarkt,MISC,,,de,1
+Vorüber…,Vorüber…,MISC,,,de,1
+Sonnenhang …,Sonnenhang …,MISC,,,de,1
