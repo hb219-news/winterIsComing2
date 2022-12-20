@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.3930603800939959
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.3883046759088565
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.3758489390997587
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.3729034177100005
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.3698425708933682
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.3409732087631778
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.2945967140589821
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.2724905250390623
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.2504834829512495
