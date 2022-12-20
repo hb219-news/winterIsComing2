@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.4009138851475483
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.3971157689975894
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.3930603800939959
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.3883046759088565
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.3758489390997587
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.3698425708933682
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.3409732087631778
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.33020948452252796
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.2945967140589821
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.2337347027525417
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.2316169462832029
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.2259534136770898
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.21441111050856207
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.214411110508562
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0873542191012514
