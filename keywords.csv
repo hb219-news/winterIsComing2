@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.59586959640064
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.475333661151825
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.4377975317840243
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.4305637289142188
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.42716865516086944
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.4220455449956151
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.4206358831862309
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.411997391306417
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.2132689789332186
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.1968744043407224
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.1837495939322777
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.045599448334722514
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0455994483347225
