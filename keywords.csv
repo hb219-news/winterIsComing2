@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.4718793416161018
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.4680474518867389
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.4377975317840243
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.4271686551608694
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.411997391306417
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.3971157689975894
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.3930603800939959
