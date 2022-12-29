@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.3302094845225279
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.3123063988772726
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.3082370700520062
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2860553523520374
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.24614734949923178
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.226550284953069
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1850295020932358
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.1642203358529046
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.13553435911607062
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.1355343591160706
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.1209054935657461
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0329456014218369
