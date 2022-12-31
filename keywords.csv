@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.3373183189685107
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.3302094845225279
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.3082370700520062
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.29547449885075827
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2797888184005204
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.2511537590231445
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2461473494992317
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.226550284953069
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1850295020932358
