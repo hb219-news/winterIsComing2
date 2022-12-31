@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.4333271126464137
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.42115835789577566
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.4211583578957756
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.3930603800939959
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.3891126377589041
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.3758489390997587
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.3596937321559089
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.3596388032462728
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.35387915027688666
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.3473293919881688
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.3446621404429608
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.3424988986479509
