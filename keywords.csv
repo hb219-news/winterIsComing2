@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2461473494992317
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1975184322101086
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.1895248693700283
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1622262917792504
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.12086941465372356
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.15647988164872648
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.1208694146537235
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.11625431024866
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.1029196845308842
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0202327174731855
