@@ -10,14 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.3036982825335242
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.3021560760069064
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.287744000367912
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2797888184005204
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.2669646069993446
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.2648381425750505
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2461473494992317
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.23782144064044233
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1975184322101086
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.1895248693700283
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1564798816487264
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.11625431024866
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.10393912245566497
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.1039391224556649
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.1029196845308842
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0202327174731855
