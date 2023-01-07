@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.2669646069993446
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.2648381425750505
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2461473494992317
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.23782144064044233
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1975184322101086
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.2378214406404423
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.1895248693700283
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.17179155237859228
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1564798816487264
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.11625431024866
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.1039391224556649
