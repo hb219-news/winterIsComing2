@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.2408107596775247
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.2378214406404423
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.2290206209494429
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.1895248693700283
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1717915523785922
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.16604667896452405
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1564798816487264
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.11625431024866
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0896983890873151
