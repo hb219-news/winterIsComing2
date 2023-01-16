@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.3125218497325261
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2615073714768059
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2502704206786697
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.24679117773317172
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.25859206848596017
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2467911777331717
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.2463825803127252
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2461473494992317
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.2408107596775247
