@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.28423625090901083
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.2842362509090108
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2615073714768059
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2467911777331717
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.2463825803127252
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.2461473494992317
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.2408107596775247
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.2379136854948592
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.2318700331125744
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.2290206209494429
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2285916253804711
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.224756408213066
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.2223784074061171
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.22081727130699397
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2164766038992146
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1977038957893353
