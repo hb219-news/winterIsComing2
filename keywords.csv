@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.2208172713069939
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2164766038992146
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1977038957893353
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1717915523785922
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.168048641420935
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.166046678964524
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.100616343711361
