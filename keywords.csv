@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1717915523785922
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.166046678964524
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.14599166020779475
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1459916602077947
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0896983890873151
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0868740271546568
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.07774378072421784
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0394390219385241
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0171978098522076
