@@ -8,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.2290206209494429
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2285916253804711
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.224756408213066
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.2223784074061171
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.2208172713069939
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2164766038992146
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.2020452131456882
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.18962170629519956
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1717915523785922
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.166046678964524
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1459916602077947
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0868740271546568
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0777437807242178
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.03367318364774549
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0336731836477454
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0171978098522076
