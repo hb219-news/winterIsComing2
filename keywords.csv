@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2164766038992146
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2083452756643095
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.204246037707762
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.2020452131456882
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978081770677906
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1896217062951995
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.18124065071928952
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1481240195218033
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1459916602077947
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
