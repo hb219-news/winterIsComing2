@@ -3,16 +3,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2547045216836121
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.2535102524589623
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.2352592233981119
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2232670542538333
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2210859190232176
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.2208172713069939
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2164766038992146
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.20964566249506864
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2083452756643095
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.204246037707762
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978081770677906
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1812406507192895
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.16207854035091956
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1620785403509195
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1481240195218033
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1459916602077947
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
