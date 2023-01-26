@@ -2,14 +2,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2623602293401612
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.2535102524589623
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.2337919190964945
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2210859190232176
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.2208172713069939
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2201490134424622
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2096456624950686
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2083452756643095
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.204246037707762
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978081770677906
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.18913911595059038
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1891391159505903
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1840057283143324
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1812406507192895
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1620785403509195
