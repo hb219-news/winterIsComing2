@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.2535102524589623
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.2337919190964945
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.22795860993913697
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.2208172713069939
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2201490134424622
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.21235359708463
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2096456624950686
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2083452756643095
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.204246037707762
