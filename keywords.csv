@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2096456624950686
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2083452756643095
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.204246037707762
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.20117075051700198
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2011707505170019
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978130360104739
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1978081770677906
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1945439116128446
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1891391159505903
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1840057283143324
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1812406507192895
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1703147848709179
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1620785403509195
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1481240195218033
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1459916602077947
