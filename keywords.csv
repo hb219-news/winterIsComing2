@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1459916602077947
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.1075575673690883
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.08962763357324732
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0896276335732473
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0754930880814582
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0287722211005835
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0105616049754869
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.008977364229163865
