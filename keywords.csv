@@ -3,19 +3,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.2025320243243249
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2011707505170019
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1926507018290195
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1919189734220894
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1911356234055721
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1840057283143324
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1730924156089028
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1703147848709179
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.169037535507622
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.168084097408776
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.159011543111396
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1481240195218033
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1351265145099588
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.11848938415353927
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.096374727263725
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0896276335732473
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0656692748692394
