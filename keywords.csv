@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.159011543111396
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1481240195218033
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.13851683429828157
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1379589494014174
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1351265145099588
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.11848938415353927
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.096374727263725
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0896276335732473
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0656692748692394
