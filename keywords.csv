@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.3178099614086598
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.2025320243243249
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.2011707505170019
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1926507018290195
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1911356234055721
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.18503906203036072
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1840057283143324
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1730924156089028
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1703147848709179
