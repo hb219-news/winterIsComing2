@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1703147848709179
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.169037535507622
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.168084097408776
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.16375356155466658
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1637535615546665
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.159011543111396
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0896276335732473
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0656692748692394
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0180556538708957
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0064861456555708
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.00551322380723518
