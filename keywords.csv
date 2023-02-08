@@ -10,14 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1604729250409923
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.14895465007432468
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1489546500743246
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1446625711901411
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1399473006844419
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1351265145099588
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0926836385372602
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0763896279480412
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.06988218875583502
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0503713435930253
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0153473057902613
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0046862402361498
