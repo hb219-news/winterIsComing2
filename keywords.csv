@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1912552290671825
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1730924156089028
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1713269918167156
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1703147848709179
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.169037535507622
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.168084097408776
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1637535615546665
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1604729250409923
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.15426533168573472
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1489546500743246
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1351265145099588
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0926836385372602
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.06988218875583502
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.069882188755835
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0503713435930253
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0153473057902613
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0046862402361498
