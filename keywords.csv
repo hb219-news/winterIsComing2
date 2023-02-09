@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1604729250409923
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1542653316857347
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.15058070304420826
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1505807030442082
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1489546500743246
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1446625711901411
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1399473006844419
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.12792073051161992
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1148578373334649
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0926836385372602
