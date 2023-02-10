@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1730924156089028
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.169037535507622
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.168084097408776
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1637535615546665
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1604729250409923
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1542653316857347
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.15351841167630523
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1489546500743246
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1329464025875769
