@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1912552290671825
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1730924156089028
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.169037535507622
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.16600606097927778
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.16862598855757072
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1660060609792777
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1604729250409923
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1542653316857347
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1535184116763052
