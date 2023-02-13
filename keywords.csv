@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1279207305116199
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1148166575399638
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1007794767334451
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.08566287022342833
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0837317527566711
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0639008054424597
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.04062371874596077
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0406237187459607
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0153473057902613
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0046862402361498
