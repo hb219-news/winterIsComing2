@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.2338282526747472
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1912552290671825
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.169037535507622
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.16878497455965877
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1687849745596587
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1636190285580017
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.16256725970710512
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1542653316857347
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.154170546652687
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1520800532675673
