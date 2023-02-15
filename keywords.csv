@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.2338282526747472
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1625672597071051
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.15553434483590317
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1542653316857347
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1520800532675673
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1489546500743246
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1484198083757099
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1469827301814787
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
