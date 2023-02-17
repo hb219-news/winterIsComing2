@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1446832152739351
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1410324557510393
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1407268342743014
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.13882659813457504
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.138826598134575
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1356550816648079
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1355459096547839
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1329464025875769
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1304910999248594
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1279207305116199
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1208184241331562
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1154263693939399
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1148166575399638
