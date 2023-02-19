@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.1148166575399638
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1145177949361305
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0856628702234283
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0729726648431704
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.06697744011669483
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0638120541715452
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0340820793098835
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.013045209921722103
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0130452099217221
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0046862402361498
