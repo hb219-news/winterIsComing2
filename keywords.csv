@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1338012718429299
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1329464025875769
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1292862506542569
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.12793179798284482
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1279317979828448
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1279207305116199
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1208184241331562
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0638120541715452
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0340820793098835
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0130452099217221
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0046862402361498
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.00398330420072733
