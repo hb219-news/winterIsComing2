@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1421814829181124
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1410324557510393
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.140622921478329
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1356550816648079
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1292862506542569
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1279317979828448
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1279207305116199
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.12580481548039554
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1208184241331562
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1178715575613213
