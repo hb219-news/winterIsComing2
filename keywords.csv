@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1454054050373515
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1421814829181124
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1410324557510393
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.140622921478329
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1356550816648079
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0638120541715452
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0340820793098835
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0130452099217221
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.003385808570618205
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0033858085706182
