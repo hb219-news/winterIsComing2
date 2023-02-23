@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1381173168929433
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1356270809066863
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1338012718429299
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1329464025875769
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1292862506542569
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1258048154803955
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1227838523763271
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1225023267448949
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1208184241331562
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.12025968441508672
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1202596844150867
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.1184893841535392
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1178715575613213
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1161292156515155
