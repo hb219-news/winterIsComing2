@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.1145177949361305
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1136892059348769
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1118846481583361
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.11037565220197137
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1103756522019713
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1075740170301258
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.105416874519878
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1020499820653273
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0806462373571847
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.076113769689914
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.050559142127191
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.040201381387553
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.03912181917942005
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0295828568013907
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0094251641684441
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0028779372850254
