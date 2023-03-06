@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1075740170301258
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1026959905131827
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1020499820653273
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.10106156129923685
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1010615612992368
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1003599983037881
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0987698593716756
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0896046583418962
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.08440492046592425
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0806462373571847
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.076113769689914
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.050559142127191
