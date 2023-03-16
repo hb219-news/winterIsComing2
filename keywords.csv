@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.1015905350446453
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.1007849388464373
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1003608449705167
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.09510243093458567
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0951024309345856
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0935381244756069
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0844049204659242
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0806462373571847
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0560423928509628
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.050559142127191
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0317542122040948
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0215159264063058
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.01828898744535993
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0049199946032036
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0010854126530462
