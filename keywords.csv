@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2257137746090855
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1478066012697871
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.14278302340679352
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1303473144721814
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.12346577989577448
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.1077846749867913
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.1048000466520199
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.1041989362266682
