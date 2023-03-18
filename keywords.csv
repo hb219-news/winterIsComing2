@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0806462373571847
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0795076308042658
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0560423928509628
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.050559142127191
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.04297579580811235
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0317542122040948
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0182889874453599
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0049199946032036
