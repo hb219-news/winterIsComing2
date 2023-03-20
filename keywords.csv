@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2257137746090855
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.21953546614499542
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1384750250286269
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1250432572583302
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.1048000466520199
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.0980658703381225
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0951024309345856
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0933444399746969
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.09251706373877261
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0925170637387726
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0912537957402756
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0844049204659242
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0806462373571847
