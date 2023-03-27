@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1519376721832969
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.14318970044671145
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1163350820510931
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1129859259522119
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.0980658703381225
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0533562015801696
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0429757958081123
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0393302647826501
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.017249196929272514
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0172491969292725
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0035546961008145
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0007842106418258
