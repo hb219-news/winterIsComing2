@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0912537957402756
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,3,0.0883070997874041
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0844049204659242
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0800362396764775
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0786511719560843
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0669282225848205
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,1,0.0640806827137393
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0588767932403304
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0533562015801696
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0429757958081123
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0393302647826501
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0169120423898816
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00218302774291264
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0021830277429126
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0007842106418258
