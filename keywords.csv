@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0933444399746969
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0916282201669311
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0912537957402756
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0902249338588613
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0901891438258864
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0825636253197562
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0786511719560843
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.07594536425428083
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.07669162878003209
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0759453642542808
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0717446023960355
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0692309237250058
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0639527975963994
