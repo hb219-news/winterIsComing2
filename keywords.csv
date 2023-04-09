@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.10457926855542155
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.12180601166949609
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1045792685554215
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1030914215478804
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0985694816442159
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0946953591833644
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0933444399746969
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0912537957402756
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0901891438258864
