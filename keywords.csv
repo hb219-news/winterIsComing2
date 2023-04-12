@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0641716430106766
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0639527975963994
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0600464051662549
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0600009317033578
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0570390041970974
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.05490118194785413
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0456861876986338
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0286132853346449
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0176194906266894
