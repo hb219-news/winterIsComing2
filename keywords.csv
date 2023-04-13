@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0549011819478541
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0456861876986338
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0243217275344481
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.024573858404280887
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0176194906266894
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0015772375442543
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.00040936285634951997
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0004093628563495
