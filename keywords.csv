@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0847201157812919
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0825636253197562
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0818379524726275
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.08161215225200344
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0816121522520034
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0786511719560843
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.07438324356753279
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0683309938491285
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0641716430106766
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0639527975963994
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0600464051662549
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0570390041970974
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0549011819478541
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0456861876986338
