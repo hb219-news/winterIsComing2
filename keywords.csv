@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.112076753429453
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0911532889607368
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0779070183844328
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0751533769417977
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0743832435675327
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0743216494142028
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0742364142656197
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0742305970876381
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.06718070040052805
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0670349297840091
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0641716430106766
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.06400296346475401
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.064002963464754
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0607330047395851
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0580818247717592
