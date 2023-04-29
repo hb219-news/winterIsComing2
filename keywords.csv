@@ -2,10 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0959951796412412
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0911532889607368
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0779070183844328
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.07714510121668583
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0771451012166858
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0743832435675327
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0743216494142028
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0742305970876381
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0725019542378135
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0721888427384307
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.067180700400528
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0670349297840091
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.064002963464754
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0607330047395851
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0580818247717592
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0395333874376334
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
