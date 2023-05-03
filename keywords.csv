@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0809327108710408
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0742305970876381
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0726274363563282
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0721888427384307
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0681244670020723
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0670349297840091
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0654521195327526
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0653259670324028
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0641716430106766
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.064002963464754
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.06331071132766608
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0607330047395851
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
