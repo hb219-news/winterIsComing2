@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0923772311021414
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0889251052375578
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.08347120143682019
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0809327108710408
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.07961712512509202
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.079617125125092
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0742305970876381
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0721888427384307
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0681244670020723
