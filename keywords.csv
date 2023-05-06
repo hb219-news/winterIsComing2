@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0633960375244924
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.063310711327666
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0607330047395851
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.052523144028647335
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0298143474523149
