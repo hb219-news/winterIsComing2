@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0569800353164077
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0554642696285161
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0525231440286473
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.048400372847660134
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0298143474523149
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0143498672298558
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00117787022683492
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0011778702268349
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0001312323525387
