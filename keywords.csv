@@ -1,19 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0793665245375572
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0751816503960605
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.07217805914978145
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0721780591497814
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0654913820381024
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0654521195327526
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0653259670324028
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0641716430106766
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.064002963464754
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0633960375244924
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.063310711327666
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0628569669517614
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0569800353164077
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0562356621737178
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0554642696285161
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0525231440286473
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
