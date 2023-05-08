@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0633960375244924
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0628569669517614
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0616714004173029
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.06058770660283971
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0605877066028397
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0569800353164077
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0554642696285161
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0298143474523149
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0143498672298558
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0011778702268349
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0001312323525387
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.00011154749965789501
