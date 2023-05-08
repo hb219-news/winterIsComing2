@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0721780591497814
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0654913820381024
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0653259670324028
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0641716430106766
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.06404216110452965
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.064002963464754
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0633960375244924
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0628569669517614
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0298143474523149
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0143498672298558
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0011778702268349
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.481537470913001e-05
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.481537470913e-05
