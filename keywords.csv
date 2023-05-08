@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0605877066028397
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0569800353164077
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0554642696285161
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.04879479418423868
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0484003728476601
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0455447624243502
