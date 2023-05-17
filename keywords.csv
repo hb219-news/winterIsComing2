@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0498232736809109
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0487947941842386
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0442051753344676
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.03757487903429745
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.014763128150035
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0010789775940507
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.5759572645351244e-05
