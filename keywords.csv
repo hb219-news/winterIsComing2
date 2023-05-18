@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0580001631586441
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0543366768958185
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0538881805225289
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0509632730606976
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0498232736809109
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0487947941842386
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.045268977101592965
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0375748790342974
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.014763128150035
