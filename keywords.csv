@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0971094165663899
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0779313003736123
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0751816503960605
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0742033161232473
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.07208626536144572
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0720862653614457
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0681643605000691
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.06637314870476022
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0639320714843047
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0605877066028397
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
