@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0751816503960605
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0720862653614457
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0681643605000691
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.06637314870476022
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0663731487047602
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0639320714843047
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0605877066028397
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0468130597645991
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0452689771015929
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0375748790342974
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.036739127179152786
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.014763128150035
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0010789775940507
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.039563674854856e-05
