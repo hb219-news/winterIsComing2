@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Some of the information stored on your device,Some of the information stored on your device,MISC,,,de,332
-We collect personal data and also transmit it to third-party,We collect personal data and also transmit it to third-party,MISC,,,de,327
-nan When browsing with ads,nan When browsing with ads,MISC,,,de,295
+Some of the information stored on your device,Some of the information stored on your device,MISC,,,de,333
+We collect personal data and also transmit it to third-party,We collect personal data and also transmit it to third-party,MISC,,,de,328
+nan When browsing with ads,nan When browsing with ads,MISC,,,de,296
 Weihnachten,Weihnachten,MISC,,,de,82
 deutschen,deutschen,MISC,,,de,62
 Wetter,Wetter,MISC,-0.375,1.25,de,45
@@ -10,535 +10,503 @@ When browsing with ads,When browsing with ads,MISC,,,de,35
 Deutschen,Deutschen,MISC,,,de,34
 Zeit,Zeit,MISC,,,de,28
 Weltcup,Weltcup,MISC,,,de,25
+deutsche,deutsche,MISC,,,de,25
+Deutscher,Deutscher,MISC,,,de,24
 Biathlon-WM,Biathlon-WM,MISC,,,de,24
-Deutscher,Deutscher,MISC,,,de,23
-deutsche,deutsche,MISC,,,de,23
 Deutsche,Deutsche,MISC,,,de,22
 Langlauf-Weltcup,Langlauf-Weltcup,MISC,,,de,19
 Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,18
 Hamburger,Hamburger,MISC,,,de,18
 Der Winter,Der Winter,MISC,,,de,17
-Print-Magazin,Print-Magazin,MISC,,,de,15
+Print-Magazin,Print-Magazin,MISC,,,de,16
 WM,WM,MISC,,,de,15
 Free-TV,Free-TV,MISC,,,de,14
-Tages,Tages,MISC,,,de,12
-Frankfurter,Frankfurter,MISC,,,de,12
 Schweizer,Schweizer,MISC,,,de,12
+Tages,Tages,MISC,,,de,12
 Biathlon-WM in,Biathlon-WM in,MISC,,,de,12
-Tag,Tag,MISC,,,de,11
+Frankfurter,Frankfurter,MISC,,,de,12
 Düsseldorfer,Düsseldorfer,MISC,,,de,11
+Tag,Tag,MISC,,,de,11
 Mini-Jetlag,Mini-Jetlag,MISC,,,de,10
 Biathlon-Weltcup,Biathlon-Weltcup,MISC,,,de,10
 sozialen,sozialen,MISC,,,de,10
-Heim-WM,Heim-WM,MISC,,,de,9
-Vierschanzentournee,Vierschanzentournee,MISC,,,de,9
 Twitter,Twitter,MISC,-0.7,0.0,de,9
 ePaper,ePaper,MISC,,,de,9
-Weltcup-Auftakt,Weltcup-Auftakt,MISC,,,de,8
-Weltmeisterschaften,Weltmeisterschaften,MISC,,,de,8
-Erfurter,Erfurter,MISC,,,de,8
-Leipziger,Leipziger,MISC,,,de,8
-Weihnachtszeit,Weihnachtszeit,MISC,,,de,8
-österreichischen,österreichischen,MISC,,,de,8
+Heim-WM,Heim-WM,MISC,,,de,9
+Vierschanzentournee,Vierschanzentournee,MISC,,,de,9
 Nachbarschaftshilfe,Nachbarschaftshilfe,MISC,0.0,0.0,de,8
+Weltcup-Auftakt,Weltcup-Auftakt,MISC,,,de,8
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,8
-sächsischen,sächsischen,MISC,,,de,7
-Krieg,Krieg,MISC,,,de,7
-europäischen,europäischen,MISC,,,de,7
+Erfurter,Erfurter,MISC,,,de,8
+österreichischen,österreichischen,MISC,,,de,8
+Weltmeisterschaften,Weltmeisterschaften,MISC,,,de,8
+Weihnachtszeit,Weihnachtszeit,MISC,,,de,8
+Leipziger,Leipziger,MISC,,,de,8
 WeihnachtsmÃ¤rkte,WeihnachtsmÃ¤rkte,MISC,,,de,7
-Die Stimme Berlins,Die Stimme Berlins,MISC,,,de,6
+europäischen,europäischen,MISC,,,de,7
+Krieg,Krieg,MISC,,,de,7
+sächsischen,sächsischen,MISC,,,de,7
+Fußball-WM,Fußball-WM,MISC,,,de,6
+Nordische Ski-WM,Nordische Ski-WM,MISC,,,de,6
 Ski-WM,Ski-WM,MISC,,,de,6
-KommentareTeilen,KommentareTeilen,MISC,,,de,6
-russische,russische,MISC,,,de,6
 Nacht auf Sonntag,Nacht auf Sonntag,MISC,,,de,6
+KommentareTeilen,KommentareTeilen,MISC,,,de,6
 WM-Gold,WM-Gold,MISC,,,de,6
+Die Stimme Berlins,Die Stimme Berlins,MISC,,,de,6
 Regen auf gefrorene Fahrbahnen,Regen auf gefrorene Fahrbahnen,MISC,,,de,6
 russischer,russischer,MISC,,,de,6
-Nordische Ski-WM,Nordische Ski-WM,MISC,,,de,6
-Fußball-WM,Fußball-WM,MISC,,,de,6
 russischen,russischen,MISC,,,de,6
+russische,russische,MISC,,,de,6
 We use cookies and data to<,We use cookies and data to<,MISC,,,de,5
-Ostern,Ostern,MISC,,,de,5
-BUNTE.de,BUNTE.de,MISC,,,de,5
-Blitzeis,Blitzeis,MISC,,,de,5
-Freiburger,Freiburger,MISC,,,de,5
-Weltcups,Weltcups,MISC,,,de,5
-französischen,französischen,MISC,,,de,5
-deutscher,deutscher,MISC,,,de,5
-Wetterlage im Ticker,Wetterlage im Ticker,MISC,,,de,5
 Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,5
-iranischen,iranischen,MISC,,,de,5
+Freiburger,Freiburger,MISC,,,de,5
 Nacht zum Sonntag,Nacht zum Sonntag,MISC,,,de,5
+BUNTE.de,BUNTE.de,MISC,,,de,5
+Wetterlage im Ticker,Wetterlage im Ticker,MISC,,,de,5
+Weltcups,Weltcups,MISC,,,de,5
+deutscher,deutscher,MISC,,,de,5
+französischen,französischen,MISC,,,de,5
+Blitzeis,Blitzeis,MISC,,,de,5
 Mehrparteienhäusern,Mehrparteienhäusern,MISC,,,de,5
-Tauwetter-Phase,Tauwetter-Phase,MISC,,,de,4
-japanische,japanische,MISC,,,de,4
-Samstag auf Sonntag,Samstag auf Sonntag,MISC,,,de,4
-Millionen,Millionen,MISC,,,de,4
-Ex-Weltmeister,Ex-Weltmeister,MISC,,,de,4
-polnischen,polnischen,MISC,,,de,4
-Krieges,Krieges,MISC,,,de,4
-bayerischen,bayerischen,MISC,,,de,4
-ukrainischen,ukrainischen,MISC,,,de,4
-WM-Medaillen,WM-Medaillen,MISC,,,de,4
+Ostern,Ostern,MISC,,,de,5
+iranischen,iranischen,MISC,,,de,5
 WM in,WM in,MISC,,,de,4
-Killer-Instinkt,Killer-Instinkt,MISC,,,de,4
-Weihnachtsmarkt-Besuch,Weihnachtsmarkt-Besuch,MISC,,,de,4
-INTERVIEW,INTERVIEW,MISC,,,de,4
-neuen Jahr,neuen Jahr,MISC,,,de,4
-Kompetenznetz Einsamkeit,Kompetenznetz Einsamkeit,MISC,,,de,4
+japanische,japanische,MISC,,,de,4
 soziale,soziale,MISC,,,de,4
-Sparradar,Sparradar,MISC,,,de,4
-Freistaats,Freistaats,MISC,,,de,4
+Krieges,Krieges,MISC,,,de,4
 Münchner,Münchner,MISC,,,de,4
-BILD,BILD,MISC,-0.35,2.0,de,4
-Lockdowns,Lockdowns,MISC,0.0,4.0,de,4
-Apple Watch,Apple Watch,MISC,,,de,4
+Killer-Instinkt,Killer-Instinkt,MISC,,,de,4
 Zweierbob-Weltcup,Zweierbob-Weltcup,MISC,,,de,4
+Millionen,Millionen,MISC,,,de,4
+Freistaats,Freistaats,MISC,,,de,4
+Ex-Weltmeister,Ex-Weltmeister,MISC,,,de,4
+INTERVIEW,INTERVIEW,MISC,,,de,4
 Weltcup der Nordischen Kombination,Weltcup der Nordischen Kombination,MISC,,,de,4
+neuen Jahr,neuen Jahr,MISC,,,de,4
+polnischen,polnischen,MISC,,,de,4
+Lockdowns,Lockdowns,MISC,0.0,4.0,de,4
+bayerischen,bayerischen,MISC,,,de,4
+BILD,BILD,MISC,-0.35,2.0,de,4
+Apple Watch,Apple Watch,MISC,,,de,4
+Kompetenznetz Einsamkeit,Kompetenznetz Einsamkeit,MISC,,,de,4
+Samstag auf Sonntag,Samstag auf Sonntag,MISC,,,de,4
+WM-Medaillen,WM-Medaillen,MISC,,,de,4
+Weihnachtsmarkt-Besuch,Weihnachtsmarkt-Besuch,MISC,,,de,4
+ukrainischen,ukrainischen,MISC,,,de,4
+Tauwetter-Phase,Tauwetter-Phase,MISC,,,de,4
+Sparradar,Sparradar,MISC,,,de,4
+Deutsche Mixed-Staffel,Deutsche Mixed-Staffel,MISC,,,de,3
+Coupe de France,Coupe de France,MISC,,,de,3
+CO2-Abgabe,CO2-Abgabe,MISC,,,de,3
+Mein Lokal,Mein Lokal,MISC,,,de,3
+norwegischen,norwegischen,MISC,,,de,3
+Teuer-Welle,Teuer-Welle,MISC,,,de,3
+Weihnachtsfest,Weihnachtsfest,MISC,,,de,3
+Alle Jahre,Alle Jahre,MISC,,,de,3
+Advent 2022,Advent 2022,MISC,,,de,3
+Single-Mixed,Single-Mixed,MISC,,,de,3
+Bö,Bö,MISC,,,de,3
+Glatteis-Warnung,Glatteis-Warnung,MISC,,,de,3
 Vorfreude,Vorfreude,MISC,0.3333333333333333,2.333333333333333,de,3
 Punsch,Punsch,MISC,,,de,3
-Wintereinbruch in,Wintereinbruch in,MISC,,,de,3
-Weihnachtsfest,Weihnachtsfest,MISC,,,de,3
-Nachwuchspreis,Nachwuchspreis,MISC,,,de,3
-Suffocation,Suffocation,MISC,,,de,3
-norwegischen,norwegischen,MISC,,,de,3
-Hehler-Wohnung,Hehler-Wohnung,MISC,,,de,3
-Mein Lokal,Mein Lokal,MISC,,,de,3
-Advent 2022,Advent 2022,MISC,,,de,3
-Alle Jahre,Alle Jahre,MISC,,,de,3
-sozialer,sozialer,MISC,,,de,3
-chinesischen,chinesischen,MISC,,,de,3
-CO2-Abgabe,CO2-Abgabe,MISC,,,de,3
-Kieler,Kieler,MISC,,,de,3
-Coupe de France,Coupe de France,MISC,,,de,3
-europäische,europäische,MISC,,,de,3
-Corona-Auflagen,Corona-Auflagen,MISC,,,de,3
-Rodel-Weltcup,Rodel-Weltcup,MISC,,,de,3
-libanesische,libanesische,MISC,,,de,3
-Spiele,Spiele,MISC,,,de,3
-Skript,Skript,MISC,,,de,3
-Rentier-Schlitten,Rentier-Schlitten,MISC,,,de,3
-Deutsche Mixed-Staffel,Deutsche Mixed-Staffel,MISC,,,de,3
-Single-Mixed,Single-Mixed,MISC,,,de,3
-Skisprung-Weltcup,Skisprung-Weltcup,MISC,,,de,3
-Kombinierer-Weltcup,Kombinierer-Weltcup,MISC,,,de,3
-evangelische,evangelische,MISC,,,de,3
-Badische Neueste Nachrichten,Badische Neueste Nachrichten,MISC,,,de,3
-Bö,Bö,MISC,,,de,3
 Heim-Weltcup,Heim-Weltcup,MISC,,,de,3
-Glatteis-Warnung,Glatteis-Warnung,MISC,,,de,3
-Teuer-Welle,Teuer-Welle,MISC,,,de,3
-Ukrainer,Ukrainer,MISC,,,de,3
-norwegische,norwegische,MISC,,,de,3
-Ukrainekrieg,Ukrainekrieg,MISC,,,de,3
-EU-weite,EU-weite,MISC,,,de,3
-erÃ¶ffnet,erÃ¶ffnet,MISC,,,de,3
-Gaspreisbremse,Gaspreisbremse,MISC,0.0,0.0,de,3
-Spotify,Spotify,MISC,,,de,3
-Berliner Morgenpost,Berliner Morgenpost,MISC,,,de-DE,3
-Streaming-Primus,Streaming-Primus,MISC,,,de,3
+libanesische,libanesische,MISC,,,de,3
 Fest der Liebe,Fest der Liebe,MISC,,,de,3
-Ampel-Koalition,Ampel-Koalition,MISC,,,de,3
+Skript,Skript,MISC,,,de,3
+Wintereinbruch in,Wintereinbruch in,MISC,,,de,3
+Hehler-Wohnung,Hehler-Wohnung,MISC,,,de,3
+europäische,europäische,MISC,,,de,3
+evangelische,evangelische,MISC,,,de,3
+norwegische,norwegische,MISC,,,de,3
+Rentier-Schlitten,Rentier-Schlitten,MISC,,,de,3
+sozialer,sozialer,MISC,,,de,3
+Corona-Auflagen,Corona-Auflagen,MISC,,,de,3
 The Whale,The Whale,MISC,,,de,3
-hessischen,hessischen,MISC,,,de,2
-Deutschem,Deutschem,MISC,,,de,2
-Münchner Autors,Münchner Autors,MISC,,,de,2
-Alpin-Weltmeisterschaften,Alpin-Weltmeisterschaften,MISC,,,de,2
-C,C,MISC,,,de,2
-Tukan-Preis,Tukan-Preis,MISC,,,de,2
-Kölner,Kölner,MISC,,,de,2
-Weihnachtsfeiertag,Weihnachtsfeiertag,MISC,,,de,2
-Olympia-Zweite,Olympia-Zweite,MISC,,,de,2
-Corona-Einsamkeit,Corona-Einsamkeit,MISC,,,de,2
-Windows 11,Windows 11,MISC,,,de,2
-Europacup,Europacup,MISC,,,de,2
-Die stillen Trabanten,Die stillen Trabanten,MISC,,,de,2
-Fest der Einsamkeit,Fest der Einsamkeit,MISC,,,de,2
-iPhone 14,iPhone 14,MISC,,,de,2
-Absturz der Zuversicht,Absturz der Zuversicht,MISC,,,de,2
-Alpinpolizei,Alpinpolizei,MISC,,,de,2
-Der Fall der Fälle,Der Fall der Fälle,MISC,,,de,2
-Darmstädter,Darmstädter,MISC,,,de,2
-HeizÃ¶l,HeizÃ¶l,MISC,,,de,2
-Gold-Garanten,Gold-Garanten,MISC,,,de,2
-Livestream,Livestream,MISC,,,de,2
-Überfrierender Regen und Glatteis,Überfrierender Regen und Glatteis,MISC,,,de,2
-Realitätsflucht,Realitätsflucht,MISC,,,de,2
-Gefährliches Gla,Gefährliches Gla,MISC,,,de,2
-Facebook,Facebook,MISC,,,de,2
-Ukrainern,Ukrainern,MISC,,,de,2
-Weihnachtsmarkt-Bedrohung,Weihnachtsmarkt-Bedrohung,MISC,,,de,2
-italienische,italienische,MISC,,,de,2
-Russen,Russen,MISC,,,de,2
-steirische,steirische,MISC,,,de,2
-Sozialminister,Sozialminister,MISC,,,de,2
-Circus Mignon,Circus Mignon,MISC,,,de,2
-Ukraine-Krieges,Ukraine-Krieges,MISC,,,de,2
-Wetterdienst,Wetterdienst,MISC,-0.7,0.0,de,2
-Zwei Jahre,Zwei Jahre,MISC,,,de,2
-Goulasch,Goulasch,MISC,,,de,2
-West-Ost-Achse,West-Ost-Achse,MISC,,,de,2
-World Team Challenge,World Team Challenge,MISC,,,de,2
-deutsches,deutsches,MISC,,,de,2
-Klima-Brief,Klima-Brief,MISC,,,de,2
-Corona-Maßnahmen,Corona-Maßnahmen,MISC,,,de,2
-Das Erste,Das Erste,MISC,,,de,2
-WM-Medaille,WM-Medaille,MISC,0.0,0.0,de,2
-Isolierungsmaßnahmen,Isolierungsmaßnahmen,MISC,,,de,2
-STORY,STORY,MISC,,,de,2
-georgischen,georgischen,MISC,,,de,2
-Das frostige Wetter,Das frostige Wetter,MISC,,,de,2
-Wieder weithin grüne Landschaften,Wieder weithin grüne Landschaften,MISC,,,de,2
-Einsamkeit und Tränen,Einsamkeit und Tränen,MISC,,,de,2
-Auftakttraining,Auftakttraining,MISC,,,de,2
-Mixed-Staffel,Mixed-Staffel,MISC,,,de,2
-Heim-WM für die Gastgeber,Heim-WM für die Gastgeber,MISC,,,,2
-englischen,englischen,MISC,,,de,2
-alpinen Weltmeisterschaften,alpinen Weltmeisterschaften,MISC,,,de,2
-Du fühlst dich,Du fühlst dich,MISC,,,de,2
-Ersten,Ersten,MISC,,,de,2
-Das Haus der Träume,Das Haus der Träume,MISC,,,de,2
-Dichtes Schneetreiben,Dichtes Schneetreiben,MISC,,,de,2
-Rund um die Uhr,Rund um die Uhr,MISC,,,de,2
-Mittwochabend für Einsamkeit,Mittwochabend für Einsamkeit,MISC,,,de,2
-Online-Lehre,Online-Lehre,MISC,,,de,2
-The Voice of Ukraine,The Voice of Ukraine,MISC,,,de,2
-Die Nacht im Überblick,Die Nacht im Überblick,MISC,,,de,2
-There is a bike trail,There is a bike trail,MISC,,,de,2
-Heim-Weltcups,Heim-Weltcups,MISC,,,de,2
-Skispringen auf der ganzen Welt,Skispringen auf der ganzen Welt,MISC,,,,2
-seid,seid,MISC,,,de,2
-Ausharrenden,Ausharrenden,MISC,,,de,2
-Olympia-Debakel,Olympia-Debakel,MISC,,,de,2
-ARD-Talk,ARD-Talk,MISC,,,de,2
-Winterspielen,Winterspielen,MISC,,,de,2
-Berlinale,Berlinale,MISC,,,de,2
-Vierschanzentournee-Auftakt,Vierschanzentournee-Auftakt,MISC,,,de,2
-Olympischen Spielen,Olympischen Spielen,MISC,,,de,2
-Kontaktbeschränkungen,Kontaktbeschränkungen,MISC,,,de,2
-Wetterlage im Ticker - Unwetterwarnung vor Glatteis,Wetterlage im Ticker - Unwetterwarnung vor Glatteis,MISC,,,de,2
-Biathlon-WM 2012,Biathlon-WM 2012,MISC,,,de,2
-Vorschau,Vorschau,MISC,,,de,2
-schwedische,schwedische,MISC,,,de,2
-Kalicki vor Nolte,Kalicki vor Nolte,MISC,,,de,2
-Die Geburt eines Kindes,Die Geburt eines Kindes,MISC,,,de,2
-Inside,Inside,MISC,,,de,2
-9PUNKT,9PUNKT,MISC,,,de,2
-Corona-Verordnung,Corona-Verordnung,MISC,,,de,2
-Der Fall der Nachbarschaftshilfe,Der Fall der Nachbarschaftshilfe,MISC,,,de,2
-senegalesische,senegalesische,MISC,,,de,2
-Ski-Cross-Weltcup,Ski-Cross-Weltcup,MISC,,,de,2
-Internet,Internet,MISC,,,de,2
-Alarm,Alarm,MISC,,,de,2
-Sechs Jahre,Sechs Jahre,MISC,,,de,2
+EU-weite,EU-weite,MISC,,,de,3
+Nachwuchspreis,Nachwuchspreis,MISC,,,de,3
+Skisprung-Weltcup,Skisprung-Weltcup,MISC,,,de,3
+chinesischen,chinesischen,MISC,,,de,3
+Spotify,Spotify,MISC,,,de,3
+Streaming-Primus,Streaming-Primus,MISC,,,de,3
+Suffocation,Suffocation,MISC,,,de,3
+Ukrainer,Ukrainer,MISC,,,de,3
+Gaspreisbremse,Gaspreisbremse,MISC,0.0,0.0,de,3
+Kombinierer-Weltcup,Kombinierer-Weltcup,MISC,,,de,3
+erÃ¶ffnet,erÃ¶ffnet,MISC,,,de,3
+Ukrainekrieg,Ukrainekrieg,MISC,,,de,3
+Berliner Morgenpost,Berliner Morgenpost,MISC,,,de-DE,3
+Badische Neueste Nachrichten,Badische Neueste Nachrichten,MISC,,,de,3
+Rodel-Weltcup,Rodel-Weltcup,MISC,,,de,3
+Ampel-Koalition,Ampel-Koalition,MISC,,,de,3
+Spiele,Spiele,MISC,,,de,3
+Kieler,Kieler,MISC,,,de,3
 Wetterlage,Wetterlage,MISC,,,de,2
-Gesamtweltcup,Gesamtweltcup,MISC,,,de,2
-Oh,Oh,MISC,,,de,2
+AppleWatch,AppleWatch,MISC,,,de,2
+Ausharrenden,Ausharrenden,MISC,,,de,2
+iPhone,iPhone,MISC,,,de,2
+Win,Win,MISC,,,de,2
+There is a bike trail,There is a bike trail,MISC,,,de,2
+NRW-Skiregionen,NRW-Skiregionen,MISC,,,de,2
+Kunstsch,Kunstsch,MISC,,,de,2
+Pochiert,Pochiert,MISC,,,de,2
+Ampel-Fraktion,Ampel-Fraktion,MISC,,,de,2
+alpinen Weltmeisterschaften,alpinen Weltmeisterschaften,MISC,,,de,2
+Skijäger,Skijäger,MISC,,,de,2
+Stars in der Manege,Stars in der Manege,MISC,,,de,2
+Tipps und Tricks,Tipps und Tricks,MISC,,,de,2
+englischen,englischen,MISC,,,de,2
+Tag der Skisaison am Erbeskopf,Tag der Skisaison am Erbeskopf,MISC,,,de,2
+Kontaktbeschränkungen,Kontaktbeschränkungen,MISC,,,de,2
+ARD-Talk,ARD-Talk,MISC,,,de,2
+Olympischen Spielen,Olympischen Spielen,MISC,,,de,2
+FM4,FM4,MISC,,,de,2
+seid,seid,MISC,,,de,2
+Inside,Inside,MISC,,,de,2
+Sachsen,Sachsen,MISC,0.023148148148148147,0.032407407407407406,de,2
+Berlinale,Berlinale,MISC,,,de,2
+Winterspielen,Winterspielen,MISC,,,de,2
+Olympia-Debakel,Olympia-Debakel,MISC,,,de,2
+Du fühlst dich,Du fühlst dich,MISC,,,de,2
+Grau und Matsch,Grau und Matsch,MISC,,,de,2
+Auftakttraining,Auftakttraining,MISC,,,de,2
+Heim-Weltcups,Heim-Weltcups,MISC,,,de,2
+Fest der Einsamkeit,Fest der Einsamkeit,MISC,,,de,2
+Die Nacht im Überblick,Die Nacht im Überblick,MISC,,,de,2
+Dichtes Schneetreiben,Dichtes Schneetreiben,MISC,,,de,2
+Oberstdorfer,Oberstdorfer,MISC,,,de,2
+Die Geburt eines Kindes,Die Geburt eines Kindes,MISC,,,de,2
+E3,E3,MISC,,,de,2
+senegalesische,senegalesische,MISC,,,de,2
+WM-Medaille,WM-Medaille,MISC,0.0,0.0,de,2
+georgischen,georgischen,MISC,,,de,2
+Kölner,Kölner,MISC,,,de,2
+Corona-Einsamkeit,Corona-Einsamkeit,MISC,,,de,2
+Ski-Weltmeisterschaft,Ski-Weltmeisterschaft,MISC,0.0,0.0,de,2
+Windows 11,Windows 11,MISC,,,de,2
+Münchner Autors,Münchner Autors,MISC,,,de,2
+Tukan-Preis,Tukan-Preis,MISC,,,de,2
+thüringische,thüringische,MISC,,,de,2
+Gen,Gen,MISC,,,de,2
+iPhone 14,iPhone 14,MISC,,,de,2
+Lochner Zweierbob-Europameister,Lochner Zweierbob-Europameister,MISC,,,de,2
+Rheinische Post,Rheinische Post,MISC,,,de,2
+Kalicki vor Nolte,Kalicki vor Nolte,MISC,,,de,2
+Weltcupsieg,Weltcupsieg,MISC,,,de,2
+Online-Lehre,Online-Lehre,MISC,,,de,2
+Donnerstags,Donnerstags,MISC,,,de,2
+Aids,Aids,MISC,,,de,2
+Liftbetreiber,Liftbetreiber,MISC,,,de,2
+Hahnenkamm-Rennen,Hahnenkamm-Rennen,MISC,,,de,2
+Europameistertitel,Europameistertitel,MISC,,,de,2
 Sturmtief „Juliette,Sturmtief „Juliette,MISC,,,de,2
+9PUNKT,9PUNKT,MISC,,,de,2
+Statuen mit dem blauen Vogel,Statuen mit dem blauen Vogel,MISC,,,de,2
+Sturmtief Juliette,Sturmtief Juliette,MISC,,,de,2
+spanischen,spanischen,MISC,,,de,2
+Medienberichtes,Medienberichtes,MISC,,,de,2
+Alarm,Alarm,MISC,,,de,2
+Der Fall der Nachbarschaftshilfe,Der Fall der Nachbarschaftshilfe,MISC,,,de,2
+Mittwochabend für Einsamkeit,Mittwochabend für Einsamkeit,MISC,,,de,2
+Gesamtweltcup,Gesamtweltcup,MISC,,,de,2
+Internet,Internet,MISC,,,de,2
+schwedische,schwedische,MISC,,,de,2
+Weihnachtsmarkt-Bedrohung,Weihnachtsmarkt-Bedrohung,MISC,,,de,2
+Skispringen auf der ganzen Welt,Skispringen auf der ganzen Welt,MISC,,,,2
+Isolierungsmaßnahmen,Isolierungsmaßnahmen,MISC,,,de,2
+Das Haus der Träume,Das Haus der Träume,MISC,,,de,2
+Vorschau,Vorschau,MISC,,,de,2
+Europacup,Europacup,MISC,,,de,2
+Slopestyle-Expertin,Slopestyle-Expertin,MISC,,,de,2
+Alpin-Weltmeisterschaften,Alpin-Weltmeisterschaften,MISC,,,de,2
+Anschlags von 2016.,Anschlags von 2016.,MISC,,,de,2
+WM in Georgien,WM in Georgien,MISC,,,de,2
+Attentat auf den Weihnachtsmarkt,Attentat auf den Weihnachtsmarkt,MISC,,,de,2
+Sechs Jahre,Sechs Jahre,MISC,,,de,2
+Mixed-Wettbewerb,Mixed-Wettbewerb,MISC,,,de,2
+Between the Legs,Between the Legs,MISC,,,de,2
+Das frostige Wetter,Das frostige Wetter,MISC,,,de,2
+La-Niña-Muster,La-Niña-Muster,MISC,,,de,2
+Sozialminister,Sozialminister,MISC,,,de,2
+Ukrainern,Ukrainern,MISC,,,de,2
+Circus Mignon,Circus Mignon,MISC,,,de,2
+Biathlon-WM 2012,Biathlon-WM 2012,MISC,,,de,2
+Skilanglauf-Weltcup,Skilanglauf-Weltcup,MISC,,,de,2
+deutsche Frauen-Staffel,deutsche Frauen-Staffel,MISC,,,de,2
+Oh,Oh,MISC,,,de,2
+Weihnachtsfeiertag,Weihnachtsfeiertag,MISC,,,de,2
+Mixed-Staffel,Mixed-Staffel,MISC,,,de,2
+Absturz der Zuversicht,Absturz der Zuversicht,MISC,,,de,2
+Ersten,Ersten,MISC,,,de,2
+Rund um die Uhr,Rund um die Uhr,MISC,,,de,2
+Corona-Maßnahmen,Corona-Maßnahmen,MISC,,,de,2
+The Voice of Ukraine,The Voice of Ukraine,MISC,,,de,2
+Olympia-Zweite,Olympia-Zweite,MISC,,,de,2
+World Team Challenge,World Team Challenge,MISC,,,de,2
+Die stillen Trabanten,Die stillen Trabanten,MISC,,,de,2
+Wetterlage im Ticker - Unwetterwarnung vor Glatteis,Wetterlage im Ticker - Unwetterwarnung vor Glatteis,MISC,,,de,2
+Livestream,Livestream,MISC,,,de,2
+Deutschem,Deutschem,MISC,,,de,2
+Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,2
+Wetterdienst,Wetterdienst,MISC,-0.7,0.0,de,2
+HeizÃ¶l,HeizÃ¶l,MISC,,,de,2
+slowenischen,slowenischen,MISC,,,de,2
+Drei Schwestern,Drei Schwestern,MISC,,,de,2
+STORY,STORY,MISC,,,de,2
+Alpinpolizei,Alpinpolizei,MISC,,,de,2
+britische,britische,MISC,,,de,2
+Erfolgsband,Erfolgsband,MISC,,,de,2
+Wieder weithin grüne Landschaften,Wieder weithin grüne Landschaften,MISC,,,de,2
+Dido,Dido,MISC,,,de,2
+Tschernobyl,Tschernobyl,MISC,,,de,2
+Ski-Cross-Weltcup,Ski-Cross-Weltcup,MISC,,,de,2
+hessischen,hessischen,MISC,,,de,2
+Einsamkeit und Tränen,Einsamkeit und Tränen,MISC,,,de,2
 Skeleton-Piloten,Skeleton-Piloten,MISC,,,de,2
 Weltcup-Finale,Weltcup-Finale,MISC,,,de,2
-Attentat auf den Weihnachtsmarkt,Attentat auf den Weihnachtsmarkt,MISC,,,de,2
-Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,2
-deutsche Frauen-Staffel,deutsche Frauen-Staffel,MISC,,,de,2
-Skilanglauf-Weltcup,Skilanglauf-Weltcup,MISC,,,de,2
-Ampel-Fraktion,Ampel-Fraktion,MISC,,,de,2
-Anschlags von 2016.,Anschlags von 2016.,MISC,,,de,2
-La-Niña-Muster,La-Niña-Muster,MISC,,,de,2
-spanischen,spanischen,MISC,,,de,2
-Sturmtief Juliette,Sturmtief Juliette,MISC,,,de,2
-Medienberichtes,Medienberichtes,MISC,,,de,2
-Stars in der Manege,Stars in der Manege,MISC,,,de,2
-Krüppel-Fichten,Krüppel-Fichten,MISC,,,de,2
-Wintereinbruch mit Neuschnee,Wintereinbruch mit Neuschnee,MISC,,,de,2
-Uhren,Uhren,MISC,,,de,2
-WEB.DE News,WEB.DE News,MISC,,,de,2
-Aids,Aids,MISC,,,de,2
-Pochiert,Pochiert,MISC,,,de,2
-Tschernobyl,Tschernobyl,MISC,,,de,2
-Europameistertitel,Europameistertitel,MISC,,,de,2
-Weltcupsieg,Weltcupsieg,MISC,,,de,2
-Kriegsfolgen,Kriegsfolgen,MISC,,,de,2
-Freeride-Sport,Freeride-Sport,MISC,,,de,2
-Erfolgsband,Erfolgsband,MISC,,,de,2
-Rutschen,Rutschen,MISC,,,de,2
-Dieses Jahr,Dieses Jahr,MISC,,,de,2
-Lochner Zweierbob-Europameister,Lochner Zweierbob-Europameister,MISC,,,de,2
-Wetterlage im Ticker - Winter,Wetterlage im Ticker - Winter,MISC,,,de,2
-Sachsen,Sachsen,MISC,0.023148148148148147,0.032407407407407406,de,2
-britische,britische,MISC,,,de,2
-Dido,Dido,MISC,,,de,2
-Donnerstags,Donnerstags,MISC,,,de,2
-Farce um Zeitumstellung,Farce um Zeitumstellung,MISC,,,de,2
-Homeoffice-Arbeit,Homeoffice-Arbeit,MISC,,,de,2
-Liftbetreiber,Liftbetreiber,MISC,,,de,2
-Zuhören gegen Angst und Einsamkeit,Zuhören gegen Angst und Einsamkeit,MISC,,,de,2
-Das Wetter,Das Wetter,MISC,,,de,2
-Drei Schwestern,Drei Schwestern,MISC,,,de,2
-Zeit des Jahres,Zeit des Jahres,MISC,,,de,2
-Flockenwirbel,Flockenwirbel,MISC,,,de,2
-FM4,FM4,MISC,,,de,2
-brasilianischen,brasilianischen,MISC,,,de,2
-Universitätswappen,Universitätswappen,MISC,,,de,2
-Fußball-WM in Katar,Fußball-WM in Katar,MISC,,,de,2
-Künstlicher Intelligenz,Künstlicher Intelligenz,MISC,,,de,2
-US-amerikanische,US-amerikanische,MISC,,,de,2
-Win,Win,MISC,,,de,2
-Wintervorboten auf dem Feldberg,Wintervorboten auf dem Feldberg,MISC,,,de,2
-Deutsch,Deutsch,MISC,,,de,2
-Skisprung-Auftakt,Skisprung-Auftakt,MISC,,,de,2
-Twitter-Besitzer,Twitter-Besitzer,MISC,,,de,2
-Zeit für alle Deutschen,Zeit für alle Deutschen,MISC,,,de,2
-Grau und Matsch,Grau und Matsch,MISC,,,de,2
-NRW-Skiregionen,NRW-Skiregionen,MISC,,,de,2
-Zehn,Zehn,MISC,,,de,2
-Tipps und Tricks,Tipps und Tricks,MISC,,,de,2
-Vendée Globe,Vendée Globe,MISC,,,de,2
-Polize,Polize,MISC,,,de,2
-Drei Singstunden,Drei Singstunden,MISC,,,de,2
-Kunstsch,Kunstsch,MISC,,,de,2
-Tag der Skisaison am Erbeskopf,Tag der Skisaison am Erbeskopf,MISC,,,de,2
-südkoreanische,südkoreanische,MISC,,,de,2
-CO₂-Preis,CO₂-Preis,MISC,,,de,2
-Angsträumen,Angsträumen,MISC,,,de,2
-Skijäger,Skijäger,MISC,,,de,2
-Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,2
-AppleWatch,AppleWatch,MISC,,,de,2
-iPhone,iPhone,MISC,,,de,2
-WELT Nachrichtensender,WELT Nachrichtensender,MISC,,,de,2
-Weltcup-Saison,Weltcup-Saison,MISC,,,de,2
-slowenischen,slowenischen,MISC,,,de,2
-thüringische,thüringische,MISC,,,de,2
-Euro,Euro,MISC,,,de,2
-Coronavirus,Coronavirus,MISC,,,de,2
-Blauen Lichterglanz,Blauen Lichterglanz,MISC,,,de,2
-Olympischen Winterspielen 1976,Olympischen Winterspielen 1976,MISC,,,de,2
-Winterprofis,Winterprofis,MISC,,,de,2
-A4-Seite,A4-Seite,MISC,,,de,2
-Warnung vor Glatteis,Warnung vor Glatteis,MISC,,,de,2
-Wintersport-Karriere,Wintersport-Karriere,MISC,,,de,2
-Nacht vom 25.,Nacht vom 25.,MISC,,,de,2
-Mietern im Jahr,Mietern im Jahr,MISC,,,de,2
-Ski-Weltmeisterschaft,Ski-Weltmeisterschaft,MISC,0.0,0.0,de,2
-Nacht zu Sonntag,Nacht zu Sonntag,MISC,,,de,2
-Hartz-IV-Ausgaben der Bundesagentur für Arbeit,Hartz-IV-Ausgaben der Bundesagentur für Arbeit,MISC,,,de,2
-RBB-Untersuchungsausschuss,RBB-Untersuchungsausschuss,MISC,,,de,2
-griechischen,griechischen,MISC,,,de,2
-Gen,Gen,MISC,,,de,2
-Weihnachtsmarkt-Outfit,Weihnachtsmarkt-Outfit,MISC,,,de,2
-Weltcuppunkte,Weltcuppunkte,MISC,,,de,2
-WM in Georgien,WM in Georgien,MISC,,,de,2
-Slopestyle-Expertin,Slopestyle-Expertin,MISC,,,de,2
-Between the Legs,Between the Legs,MISC,,,de,2
-Mixed-Wettbewerb,Mixed-Wettbewerb,MISC,,,de,2
-Marktamt,Marktamt,MISC,,,de,2
-E3,E3,MISC,,,de,2
-Skilanglauf-Weltcups,Skilanglauf-Weltcups,MISC,,,de,2
-Olympischen Winterspielen,Olympischen Winterspielen,MISC,,,de,2
-Rheinische Post,Rheinische Post,MISC,,,de,2
-Langsam-Kasse,Langsam-Kasse,MISC,,,de,2
-Hahnenkamm-Rennen,Hahnenkamm-Rennen,MISC,,,de,2
-gesamteuropäischer,gesamteuropäischer,MISC,,,de,2
 SPORT1,SPORT1,MISC,,,de,2
-Oberstdorfer,Oberstdorfer,MISC,,,de,2
-Jedes Jahr aufs Neue,Jedes Jahr aufs Neue,MISC,,,de,2
-Smalltalk,Smalltalk,MISC,,,de,2
-Jetstream,Jetstream,MISC,,,de,2
-Geflügelpest,Geflügelpest,MISC,,,de,2
-Krebs-Therapie,Krebs-Therapie,MISC,,,de,2
-Handelsblatt,Handelsblatt,MISC,,,de,2
-Videos,Videos,MISC,,,de,2
-Überall glitzernder Schnee,Überall glitzernder Schnee,MISC,,,de,2
-Spieltages,Spieltages,MISC,,,de,2
-Wetter in,Wetter in,MISC,,,de,2
-Gasheizung,Gasheizung,MISC,,,de,2
-Süddeutsche Zeitung,Süddeutsche Zeitung,MISC,,,de,2
-Statuen mit dem blauen Vogel,Statuen mit dem blauen Vogel,MISC,,,de,2
+Darmstädter,Darmstädter,MISC,,,de,2
+Olympischen Winterspielen 1976,Olympischen Winterspielen 1976,MISC,,,de,2
+Das Erste,Das Erste,MISC,,,de,2
+Olympischen Winterspielen,Olympischen Winterspielen,MISC,,,de,2
+griechischen,griechischen,MISC,,,de,2
+italienische,italienische,MISC,,,de,2
+Russen,Russen,MISC,,,de,2
+Warnung vor Glatteis,Warnung vor Glatteis,MISC,,,de,2
 I,I,MISC,,,de,2
+Ukraine-Krieges,Ukraine-Krieges,MISC,,,de,2
+deutsches,deutsches,MISC,,,de,2
 Pisten-Vergnügen,Pisten-Vergnügen,MISC,,,de,2
-Supertest Dieser Golf,Supertest Dieser Golf,MISC,,,de,1
-thüringischen,thüringischen,MISC,,,de,1
-Themenvorschau,Themenvorschau,MISC,,,de,1
-Riesenslalom-Spezialist,Riesenslalom-Spezialist,MISC,,,de,1
-Tennis-Angst,Tennis-Angst,MISC,,,de,1
-Freies Wort,Freies Wort,MISC,,,de,1
-Wetter: Schneefall in,Wetter: Schneefall in,MISC,,,de,1
-Bundesweiter Wintereinbruch,Bundesweiter Wintereinbruch,MISC,,,de,1
-EPFL-Professor,EPFL-Professor,MISC,,,de,1
-Opel von der Straße,Opel von der Straße,MISC,,,de,1
-Golf R 20 Years,Golf R 20 Years,MISC,,,de,1
-Break Point,Break Point,MISC,,,de,1
-VW Golf,VW Golf,MISC,,,de,1
-Opel Agila,Opel Agila,MISC,,,de,1
-Micha,Micha,MISC,,,de,1
-Gigantismus und City-Events,Gigantismus und City-Events,MISC,,,de,1
-R Performance,R Performance,MISC,,,de,1
-Deutsche Biathleten,Deutsche Biathleten,MISC,,,de,1
-Der Albtraum der Leere,Der Albtraum der Leere,MISC,,,de,1
-StartupÂ Tado,StartupÂ Tado,MISC,,,de,1
-SpÃ¤testens seit Russlands Angriffskrieg in der Ukraine,SpÃ¤testens seit Russlands Angriffskrieg in der Ukraine,MISC,,,de,1
-Rodel-WM,Rodel-WM,MISC,,,de,1
-Tschechows,Tschechows,MISC,,,de,1
-Slalom-Weltcup,Slalom-Weltcup,MISC,,,de,1
-IT-Sicherheit,IT-Sicherheit,MISC,,,de,1
-Phishing-Angriffe,Phishing-Angriffe,MISC,,,de,1
-Wetterlage im Ticker - Frost,Wetterlage im Ticker - Frost,MISC,,,de,1
-HomeofficeDie,HomeofficeDie,MISC,,,de,1
-BR Data</em,BR Data</em,MISC,,,de,1
-Winter-Paralympics in,Winter-Paralympics in,MISC,,,de,1
-Para-Athletin des Jahres,Para-Athletin des Jahres,MISC,,,de,1
-Warnungen,Warnungen,MISC,,,de,1
-IOC-Präsident Bach,IOC-Präsident Bach,MISC,,,de,1
-Jungunternehmens,Jungunternehmens,MISC,,,de,1
-Wetterlage im Ticker - 24 Fahrzeuge crashen wegen Glatteis auf A3,Wetterlage im Ticker - 24 Fahrzeuge crashen wegen Glatteis auf A3,MISC,,,de,1
-Biathlon-Karriere,Biathlon-Karriere,MISC,,,de,1
-Staffel-Weltmeisterin,Staffel-Weltmeisterin,MISC,,,de,1
-Toter unter Lawine,Toter unter Lawine,MISC,,,de,1
-Starker Schneefall und Sturmböen,Starker Schneefall und Sturmböen,MISC,,,de,1
-Urlaub in den Bergen,Urlaub in den Bergen,MISC,,,de,1
-Die Andere wollen mehr Barrierefreiheit,Die Andere wollen mehr Barrierefreiheit,MISC,,,de,1
-Blauer Lichterglanz,Blauer Lichterglanz,MISC,,,de,1
-"Streit um ""harte Haft","Streit um ""harte Haft",MISC,,,de,1
-Sportfoto-Sieger,Sportfoto-Sieger,MISC,,,de,1
-WM-Generalprobe,WM-Generalprobe,MISC,,,de,1
-Tür,Tür,MISC,,,de,1
-Landesfeuerwehrkommando,Landesfeuerwehrkommando,MISC,,,de,1
+Skilanglauf-Weltcups,Skilanglauf-Weltcups,MISC,,,de,2
+Überall glitzernder Schnee,Überall glitzernder Schnee,MISC,,,de,2
+Überfrierender Regen und Glatteis,Überfrierender Regen und Glatteis,MISC,,,de,2
+Gefährliches Gla,Gefährliches Gla,MISC,,,de,2
+Facebook,Facebook,MISC,,,de,2
+Klima-Brief,Klima-Brief,MISC,,,de,2
+Heim-WM für die Gastgeber,Heim-WM für die Gastgeber,MISC,,,,2
+Corona-Verordnung,Corona-Verordnung,MISC,,,de,2
+Universitätswappen,Universitätswappen,MISC,,,de,2
+Das Wetter,Das Wetter,MISC,,,de,2
+Zeit des Jahres,Zeit des Jahres,MISC,,,de,2
+Kriegsfolgen,Kriegsfolgen,MISC,,,de,2
+Dieses Jahr,Dieses Jahr,MISC,,,de,2
+Weihnachtsmarkt-Outfit,Weihnachtsmarkt-Outfit,MISC,,,de,2
+Weltcup-Saison,Weltcup-Saison,MISC,,,de,2
+Nacht zu Sonntag,Nacht zu Sonntag,MISC,,,de,2
+Flockenwirbel,Flockenwirbel,MISC,,,de,2
+Farce um Zeitumstellung,Farce um Zeitumstellung,MISC,,,de,2
+Zuhören gegen Angst und Einsamkeit,Zuhören gegen Angst und Einsamkeit,MISC,,,de,2
+Marktamt,Marktamt,MISC,,,de,2
+Vierschanzentournee-Auftakt,Vierschanzentournee-Auftakt,MISC,,,de,2
+Twitter-Besitzer,Twitter-Besitzer,MISC,,,de,2
+Weltcuppunkte,Weltcuppunkte,MISC,,,de,2
+Wintervorboten auf dem Feldberg,Wintervorboten auf dem Feldberg,MISC,,,de,2
+Homeoffice-Arbeit,Homeoffice-Arbeit,MISC,,,de,2
+Deutsch,Deutsch,MISC,,,de,2
+Smalltalk,Smalltalk,MISC,,,de,2
+Künstlicher Intelligenz,Künstlicher Intelligenz,MISC,,,de,2
+Wintereinbruch mit Neuschnee,Wintereinbruch mit Neuschnee,MISC,,,de,2
+Coronavirus,Coronavirus,MISC,,,de,2
+Nacht vom 25.,Nacht vom 25.,MISC,,,de,2
+Wintersport-Karriere,Wintersport-Karriere,MISC,,,de,2
+US-amerikanische,US-amerikanische,MISC,,,de,2
+WELT Nachrichtensender,WELT Nachrichtensender,MISC,,,de,2
+Handelsblatt,Handelsblatt,MISC,,,de,2
+Vendée Globe,Vendée Globe,MISC,,,de,2
+Hartz-IV-Ausgaben der Bundesagentur für Arbeit,Hartz-IV-Ausgaben der Bundesagentur für Arbeit,MISC,,,de,2
+Krebs-Therapie,Krebs-Therapie,MISC,,,de,2
+Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,2
+Angsträumen,Angsträumen,MISC,,,de,2
+Wetter in,Wetter in,MISC,,,de,2
+Spieltages,Spieltages,MISC,,,de,2
+Drei Singstunden,Drei Singstunden,MISC,,,de,2
+Blauen Lichterglanz,Blauen Lichterglanz,MISC,,,de,2
+Jetstream,Jetstream,MISC,,,de,2
+WEB.DE News,WEB.DE News,MISC,,,de,2
+Freeride-Sport,Freeride-Sport,MISC,,,de,2
+Krüppel-Fichten,Krüppel-Fichten,MISC,,,de,2
+Jedes Jahr aufs Neue,Jedes Jahr aufs Neue,MISC,,,de,2
+Mietern im Jahr,Mietern im Jahr,MISC,,,de,2
+südkoreanische,südkoreanische,MISC,,,de,2
+Skisprung-Auftakt,Skisprung-Auftakt,MISC,,,de,2
+Uhren,Uhren,MISC,,,de,2
+Rutschen,Rutschen,MISC,,,de,2
+Wetterlage im Ticker - Winter,Wetterlage im Ticker - Winter,MISC,,,de,2
+Zeit für alle Deutschen,Zeit für alle Deutschen,MISC,,,de,2
+Zwei Jahre,Zwei Jahre,MISC,,,de,2
+Goulasch,Goulasch,MISC,,,de,2
+Videos,Videos,MISC,,,de,2
+Winterprofis,Winterprofis,MISC,,,de,2
+Gasheizung,Gasheizung,MISC,,,de,2
+Polize,Polize,MISC,,,de,2
+gesamteuropäischer,gesamteuropäischer,MISC,,,de,2
+Euro,Euro,MISC,,,de,2
+West-Ost-Achse,West-Ost-Achse,MISC,,,de,2
+RBB-Untersuchungsausschuss,RBB-Untersuchungsausschuss,MISC,,,de,2
+Der Fall der Fälle,Der Fall der Fälle,MISC,,,de,2
+A4-Seite,A4-Seite,MISC,,,de,2
+Frost,Frost,MISC,0.0,0.0,de,2
+Gold-Garanten,Gold-Garanten,MISC,,,de,2
+C,C,MISC,,,de,2
+brasilianischen,brasilianischen,MISC,,,de,2
+Realitätsflucht,Realitätsflucht,MISC,,,de,2
+CO₂-Preis,CO₂-Preis,MISC,,,de,2
+Süddeutsche Zeitung,Süddeutsche Zeitung,MISC,,,de,2
+Langsam-Kasse,Langsam-Kasse,MISC,,,de,2
+Zehn,Zehn,MISC,,,de,2
+Fußball-WM in Katar,Fußball-WM in Katar,MISC,,,de,2
+steirische,steirische,MISC,,,de,2
+Geflügelpest,Geflügelpest,MISC,,,de,2
+Verhandlungsgespräche,Verhandlungsgespräche,MISC,,,de,1
+Wintereinbruch in Südosteuropa,Wintereinbruch in Südosteuropa,MISC,,,de,1
+Asta,Asta,MISC,,,de,1
 Tü,Tü,MISC,,,de,1
-Deutsche Wetterdie,Deutsche Wetterdie,MISC,,,de,1
-Fräulein,Fräulein,MISC,,,de,1
-Traums des Superstars,Traums des Superstars,MISC,,,de,1
-Gaskonflikt,Gaskonflikt,MISC,,,de,1
-Bayerische,Bayerische,MISC,,,de,1
+Tür,Tür,MISC,,,de,1
+Messerangriff in Zug,Messerangriff in Zug,MISC,,,de,1
+Hannoverschen,Hannoverschen,MISC,,,de,1
+Rekordwinter,Rekordwinter,MISC,,,de,1
+Doku übers Alleinsein,Doku übers Alleinsein,MISC,,,de,1
+Einsamkeit und Kuchen,Einsamkeit und Kuchen,MISC,,,de,1
+Deutsche Biathleten,Deutsche Biathleten,MISC,,,de,1
+Brutaler Raub,Brutaler Raub,MISC,,,de,1
+Sportfoto-Sieger,Sportfoto-Sieger,MISC,,,de,1
+Netflix,Netflix,MISC,,,de,1
+Gut ein Jahr nach der Tat am 12. November 2021 sucht die Polizei,Gut ein Jahr nach der Tat am 12. November 2021 sucht die Polizei,MISC,,,de,1
+Gut ein Jahr nach der Tat,Gut ein Jahr nach der Tat,MISC,,,de,1
+Weltcup-Springen,Weltcup-Springen,MISC,,,de,1
+Lost in Los Angeles,Lost in Los Angeles,MISC,,,de,1
+SpÃ¤testens seit Russlands Angriffskrieg in der Ukraine,SpÃ¤testens seit Russlands Angriffskrieg in der Ukraine,MISC,,,de,1
+Wetterlage im Ticker - Frost,Wetterlage im Ticker - Frost,MISC,,,de,1
+Tot,Tot,MISC,,,de,1
+IMAGO,IMAGO,MISC,0.0,0.0,de,1
+Staffel-Weltmeisterin,Staffel-Weltmeisterin,MISC,,,de,1
+Die Lichter,Die Lichter,MISC,,,de,1
+Die Energiesparverordnung der Bundesregierung,Die Energiesparverordnung der Bundesregierung,MISC,,,de,1
+Eine Bulldogge,Eine Bulldogge,MISC,,,de,1
+Biathlon-Karriere,Biathlon-Karriere,MISC,,,de,1
+Wiener,Wiener,MISC,,,de,1
+Verivox,Verivox,MISC,,,de,1
+Überwachungsspezialisten,Überwachungsspezialisten,MISC,,,de,1
+Warnungen,Warnungen,MISC,,,de,1
+Harry - neuer Job,Harry - neuer Job,MISC,,,de,1
+DämmungDie,DämmungDie,MISC,,,de,1
+Hartz IV-Empfängern,Hartz IV-Empfängern,MISC,,,de,1
+Das Leben lieben,Das Leben lieben,MISC,,,de,1
+Zielsprint,Zielsprint,MISC,,,de,1
+INTERAKTIV,INTERAKTIV,MISC,,,de,1
+Lust oder Qual,Lust oder Qual,MISC,,,de,1
+Toter unter Lawine,Toter unter Lawine,MISC,,,de,1
+JobcenterDer,JobcenterDer,MISC,,,de,1
+"Streit um ""harte Haft","Streit um ""harte Haft",MISC,,,de,1
+WM-Generalprobe,WM-Generalprobe,MISC,,,de,1
+französischen Fußball-Pokal,französischen Fußball-Pokal,MISC,,,de,1
+Landesfeuerwehrkommando,Landesfeuerwehrkommando,MISC,,,de,1
+Das Thema Einsamkeit,Das Thema Einsamkeit,MISC,,,de,1
+Blauer Lichterglanz,Blauer Lichterglanz,MISC,,,de,1
 Nichts ist härter,Nichts ist härter,MISC,,,de,1
+Break Point,Break Point,MISC,,,de,1
+Zi,Zi,MISC,,,de,1
+Tennis-Angst,Tennis-Angst,MISC,,,de,1
+Der Albtraum der Leere,Der Albtraum der Leere,MISC,,,de,1
+Traums des Superstars,Traums des Superstars,MISC,,,de,1
+Trick für das Deutschlandticket - So,Trick für das Deutschlandticket - So,MISC,,,de,1
+Amazon,Amazon,MISC,,,de,1
+WhatsApp,WhatsApp,MISC,,,de,1
+Die Andere wollen mehr Barrierefreiheit,Die Andere wollen mehr Barrierefreiheit,MISC,,,de,1
 Ski-Gebiete,Ski-Gebiete,MISC,,,de,1
-Biathlon-WM Sechster,Biathlon-WM Sechster,MISC,,,de,1
-WM-Mix,WM-Mix,MISC,,,de,1
 Aktuelle News,Aktuelle News,MISC,,,de,1
 Lesenswertes aus der Stadt,Lesenswertes aus der Stadt,MISC,,,de,1
-Dranbleibenwollen,Dranbleibenwollen,MISC,,,de,1
+Fünfzig Jahre jung,Fünfzig Jahre jung,MISC,,,de,1
+Fernse,Fernse,MISC,,,de,1
 Erâ€¦,Erâ€¦,MISC,,,de,1
 Verâ€,Verâ€,MISC,,,de,1
-Gut ein Jahr nach der Tat,Gut ein Jahr nach der Tat,MISC,,,de,1
-Gut ein Jahr nach der Tat am 12. November 2021 sucht die Polizei,Gut ein Jahr nach der Tat am 12. November 2021 sucht die Polizei,MISC,,,de,1
+Wirtschaftsminister,Wirtschaftsminister,MISC,,,de,1
+Jamaika-Koalition,Jamaika-Koalition,MISC,,,de,1
+Opel Agila,Opel Agila,MISC,,,de,1
+Ampel-Regierung,Ampel-Regierung,MISC,,,de,1
+Rezess,Rezess,MISC,,,de,1
+Heizkostenzuschuss-Antrag,Heizkostenzuschuss-Antrag,MISC,,,de,1
+| Geld,| Geld,MISC,,,de,1
+thüringischen,thüringischen,MISC,,,de,1
+Heizkosten-Zuschüsse,Heizkosten-Zuschüsse,MISC,,,de,1
+Freies Wort,Freies Wort,MISC,,,de,1
+Zuschuss,Zuschuss,MISC,,,de,1
+Wetter: Schneefall in,Wetter: Schneefall in,MISC,,,de,1
+Henri Freiwilligenpreis,Henri Freiwilligenpreis,MISC,,,de,1
+Rotes Kreuz,Rotes Kreuz,MISC,,,de,1
+amerikanischen,amerikanischen,MISC,,,de,1
+Härtefall-Zuschüsse,Härtefall-Zuschüsse,MISC,,,de,1
+Micha,Micha,MISC,,,de,1
+Opel von der Straße,Opel von der Straße,MISC,,,de,1
+Die Wintersportorte,Die Wintersportorte,MISC,,,de,1
+Sozialer Durst,Sozialer Durst,MISC,,,de,1
 Berliner Senat,Berliner Senat,MISC,,,de,1
-Brutaler Raub,Brutaler Raub,MISC,,,de,1
-A3 w,A3 w,MISC,,,de,1
-Asta,Asta,MISC,,,de,1
-Hannoverschen,Hannoverschen,MISC,,,de,1
-Messerangriff in Zug,Messerangriff in Zug,MISC,,,de,1
-Wintereinbruch in Südosteuropa,Wintereinbruch in Südosteuropa,MISC,,,de,1
-französischen Fußball-Pokal,französischen Fußball-Pokal,MISC,,,de,1
+Gaskonflikt,Gaskonflikt,MISC,,,de,1
+Slalom-Weltcup,Slalom-Weltcup,MISC,,,de,1
+Phishing-Angriffe,Phishing-Angriffe,MISC,,,de,1
+HomeofficeDie,HomeofficeDie,MISC,,,de,1
+Aderlass an Stars,Aderlass an Stars,MISC,,,de,1
+Winter-Paralympics in,Winter-Paralympics in,MISC,,,de,1
+Para-Athletin des Jahres,Para-Athletin des Jahres,MISC,,,de,1
+RTL-Format,RTL-Format,MISC,,,de,1
+IOC-Präsident Bach,IOC-Präsident Bach,MISC,,,de,1
+StartupÂ Tado,StartupÂ Tado,MISC,,,de,1
+Männern,Männern,MISC,,,de,1
+Jungunternehmens,Jungunternehmens,MISC,,,de,1
+Solo-Regatten,Solo-Regatten,MISC,,,de,1
+Ocean Race,Ocean Race,MISC,,,de,1
+Starker Schneefall und Sturmböen,Starker Schneefall und Sturmböen,MISC,,,de,1
+Urlaub in den Bergen,Urlaub in den Bergen,MISC,,,de,1
+Offshore-Seglerinnen,Offshore-Seglerinnen,MISC,,,de,1
+IT-Sicherheit,IT-Sicherheit,MISC,,,de,1
+Tschechows,Tschechows,MISC,,,de,1
 â€žWilden,â€žWilden,MISC,,,de,1
+ukrainische,ukrainische,MISC,,,de,1
 Einmal im Jahr,Einmal im Jahr,MISC,,,de,1
+Oscar,Oscar,MISC,,,de,1
 H,H,MISC,0.0,0.0,de,1
 Glitschiges,Glitschiges,MISC,,,de,1
 Corona-Welle,Corona-Welle,MISC,,,de,1
 Virus-Erkrankung,Virus-Erkrankung,MISC,,,de,1
 Glatteis | Nachrichten,Glatteis | Nachrichten,MISC,,,de,1
-Zielsprint,Zielsprint,MISC,,,de,1
-Ski Alpin,Ski Alpin,MISC,,,de,1
-Energiepreisexplosion,Energiepreisexplosion,MISC,,,de,1
-Ski Alpin-Weltcup,Ski Alpin-Weltcup,MISC,,,de,1
-Mini-Je,Mini-Je,MISC,,,de,1
-Hauptpendelzeit,Hauptpendelzeit,MISC,,,de,1
-christlichen,christlichen,MISC,,,de,1
-Mittwochnacht,Mittwochnacht,MISC,,,de,1
-Frühstücks,Frühstücks,MISC,,,de,1
-Nacht vom 24.,Nacht vom 24.,MISC,,,de,1
-Wintereinbruch in Tirol,Wintereinbruch in Tirol,MISC,,,de,1
-Der Skandal,Der Skandal,MISC,,,de,1
-Energie-Verschwendung,Energie-Verschwendung,MISC,,,de,1
-Pflege-Betreuungs-Verordnung,Pflege-Betreuungs-Verordnung,MISC,,,de,1
-Wetterlage im Ticker - Unbeständiges,Wetterlage im Ticker - Unbeständiges,MISC,,,de,1
-Fußball-WM in,Fußball-WM in,MISC,,,de,1
-WM-Ort,WM-Ort,MISC,,,de,1
-Die milde Bitternis,Die milde Bitternis,MISC,,,de,1
-Die Dichterin« he…,Die Dichterin« he…,MISC,,,de,1
-Gedankenwelt We use cookies and data to<,Gedankenwelt We use cookies and data to<,MISC,,,de,1
-Starker Wind,Starker Wind,MISC,,,de,1
-Zeitumstellung im Frühling,Zeitumstellung im Frühling,MISC,,,de,1
-NYTimes,NYTimes,MISC,,,de,1
-Existenz-Ängste,Existenz-Ängste,MISC,,,de,1
-niedersächsische,niedersächsische,MISC,,,de,1
-Schnee-Situation,Schnee-Situation,MISC,,,de,1
-GeoSph,GeoSph,MISC,,,de,1
-Entscheidung–,Entscheidung–,MISC,,,de,1
-Abends,Abends,MISC,,,de,1
-Habt Ihr Fra,Habt Ihr Fra,MISC,,,de,1
-Love,Love,MISC,,,de,1
-amerikanischen Bürgerkrieg,amerikanischen Bürgerkrieg,MISC,,,de,1
-Zweimal im Jahr,Zweimal im Jahr,MISC,,,de,1
-VOR,VOR,MISC,,,de,1
-Ex-Pitch-COO,Ex-Pitch-COO,MISC,,,de,1
-App,App,MISC,,,de,1
-Energie-E,Energie-E,MISC,,,de,1
-Sieben Monate Jetlag,Sieben Monate Jetlag,MISC,,,de,1
-Wetter live - Sturm-Wochenende,Wetter live - Sturm-Wochenende,MISC,,,de,1
-MDR We use cookies and data to<,MDR We use cookies and data to<,MISC,,,de,1
-WM in Qatar,WM in Qatar,MISC,,,de,1
-Sturm Khusru,Sturm Khusru,MISC,,,de,1
-Quiz,Quiz,MISC,,,de,1
-Sommerzeit-Beginn,Sommerzeit-Beginn,MISC,,,de,1
-"buten un binnen
-","buten un binnen
-",MISC,,,de,1
-Schlaf-Labors,Schlaf-Labors,MISC,,,de,1
-… Man,… Man,MISC,,,de,1
-Die Nacht,Die Nacht,MISC,,,de,1
-Sommerzeit im Jahr 1893,Sommerzeit im Jahr 1893,MISC,,,de,1
-Stream am 25.3.2023  SWP,Stream am 25.3.2023  SWP,MISC,,,de,1
-Aderlass an Stars,Aderlass an Stars,MISC,,,de,1
-Weltcup-Springen,Weltcup-Springen,MISC,,,de,1
-Doku übers Alleinsein,Doku übers Alleinsein,MISC,,,de,1
-Trick für das Deutschlandticket - So,Trick für das Deutschlandticket - So,MISC,,,de,1
-Steinfassade,Steinfassade,MISC,,,de,1
-Das Tauschkonzert,Das Tauschkonzert,MISC,,,de,1
+A3 w,A3 w,MISC,,,de,1
 Heizkosten-Härtehilfe,Heizkosten-Härtehilfe,MISC,,,de,1
-Oscar,Oscar,MISC,,,de,1
-Sozialer Durst,Sozialer Durst,MISC,,,de,1
-Fernse,Fernse,MISC,,,de,1
-Fünfzig Jahre jung,Fünfzig Jahre jung,MISC,,,de,1
-WhatsApp,WhatsApp,MISC,,,de,1
-Amazon,Amazon,MISC,,,de,1
-Zi,Zi,MISC,,,de,1
-RTL-Format,RTL-Format,MISC,,,de,1
-Wirtschaftsminister,Wirtschaftsminister,MISC,,,de,1
-Jamaika-Koalition,Jamaika-Koalition,MISC,,,de,1
-Ampel-Regierung,Ampel-Regierung,MISC,,,de,1
-Die Wintersportorte,Die Wintersportorte,MISC,,,de,1
-Härtefall-Zuschüsse,Härtefall-Zuschüsse,MISC,,,de,1
-Rotes Kreuz,Rotes Kreuz,MISC,,,de,1
-Henri Freiwilligenpreis,Henri Freiwilligenpreis,MISC,,,de,1
-| Geld,| Geld,MISC,,,de,1
-Heizkostenzuschuss-Antrag,Heizkostenzuschuss-Antrag,MISC,,,de,1
-ukrainische,ukrainische,MISC,,,de,1
-Männern,Männern,MISC,,,de,1
-Lust oder Qual,Lust oder Qual,MISC,,,de,1
-Wiener,Wiener,MISC,,,de,1
-DämmungDie,DämmungDie,MISC,,,de,1
-Verivox,Verivox,MISC,,,de,1
-Die Lichter,Die Lichter,MISC,,,de,1
-Die Energiesparverordnung der Bundesregierung,Die Energiesparverordnung der Bundesregierung,MISC,,,de,1
-Eine Bulldogge,Eine Bulldogge,MISC,,,de,1
-Das Leben lieben,Das Leben lieben,MISC,,,de,1
-Netflix,Netflix,MISC,,,de,1
-Lost in Los Angeles,Lost in Los Angeles,MISC,,,de,1
-Überwachungsspezialisten,Überwachungsspezialisten,MISC,,,de,1
-Tot,Tot,MISC,,,de,1
-Solo-Regatten,Solo-Regatten,MISC,,,de,1
-Harry - neuer Job,Harry - neuer Job,MISC,,,de,1
-JobcenterDer,JobcenterDer,MISC,,,de,1
-IMAGO,IMAGO,MISC,0.0,0.0,de,1
-Verhandlungsgespräche,Verhandlungsgespräche,MISC,,,de,1
-Rekordwinter,Rekordwinter,MISC,,,de,1
-Einsamkeit und Kuchen,Einsamkeit und Kuchen,MISC,,,de,1
-INTERAKTIV,INTERAKTIV,MISC,,,de,1
-Offshore-Seglerinnen,Offshore-Seglerinnen,MISC,,,de,1
-Ocean Race,Ocean Race,MISC,,,de,1
-We Are the Flesh,We Are the Flesh,MISC,,,de,1
-DachstuhlsUm,DachstuhlsUm,MISC,,,de,1
-Rodel-Weltmeisterinnen,Rodel-Weltmeisterinnen,MISC,,,de,1
+Das Tauschkonzert,Das Tauschkonzert,MISC,,,de,1
+Fräulein,Fräulein,MISC,,,de,1
+Wetterlage im Ticker - 24 Fahrzeuge crashen wegen Glatteis auf A3,Wetterlage im Ticker - 24 Fahrzeuge crashen wegen Glatteis auf A3,MISC,,,de,1
+Deutsche Wetterdie,Deutsche Wetterdie,MISC,,,de,1
+Rodel-WM,Rodel-WM,MISC,,,de,1
+Steinfassade,Steinfassade,MISC,,,de,1
+BR Data</em,BR Data</em,MISC,,,de,1
+WM-Ort,WM-Ort,MISC,,,de,1
+Dranbleibenwollen,Dranbleibenwollen,MISC,,,de,1
+Frühlings,Frühlings,MISC,,,de,1
+WM-Titel,WM-Titel,MISC,,,de,1
+Samstag im slowenisc,Samstag im slowenisc,MISC,,,de,1
+Endlich!,Endlich!,MISC,,,de,1
+Nordischen Ski-WM,Nordischen Ski-WM,MISC,,,de,1
+WM-Rennen,WM-Rennen,MISC,,,de,1
+WM im slowenischen Planica,WM im slowenischen Planica,MISC,,,de,1
+iranischem,iranischem,MISC,,,de,1
+WM in Planica,WM in Planica,MISC,,,de,1
+I… We use cookies and data to<,I… We use cookies and data to<,MISC,,,de,1
+WM in Slowenien,WM in Slowenien,MISC,,,de,1
+NHL-Eishockey,NHL-Eishockey,MISC,,,de,1
+Twitter</li><li,Twitter</li><li,MISC,,,de,1
+Mehr</li><li,Mehr</li><li,MISC,,,de,1
+Quoten-Pole-Position,Quoten-Pole-Position,MISC,,,de,1
+Political Animal,Political Animal,MISC,,,de,1
+Handy,Handy,MISC,,,de,1
+e… nan,e… nan,MISC,,,de,1
+Kroatische,Kroatische,MISC,,,de,1
 russischen Angriffskriegs,russischen Angriffskriegs,MISC,,,de,1
+Waffenstillstand,Waffenstillstand,MISC,,,de,1
+Das schwere Erdbeben,Das schwere Erdbeben,MISC,,,de,1
+amerikanischen Bürgerkrieg,amerikanischen Bürgerkrieg,MISC,,,de,1
+Love,Love,MISC,,,de,1
+We Are the Flesh,We Are the Flesh,MISC,,,de,1
 Willem Dafoe,Willem Dafoe,MISC,,,de,1
+Mini-Je,Mini-Je,MISC,,,de,1
+DachstuhlsUm,DachstuhlsUm,MISC,,,de,1
 Tag des Vaterlandsverteidigers,Tag des Vaterlandsverteidigers,MISC,,,de,1
 Flimmern & Rauschen,Flimmern & Rauschen,MISC,,,de,1
 Flimmern &amp,Flimmern &amp,MISC,,,de,1
@@ -546,96 +514,130 @@ Drehb,Drehb,MISC,,,de,1
 amerikanische,amerikanische,MISC,,,de,1
 Jahr für Jahr,Jahr für Jahr,MISC,,,de,1
 zurückgestellt?</li><li,zurückgestellt?</li><li,MISC,,,de,1
-Waffenstillstand,Waffenstillstand,MISC,,,de,1
-Kroatische,Kroatische,MISC,,,de,1
-WM-Titel,WM-Titel,MISC,,,de,1
-Samstag im slowenisc,Samstag im slowenisc,MISC,,,de,1
-Nordischen Ski-WM,Nordischen Ski-WM,MISC,,,de,1
-WM-Rennen,WM-Rennen,MISC,,,de,1
-WM im slowenischen Planica,WM im slowenischen Planica,MISC,,,de,1
-iranischem,iranischem,MISC,,,de,1
-WM in Planica,WM in Planica,MISC,,,de,1
-WM in Slowenien,WM in Slowenien,MISC,,,de,1
-NHL-Eishockey,NHL-Eishockey,MISC,,,de,1
-Quoten-Pole-Position,Quoten-Pole-Position,MISC,,,de,1
-Political Animal,Political Animal,MISC,,,de,1
-Das schwere Erdbeben,Das schwere Erdbeben,MISC,,,de,1
-arabischen,arabischen,MISC,,,de,1
-This bridge is below t,This bridge is below t,MISC,,,de,1
-Skeleton-Gesamtweltcup,Skeleton-Gesamtweltcup,MISC,,,de,1
-Eliasch,Eliasch,MISC,,,de,1
-Verbraucher</li><li,Verbraucher</li><li,MISC,,,de,1
-Biathlon-WM in Oberhof,Biathlon-WM in Oberhof,MISC,,,de,1
-Biathlon-Szene,Biathlon-Szene,MISC,,,de,1
-Norwegens Biathlon-Superstar,Norwegens Biathlon-Superstar,MISC,,,de,1
-alpinen Skiweltmeisterschaften,alpinen Skiweltmeisterschaften,MISC,,,de,1
-Gold-Fahrt,Gold-Fahrt,MISC,,,de,1
-alpinen Ski-Weltmeisterschaften,alpinen Ski-Weltmeisterschaften,MISC,,,de,1
-Biathlon-Ikone,Biathlon-Ikone,MISC,,,de,1
-YouTuber,YouTuber,MISC,,,de,1
-Aufstandes,Aufstandes,MISC,,,de,1
-Olympia 2026,Olympia 2026,MISC,,,de,1
-Deutsche Biathleten im Sturm,Deutsche Biathleten im Sturm,MISC,,,de,1
-Der Hund unseres Autors,Der Hund unseres Autors,MISC,,,de,1
-Saison-Bestwert,Saison-Bestwert,MISC,,,de,1
-XXL,XXL,MISC,,,de,1
-Das Erste mit Tagesmarktanteilen,Das Erste mit Tagesmarktanteilen,MISC,,,de,1
-Snowboard-WM,Snowboard-WM,MISC,,,de,1
-Biathlon-WM in Oberh,Biathlon-WM in Oberh,MISC,,,de,1
-Balkon,Balkon,MISC,,,de,1
-Handy,Handy,MISC,,,de,1
+Bibbern,Bibbern,MISC,,,de,1
 spanische,spanische,MISC,,,de,1
-I… We use cookies and data to<,I… We use cookies and data to<,MISC,,,de,1
-SchulgebäudesDas Europaparlament,SchulgebäudesDas Europaparlament,MISC,,,de,1
-Gebietsweise…,Gebietsweise…,MISC,,,de,1
+Lesen Sie…,Lesen Sie…,MISC,,,de,1
+arabischen,arabischen,MISC,,,de,1
+Die automatische Zeitumstellung,Die automatische Zeitumstellung,MISC,,,de,1
+Neue Doku,Neue Doku,MISC,,,de,1
+Die Zukunft des Winter,Die Zukunft des Winter,MISC,,,de,1
 GB,GB,MISC,,,de,1
+Gebietsweise…,Gebietsweise…,MISC,,,de,1
+Es ist Abend,Es ist Abend,MISC,,,de,1
+Windows,Windows,MISC,,,de,1
+Einsamkeit kann krank,Einsamkeit kann krank,MISC,,,de,1
+Tinderdates,Tinderdates,MISC,,,de,1
+Kanadische,Kanadische,MISC,,,de,1
+Trauma-Falle,Trauma-Falle,MISC,,,de,1
+Schick in Anzug,Schick in Anzug,MISC,,,de,1
+Ungemütlicher,Ungemütlicher,MISC,,,de,1
+Kompetenznetz Einsamkeit“,Kompetenznetz Einsamkeit“,MISC,,,de,1
+IEin Mann,IEin Mann,MISC,,,de,1
+Mel,Mel,MISC,,,de,1
+Wetterlage im Ticker - Schneefall,Wetterlage im Ticker - Schneefall,MISC,,,de,1
 Schneefalls in der Nacht,Schneefalls in der Nacht,MISC,,,de,1
+Bye bye Winterdepression,Bye bye Winterdepression,MISC,,,de,1
 Tages wegtauen,Tages wegtauen,MISC,,,de,1
 Mars-Rover,Mars-Rover,MISC,0.0,0.0,de,1
-kroatischen,kroatischen,MISC,,,de,1
-Glosse,Glosse,MISC,,,de,1
-Legende von der Einsamkeit,Legende von der Einsamkeit,MISC,,,de,1
-Der Inselmann,Der Inselmann,MISC,,,de,1
-Ameisenhau,Ameisenhau,MISC,,,de,1
-Tinderdates,Tinderdates,MISC,,,de,1
-Terroranschlag im Chat,Terroranschlag im Chat,MISC,,,de,1
 Skifliegen der Frauen,Skifliegen der Frauen,MISC,,,de,1
-Kanadische,Kanadische,MISC,,,de,1
-Mehr</li><li,Mehr</li><li,MISC,,,de,1
-Twitter</li><li,Twitter</li><li,MISC,,,de,1
-Frühlings,Frühlings,MISC,,,de,1
-Endlich!,Endlich!,MISC,,,de,1
-e… nan,e… nan,MISC,,,de,1
-Bibbern,Bibbern,MISC,,,de,1
-Einsamkeit kann krank,Einsamkeit kann krank,MISC,,,de,1
-Trauma-Falle,Trauma-Falle,MISC,,,de,1
-Lesen Sie…,Lesen Sie…,MISC,,,de,1
-Die Zukunft des Winter,Die Zukunft des Winter,MISC,,,de,1
+Terroranschlag im Chat,Terroranschlag im Chat,MISC,,,de,1
+Ameisenhau,Ameisenhau,MISC,,,de,1
 ZDF-Ausstieg,ZDF-Ausstieg,MISC,,,de,1
 Wintereinbruch auf Mallorca,Wintereinbruch auf Mallorca,MISC,,,de,1
 Lesen Sie alle…,Lesen Sie alle…,MISC,,,de,1
 Eingeschneite,Eingeschneite,MISC,,,de,1
-Schluss mit Rummel,Schluss mit Rummel,MISC,,,de,1
 Mallorca i…,Mallorca i…,MISC,,,de,1
 Schneef…,Schneef…,MISC,,,de,1
-Bye bye Winterdepression,Bye bye Winterdepression,MISC,,,de,1
-Neue Doku,Neue Doku,MISC,,,de,1
-Es ist Abend,Es ist Abend,MISC,,,de,1
-Mel,Mel,MISC,,,de,1
-Windows,Windows,MISC,,,de,1
-Die automatische Zeitumstellung,Die automatische Zeitumstellung,MISC,,,de,1
-Schick in Anzug,Schick in Anzug,MISC,,,de,1
-Ungemütlicher,Ungemütlicher,MISC,,,de,1
+SchulgebäudesDas Europaparlament,SchulgebäudesDas Europaparlament,MISC,,,de,1
+Der Inselmann,Der Inselmann,MISC,,,de,1
+Themenvorschau,Themenvorschau,MISC,,,de,1
+Legende von der Einsamkeit,Legende von der Einsamkeit,MISC,,,de,1
+Glosse,Glosse,MISC,,,de,1
+kroatischen,kroatischen,MISC,,,de,1
+Zweimal im Jahr,Zweimal im Jahr,MISC,,,de,1
+This bridge is below t,This bridge is below t,MISC,,,de,1
+WM-Mix,WM-Mix,MISC,,,de,1
+Nacht vom 24.,Nacht vom 24.,MISC,,,de,1
+Wetterlage im Ticker - Unbeständiges,Wetterlage im Ticker - Unbeständiges,MISC,,,de,1
+Pflege-Betreuungs-Verordnung,Pflege-Betreuungs-Verordnung,MISC,,,de,1
+Energie-Verschwendung,Energie-Verschwendung,MISC,,,de,1
+Der Skandal,Der Skandal,MISC,,,de,1
+Wintereinbruch in Tirol,Wintereinbruch in Tirol,MISC,,,de,1
+Riesenslalom-Spezialist,Riesenslalom-Spezialist,MISC,,,de,1
+Ski Alpin,Ski Alpin,MISC,,,de,1
+Ski Alpin-Weltcup,Ski Alpin-Weltcup,MISC,,,de,1
+WM in Qatar,WM in Qatar,MISC,,,de,1
+Rodel-Weltmeisterinnen,Rodel-Weltmeisterinnen,MISC,,,de,1
+Frühstücks,Frühstücks,MISC,,,de,1
+Mittwochnacht,Mittwochnacht,MISC,,,de,1
+christlichen,christlichen,MISC,,,de,1
+Hauptpendelzeit,Hauptpendelzeit,MISC,,,de,1
+GeoSph,GeoSph,MISC,,,de,1
+Entscheidung–,Entscheidung–,MISC,,,de,1
+R Performance,R Performance,MISC,,,de,1
+Golf R 20 Years,Golf R 20 Years,MISC,,,de,1
+Fußball-WM in,Fußball-WM in,MISC,,,de,1
+Supertest Dieser Golf,Supertest Dieser Golf,MISC,,,de,1
+Schnee-Situation,Schnee-Situation,MISC,,,de,1
+Biathlon-WM Sechster,Biathlon-WM Sechster,MISC,,,de,1
+Bayerische,Bayerische,MISC,,,de,1
+niedersächsische,niedersächsische,MISC,,,de,1
+Gigantismus und City-Events,Gigantismus und City-Events,MISC,,,de,1
+EPFL-Professor,EPFL-Professor,MISC,,,de,1
+Existenz-Ängste,Existenz-Ängste,MISC,,,de,1
+NYTimes,NYTimes,MISC,,,de,1
+Zeitumstellung im Frühling,Zeitumstellung im Frühling,MISC,,,de,1
+Starker Wind,Starker Wind,MISC,,,de,1
+Gedankenwelt We use cookies and data to<,Gedankenwelt We use cookies and data to<,MISC,,,de,1
+VW Golf,VW Golf,MISC,,,de,1
+Die Dichterin« he…,Die Dichterin« he…,MISC,,,de,1
+Die milde Bitternis,Die milde Bitternis,MISC,,,de,1
 W,W,MISC,0.0,0.5,de,1
-Kompetenznetz Einsamkeit“,Kompetenznetz Einsamkeit“,MISC,,,de,1
-IEin Mann,IEin Mann,MISC,,,de,1
-Das Thema Einsamkeit,Das Thema Einsamkeit,MISC,,,de,1
-Wetterlage im Ticker - Schneefall,Wetterlage im Ticker - Schneefall,MISC,,,de,1
+Abends,Abends,MISC,,,de,1
+Stream am 25.3.2023  SWP,Stream am 25.3.2023  SWP,MISC,,,de,1
+VOR,VOR,MISC,,,de,1
+XXL,XXL,MISC,,,de,1
+Habt Ihr Fra,Habt Ihr Fra,MISC,,,de,1
+Wetter live - Sturm-Wochenende,Wetter live - Sturm-Wochenende,MISC,,,de,1
+Olympia 2026,Olympia 2026,MISC,,,de,1
+Sieben Monate Jetlag,Sieben Monate Jetlag,MISC,,,de,1
+Deutsche Biathleten im Sturm,Deutsche Biathleten im Sturm,MISC,,,de,1
+Der Hund unseres Autors,Der Hund unseres Autors,MISC,,,de,1
+Saison-Bestwert,Saison-Bestwert,MISC,,,de,1
+Das Erste mit Tagesmarktanteilen,Das Erste mit Tagesmarktanteilen,MISC,,,de,1
+Eliasch,Eliasch,MISC,,,de,1
+Snowboard-WM,Snowboard-WM,MISC,,,de,1
+Energie-E,Energie-E,MISC,,,de,1
+Biathlon-WM in Oberh,Biathlon-WM in Oberh,MISC,,,de,1
+Balkon,Balkon,MISC,,,de,1
+Aufstandes,Aufstandes,MISC,,,de,1
+App,App,MISC,,,de,1
+Ex-Pitch-COO,Ex-Pitch-COO,MISC,,,de,1
+YouTuber,YouTuber,MISC,,,de,1
+Skeleton-Gesamtweltcup,Skeleton-Gesamtweltcup,MISC,,,de,1
+MDR We use cookies and data to<,MDR We use cookies and data to<,MISC,,,de,1
+Biathlon-Ikone,Biathlon-Ikone,MISC,,,de,1
+Sommerzeit im Jahr 1893,Sommerzeit im Jahr 1893,MISC,,,de,1
+Die Nacht,Die Nacht,MISC,,,de,1
+… Man,… Man,MISC,,,de,1
+Verbraucher</li><li,Verbraucher</li><li,MISC,,,de,1
+Biathlon-WM in Oberhof,Biathlon-WM in Oberhof,MISC,,,de,1
+Schlaf-Labors,Schlaf-Labors,MISC,,,de,1
+"buten un binnen
+","buten un binnen
+",MISC,,,de,1
+Biathlon-Szene,Biathlon-Szene,MISC,,,de,1
+Norwegens Biathlon-Superstar,Norwegens Biathlon-Superstar,MISC,,,de,1
+Sommerzeit-Beginn,Sommerzeit-Beginn,MISC,,,de,1
+Quiz,Quiz,MISC,,,de,1
+alpinen Skiweltmeisterschaften,alpinen Skiweltmeisterschaften,MISC,,,de,1
+Sturm Khusru,Sturm Khusru,MISC,,,de,1
+Gold-Fahrt,Gold-Fahrt,MISC,,,de,1
+alpinen Ski-Weltmeisterschaften,alpinen Ski-Weltmeisterschaften,MISC,,,de,1
+Bundesweiter Wintereinbruch,Bundesweiter Wintereinbruch,MISC,,,de,1
+Energiepreisexplosion,Energiepreisexplosion,MISC,,,de,1
 Kampf gegen Lärm und mehr in unseren Berliner Bezirksnewslettern,Kampf gegen Lärm und mehr in unseren Berliner Bezirksnewslettern,MISC,,,de,1
-Tournee-Auftakt,Tournee-Auftakt,MISC,,,de,1
-Europameisterin,Europameisterin,MISC,,,de,1
-CO2-Preises,CO2-Preises,MISC,,,de,1
-Das grausige Tötungsdelikt,Das grausige Tötungsdelikt,MISC,,,de,1
+Spott für kahlen Weihnachtsbaum,Spott für kahlen Weihnachtsbaum,MISC,,,de,1
 Zeit im Jahr,Zeit im Jahr,MISC,,,de,1
 Gefährlich glatt kan…,Gefährlich glatt kan…,MISC,,,de,1
 Glühwein-Preise,Glühwein-Preise,MISC,,,de,1
@@ -646,8 +648,8 @@ Die Weihnachtsmärkte,Die Weihnachtsmärkte,MISC,,,de,1
 Lichterglanz und Glühweinduft,Lichterglanz und Glühweinduft,MISC,,,de,1
 Italientief,Italientief,MISC,,,de,1
 Personalmangel,Personalmangel,MISC,,,de,1
-Spott für kahlen Weihnachtsbaum,Spott für kahlen Weihnachtsbaum,MISC,,,de,1
 Auto rast,Auto rast,MISC,,,de,1
+The Weather Channel,The Weather Channel,MISC,,,de,1
 innenpolitischen Aufregern des Jahres,innenpolitischen Aufregern des Jahres,MISC,,,de,1
 Bürger,Bürger,MISC,,,de,1
 britischen,britischen,MISC,,,de,1
@@ -656,11 +658,12 @@ staade Zeit,staade Zeit,MISC,,,de,1
 Online-Abzocker,Online-Abzocker,MISC,,,de,1
 Alterskâ€,Alterskâ€,MISC,,,de,1
 Christkind,Christkind,MISC,,,de,1
-Messer-Opfer,Messer-Opfer,MISC,,,de,1
-CO2-Preis,CO2-Preis,MISC,,,de,1
+Corona-Zwangspause,Corona-Zwangspause,MISC,0.5,0.0,de,1
 Verleihgebühren,Verleihgebühren,MISC,,,de,1
-Hunderte Euro Ersparnis,Hunderte Euro Ersparnis,MISC,,,de,1
-Android App,Android App,MISC,,,de,1
+Das grausige Tötungsdelikt,Das grausige Tötungsdelikt,MISC,,,de,1
+Messer-Opfer,Messer-Opfer,MISC,,,de,1
+CO2-Preises,CO2-Preises,MISC,,,de,1
+CO2-Preis,CO2-Preis,MISC,,,de,1
 Die Android-App,Die Android-App,MISC,,,de,1
 Wetter NRW,Wetter NRW,MISC,,,de,1
 OWL,OWL,MISC,,,de,1
@@ -681,12 +684,11 @@ Der Vorgeschmack auf den Winter,Der Vorgeschmack auf den Winter,MISC,,,de,1
 Weltcup-Rennen,Weltcup-Rennen,MISC,,,de,1
 Weihnachtsbaum-Kritiker,Weihnachtsbaum-Kritiker,MISC,,,de,1
 Lichte Weihnacht,Lichte Weihnacht,MISC,,,de,1
-Corona-Zwangspause,Corona-Zwangspause,MISC,0.5,0.0,de,1
+Hunderte Euro Ersparnis,Hunderte Euro Ersparnis,MISC,,,de,1
 Liveblog zum Krieg in der Ukraine,Liveblog zum Krieg in der Ukraine,MISC,,,de,1
-Wintereinbruch am Wochenende,Wintereinbruch am Wochenende,MISC,,,de,1
-Sachsen-Anh,Sachsen-Anh,MISC,,,de,1
+europäischer,europäischer,MISC,,,de,1
+Krieg gegen die,Krieg gegen die,MISC,,,de,1
 Short Storys,Short Storys,MISC,,,de,1
-Aktion zur Weihnachtszeit,Aktion zur Weihnachtszeit,MISC,,,de,1
 Sarrs Roman,Sarrs Roman,MISC,,,de,1
 Die geheimste Erinnerung der Menschen,Die geheimste Erinnerung der Menschen,MISC,,,de,1
 Die geheimste Erinnerung des Menschen,Die geheimste Erinnerung des Menschen,MISC,,,de,1
@@ -708,12 +710,12 @@ Notizen","Im Labyrinth der Einsamkeit
 Notizen",MISC,,,de,1
 Ein schwächelnder Polarwirbel,Ein schwächelnder Polarwirbel,MISC,,,de,1
 Weihnachtsessen für Bedürftige,Weihnachtsessen für Bedürftige,MISC,,,de,1
+Caritas-Foodtruck,Caritas-Foodtruck,MISC,,,de,1
+gÃ¼nstigsten Wien Citytrip,gÃ¼nstigsten Wien Citytrip,MISC,,,de,1
+Aktion zur Weihnachtszeit,Aktion zur Weihnachtszeit,MISC,,,de,1
 Schlemmen,Schlemmen,MISC,,,de,1
-Foxconn-Angestellten,Foxconn-Angestellten,MISC,,,de,1
-europäischer,europäischer,MISC,,,de,1
-iPhone-14-Geräten,iPhone-14-Geräten,MISC,,,de,1
-Krieg gegen die,Krieg gegen die,MISC,,,de,1
 Ein Pfeil,Ein Pfeil,MISC,,,de,1
+Sachsen-Anh,Sachsen-Anh,MISC,,,de,1
 Ve,Ve,MISC,,,de,1
 Ein Mann droht,Ein Mann droht,MISC,,,de,1
 AirTag,AirTag,MISC,,,de,1
@@ -733,10 +735,12 @@ Zürcher,Zürcher,MISC,,,de,1
 Steirern,Steirern,MISC,,,de,1
 iPhones,iPhones,MISC,,,de,1
 Apple Millionen,Apple Millionen,MISC,,,de,1
-The Weather Channel,The Weather Channel,MISC,,,de,1
-Hartz IV,Hartz IV,MISC,,,de,1
-gÃ¼nstigsten Wien Citytrip,gÃ¼nstigsten Wien Citytrip,MISC,,,de,1
-K1,K1,MISC,0.0,0.0,de,1
+iPhone-14-Geräten,iPhone-14-Geräten,MISC,,,de,1
+Foxconn-Angestellten,Foxconn-Angestellten,MISC,,,de,1
+Android App,Android App,MISC,,,de,1
+Wintereinbruch am Wochenende,Wintereinbruch am Wochenende,MISC,,,de,1
+Schluss mit Rummel,Schluss mit Rummel,MISC,,,de,1
+Nacht vom 29.,Nacht vom 29.,MISC,,,de,1
 20.10.2022,20.10.2022,MISC,,,de,1
 Wecker-Apps,Wecker-Apps,MISC,,,de,1
 Weckern,Weckern,MISC,,,de,1
@@ -747,8 +751,8 @@ Weihnachtsdeko,Weihnachtsdeko,MISC,,,de,1
 Twitter-Hetzer,Twitter-Hetzer,MISC,,,de,1
 Russische,Russische,MISC,,,de,1
 "/li><li>""Winter","/li><li>""Winter",MISC,,,de,1
-Nacht vom 29.,Nacht vom 29.,MISC,,,de,1
 bayerisch-österreichischen Grenze,bayerisch-österreichischen Grenze,MISC,,,de,1
+Hartz IV,Hartz IV,MISC,,,de,1
 BAföG,BAföG,MISC,,,de,1
 Pandemie der Einsamkeit,Pandemie der Einsamkeit,MISC,,,de,1
 Vierfacher Start,Vierfacher Start,MISC,,,de,1
@@ -758,9 +762,10 @@ We collect personal data and also transmit it,We collect personal data and also 
 Hi,Hi,MISC,,,de,1
 lieben alle den „lustigen Chandler,lieben alle den „lustigen Chandler,MISC,,,de,1
 pektlOOpleu,pektlOOpleu,MISC,,,de,1
+PekOeleeu,PekOeleeu,MISC,,,de,1
 Donnerstag,Donnerstag,MISC,,,de,1
+K1,K1,MISC,0.0,0.0,de,1
 "Neue Studie ""Wärmemonitor","Neue Studie ""Wärmemonitor",MISC,,,de,1
-US-Fa,US-Fa,MISC,,,de,1
 DIW-Ökonomin,DIW-Ökonomin,MISC,,,de,1
 CO2-Bepreisung,CO2-Bepreisung,MISC,,,de,1
 Spar-Tipps,Spar-Tipps,MISC,,,de,1
@@ -785,11 +790,10 @@ Tag nach der A…,Tag nach der A…,MISC,,,de,1
 Marx-Halle,Marx-Halle,MISC,,,de,1
 NRW-Kommunen,NRW-Kommunen,MISC,,,de,1
 Kreatives Wärmen,Kreatives Wärmen,MISC,,,de,1
-PekOeleeu,PekOeleeu,MISC,,,de,1
+US-Fa,US-Fa,MISC,,,de,1
 Staâ€,Staâ€,MISC,,,de,1
-Kaltes Wochenende,Kaltes Wochenende,MISC,,,de,1
-Mehr Platz für Obdachlosenhilfe,Mehr Platz für Obdachlosenhilfe,MISC,,,de,1
-pelueO,pelueO,MISC,,,de,1
+Xfjiobdiut{fju,Xfjiobdiut{fju,MISC,,,de,1
+Tdimjnntuf- xbt fjofn,Tdimjnntuf- xbt fjofn,MISC,,,de,1
 IeeO,IeeO,MISC,,,de,1
 Skifa,Skifa,MISC,,,de,1
 Pittiplatsch-Kindertasse,Pittiplatsch-Kindertasse,MISC,,,de,1
@@ -810,11 +814,11 @@ E-Control,E-Control,MISC,,,de,1
 Nacht von Freitag,Nacht von Freitag,MISC,,,de,1
 "ol><li>""Winterliche","ol><li>""Winterliche",MISC,,,de,1
 Die ersten Schneeflocken,Die ersten Schneeflocken,MISC,,,de,1
-Tdimjnntuf- xbt fjofn,Tdimjnntuf- xbt fjofn,MISC,,,de,1
-Neue Tee- und Wärmestube,Neue Tee- und Wärmestube,MISC,,,de,1
-Xfjiobdiut{fju,Xfjiobdiut{fju,MISC,,,de,1
-Pariser Bataclan,Pariser Bataclan,MISC,,,de,1
+Kaltes Wochenende,Kaltes Wochenende,MISC,,,de,1
+pelueO,pelueO,MISC,,,de,1
+Mehr Platz für Obdachlosenhilfe,Mehr Platz für Obdachlosenhilfe,MISC,,,de,1
 Xfjiâ€,Xfjiâ€,MISC,,,de,1
+Neue Tee- und Wärmestube,Neue Tee- und Wärmestube,MISC,,,de,1
 chinesischer,chinesischer,MISC,,,de,1
 Kommende Woche,Kommende Woche,MISC,,,de,1
 Smarte Heizkörperthermostat,Smarte Heizkörperthermostat,MISC,,,de,1
@@ -835,11 +839,11 @@ inFood,inFood,MISC,,,de,1
 LNG-Boom,LNG-Boom,MISC,,,de,1
 Smart-Thermostate,Smart-Thermostate,MISC,,,de,1
 ukrainischer,ukrainischer,MISC,,,de,1
-Caritas-Foodtruck,Caritas-Foodtruck,MISC,,,de,1
+Pariser Bataclan,Pariser Bataclan,MISC,,,de,1
 Ãœbernachtung,Ãœbernachtung,MISC,,,de,1
-Portion</td><td,Portion</td><td,MISC,,,de,1
-Anschlagsdrohung,Anschlagsdrohung,MISC,,,de,1
-Österreichische,Österreichische,MISC,,,de,1
+Wir schicken euch,Wir schicken euch,MISC,,,de,1
+Skigebiete,Skigebiete,MISC,0.0,0.0,de,1
+Monika,Monika,MISC,,,de,1
 Ski-Fitness,Ski-Fitness,MISC,,,de,1
 Draußen,Draußen,MISC,,,de,1
 Weihnachtsmarkt-Abbau - Toter,Weihnachtsmarkt-Abbau - Toter,MISC,,,de,1
@@ -850,8 +854,8 @@ expo­nierten,expo­nierten,MISC,,,de,1
 Kern­kraft,Kern­kraft,MISC,,,de,1
 Olympiasiegerin von 1976,Olympiasiegerin von 1976,MISC,,,de,1
 Tablet,Tablet,MISC,,,de,1
-Monika,Monika,MISC,,,de,1
 â€žextrem,â€žextrem,MISC,,,de,1
+Gr,Gr,MISC,,,de,1
 SkivergnÃ¼gen,SkivergnÃ¼gen,MISC,,,de,1
 grÃ¼n,grÃ¼n,MISC,0.0,1.0,de,1
 Skeleton-Weltcup,Skeleton-Weltcup,MISC,,,de,1
@@ -860,12 +864,12 @@ Monobob-Weltcup,Monobob-Weltcup,MISC,,,de,1
 Samstags,Samstags,MISC,,,de,1
 Klein gegen,Klein gegen,MISC,,,de,1
 Constantin,Constantin,MISC,,,de,1
-Short,Short,MISC,,,de,1
-Skisprung-Team,Skisprung-Team,MISC,,,de,1
+Ungehindert,Ungehindert,MISC,,,de,1
 katholische,katholische,MISC,,,de,1
-Der Drohanruf,Der Drohanruf,MISC,,,de,1
-Extreme Kältewelle,Extreme Kältewelle,MISC,,,de,1
-schützen.</li,schützen.</li,MISC,,,de,1
+Österreichische,Österreichische,MISC,,,de,1
+Short,Short,MISC,,,de,1
+Anschlagsdrohung,Anschlagsdrohung,MISC,,,de,1
+Skisprung-Team,Skisprung-Team,MISC,,,de,1
 Caroline Hoffmann.</em,Caroline Hoffmann.</em,MISC,,,de,1
 Todesopfer bei schweren Schneefällen,Todesopfer bei schweren Schneefällen,MISC,,,de,1
 Rekordhoher Schneefall,Rekordhoher Schneefall,MISC,,,de,1
@@ -884,13 +888,13 @@ Die Reise zur Familie,Die Reise zur Familie,MISC,,,de,1
 Schweizerinnen,Schweizerinnen,MISC,-0.25,0.25,de,1
 Das Jahr 2022,Das Jahr 2022,MISC,,,de,1
 hilft.25 Jahre,hilft.25 Jahre,MISC,,,de,1
+Tournee-Auftakt,Tournee-Auftakt,MISC,,,de,1
 Hunderte Euro im Jahr,Hunderte Euro im Jahr,MISC,,,de,1
-Ungehindert,Ungehindert,MISC,,,de,1
+Der Drohanruf,Der Drohanruf,MISC,,,de,1
 Geburt Christi,Geburt Christi,MISC,,,de,1
-Chaos in den,Chaos in den,MISC,,,de,1
-Die herannahende Kaltluft,Die herannahende Kaltluft,MISC,,,de,1
+"Buch ""Enterbt uns","Buch ""Enterbt uns",MISC,,,de,1
+Ihr Buch,Ihr Buch,MISC,,,de,1
 Kindern Lust,Kindern Lust,MISC,,,de,1
-QUB-Ppaeulpuele Bleue Folt pehteale,QUB-Ppaeulpuele Bleue Folt pehteale,MISC,,,de,1
 WG gegen Einsamkeit für über 55-Jährige,WG gegen Einsamkeit für über 55-Jährige,MISC,,,de,1
 Ich mach…,Ich mach…,MISC,,,de,1
 wetterbedin,wetterbedin,MISC,,,de,1
@@ -910,12 +914,12 @@ Let it snow!,Let it snow!,MISC,,,de,1
 Estnische Identitätskrise +++ Die High Society,Estnische Identitätskrise +++ Die High Society,MISC,,,de,1
 Komet C/,Komet C/,MISC,,,de,1
 Hütten-Leckereien,Hütten-Leckereien,MISC,,,de,1
+Portion</td><td,Portion</td><td,MISC,,,de,1
+Europameisterin,Europameisterin,MISC,,,de,1
+QUB-Ppaeulpuele Bleue Folt pehteale,QUB-Ppaeulpuele Bleue Folt pehteale,MISC,,,de,1
 Golf,Golf,MISC,1.0,0.0,de,1
-World Snow Day,World Snow Day,MISC,,,de,1
-"Buch ""Enterbt uns","Buch ""Enterbt uns",MISC,,,de,1
-kündi,kündi,MISC,,,de,1
-Ihr Buch,Ihr Buch,MISC,,,de,1
 Fantasiesumme,Fantasiesumme,MISC,,,de,1
+Die herannahende Kaltluft,Die herannahende Kaltluft,MISC,,,de,1
 Weltcup-Sieg,Weltcup-Sieg,MISC,,,de,1
 Direct-Line-Anleger,Direct-Line-Anleger,MISC,,,de,1
 StockSnap,StockSnap,MISC,,,de,1
@@ -935,12 +939,12 @@ Heim-Podest,Heim-Podest,MISC,,,de,1
 Hundert Jahre Einsamkeit,Hundert Jahre Einsamkeit,MISC,,,de,1
 wetter.ORF.at,wetter.ORF.at,MISC,,,de,1
 Deutsche Wintersportorte,Deutsche Wintersportorte,MISC,,,de,1
+kündi,kündi,MISC,,,de,1
+World Snow Day,World Snow Day,MISC,,,de,1
+schützen.</li,schützen.</li,MISC,,,de,1
+Extreme Kältewelle,Extreme Kältewelle,MISC,,,de,1
 Extreme Kältewelle - WEB.DE News,Extreme Kältewelle - WEB.DE News,MISC,,,de,1
-X-Faktor,X-Faktor,MISC,,,de,1
-Wir schicken euch,Wir schicken euch,MISC,,,de,1
-KW 49.,KW 49.,MISC,,,de,1
 "Verwüstung"".Am","Verwüstung"".Am",MISC,,,de,1
-Iranische,Iranische,MISC,,,de,1
 TeheranWechelskurse von Rial,TeheranWechelskurse von Rial,MISC,,,de,1
 Union-Profis lesen Kindern,Union-Profis lesen Kindern,MISC,,,de,1
 Schritt für Schritt,Schritt für Schritt,MISC,,,de,1
@@ -960,12 +964,12 @@ Warnung vor unwetterartigem Glatteis,Warnung vor unwetterartigem Glatteis,MISC,,
 Tag des Jahres,Tag des Jahres,MISC,,,de,1
 Gefahr durch Konvergenz,Gefahr durch Konvergenz,MISC,,,de,1
 Zwei Stunden am Tag schaltet Petra,Zwei Stunden am Tag schaltet Petra,MISC,,,de,1
-Hilfe in der Not - Wärmestuben,Hilfe in der Not - Wärmestuben,MISC,,,de,1
-Glätte-Unfälle,Glätte-Unfälle,MISC,,,de,1
+Alarm - Panorama,Alarm - Panorama,MISC,,,de,1
 €,€,MISC,,,de,1
-Der Mann sei …,Der Mann sei …,MISC,,,de,1
-Skigebiete,Skigebiete,MISC,0.0,0.0,de,1
-Gr,Gr,MISC,,,de,1
+Iranische,Iranische,MISC,,,de,1
+Hilfe in der Not - Wärmestuben,Hilfe in der Not - Wärmestuben,MISC,,,de,1
+Stuttgarter,Stuttgarter,MISC,,,de,1
+KW 49.,KW 49.,MISC,,,de,1
 Corona-Eingriffe,Corona-Eingriffe,MISC,,,de,1
 Weihnachtsartikel aus Holz,Weihnachtsartikel aus Holz,MISC,,,de,1
 Stimmungstief,Stimmungstief,MISC,,,de,1
@@ -985,12 +989,12 @@ Magistratsabteilung 48,Magistratsabteilung 48,MISC,,,de,1
 Schönheit der Einsamkeit,Schönheit der Einsamkeit,MISC,,,de,1
 Ein Fahranfänger,Ein Fahranfänger,MISC,,,de,1
 Der Mann,Der Mann,MISC,,,de,1
-Alarm - Panorama,Alarm - Panorama,MISC,,,de,1
+Der Mann sei …,Der Mann sei …,MISC,,,de,1
+Glätte-Unfälle,Glätte-Unfälle,MISC,,,de,1
 badische,badische,MISC,,,de,1
-Der Sturm,Der Sturm,MISC,,,de,1
-Alles News im Blog,Alles News im Blog,MISC,,,de,1
+Pistenspaß,Pistenspaß,MISC,,,de,1
+Chaos in den,Chaos in den,MISC,,,de,1
 Gefährliches Glatteis,Gefährliches Glatteis,MISC,,,de,1
-TV7 News Gefährliches Glatteis,TV7 News Gefährliches Glatteis,MISC,,,de,1
 Marktplatzbespaßung,Marktplatzbespaßung,MISC,,,de,1
 Wettergötter,Wettergötter,MISC,,,de,1
 Freikratzen,Freikratzen,MISC,,,de,1
@@ -1010,12 +1014,12 @@ IeOoelelnleu velpe,IeOoelelnleu velpe,MISC,,,de,1
 Sat.1.,Sat.1.,MISC,,,de,1
 österreichischer,österreichischer,MISC,,,de,1
 Alleinsein | Weihnachten,Alleinsein | Weihnachten,MISC,,,de,1
+Der Sturm,Der Sturm,MISC,,,de,1
+X-Faktor,X-Faktor,MISC,,,de,1
+TV7 News Gefährliches Glatteis,TV7 News Gefährliches Glatteis,MISC,,,de,1
 Eiskalter Wochenstart,Eiskalter Wochenstart,MISC,,,de,1
-Gas-Infrastruktur,Gas-Infrastruktur,MISC,,,de,1
-Stuttgarter,Stuttgarter,MISC,,,de,1
-Regen und Glatteis,Regen und Glatteis,MISC,,,de,1
-Pistenspaß,Pistenspaß,MISC,,,de,1
 … Frost und Schnee,… Frost und Schnee,MISC,,,de,1
+Alles News im Blog,Alles News im Blog,MISC,,,de,1
 Wetterlage im Ticker - Lkw kippt,Wetterlage im Ticker - Lkw kippt,MISC,,,de,1
 Postbote Marco,Postbote Marco,MISC,,,de,1
 Energiepreis-Schock und Mega-Inflation,Energiepreis-Schock und Mega-Inflation,MISC,,,de,1
@@ -1035,4 +1039,6 @@ Montagmittag,Montagmittag,MISC,,,de,1
 Warnung vor Eisregen und Glatteis,Warnung vor Eisregen und Glatteis,MISC,,,de,1
 Eisregen und Glätte,Eisregen und Glätte,MISC,,,de,1
 Bea… Überfrierender,Bea… Überfrierender,MISC,,,de,1
+Regen und Glatteis,Regen und Glatteis,MISC,,,de,1
+Gas-Infrastruktur,Gas-Infrastruktur,MISC,,,de,1
 Letzter Frost des Frühjahrs: ​So,Letzter Frost des Frühjahrs: ​So,MISC,,,de,1
