@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0621734155572288
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0605877066028397
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.05898981142505874
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0564175213990461
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0538881805225289
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0527739836226476
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0520004086848474
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0511914447112999
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0498232736809109
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0487947941842386
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0452689771015929
