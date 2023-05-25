@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0867038369577428
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.08202345573208969
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0751816503960605
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.07407037237227616
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0621734155572288
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604039253404487
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0588432057616589
