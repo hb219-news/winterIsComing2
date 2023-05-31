@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0529387952705516
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0527739836226476
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0513433515393813
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.04985241494811867
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0498524149481186
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0498232736809109
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0487947941842386
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0472231925569028
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0301147363869378
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0186520175126401
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006844636269662
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.5836291236266275e-05
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.1960847550826332e-05
