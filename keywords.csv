@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0895479287709822
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.08106902445533487
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0753379335582521
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.07309985762877426
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0730998576287742
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0634628480046049
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0588432057616589
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0568292263956239
