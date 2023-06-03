@@ -2,17 +2,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1011006269872029
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0793269547598884
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0735355180699688
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.06435425905089795
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0643542590508979
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.062584923984458
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0588432057616589
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0568292263956239
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0564175213990461
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0552935558039141
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0537474932236444
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0527739836226476
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0499517409799688
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0498524149481186
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0487947941842386
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.048499672433326986
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0472231925569028
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0424382820248021
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
