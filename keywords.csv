@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1011006269872029
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0793269547598884
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0735355180699688
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0730998576287742
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.06258492398445807
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0588432057616589
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0568292263956239
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0564175213990461
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0498524149481186
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0487947941842386
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0472231925569028
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.04243828202480217
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0424382820248021
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.039534334177527
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0338275036654343
