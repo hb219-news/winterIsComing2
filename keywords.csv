@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0484996724333269
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0449248077059008
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0424382820248021
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.041939893673367375
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0419398936733673
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0338275036654343
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0291978859288971
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0189995045100008
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0007318090829212
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00077205272048302
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.586671235547202e-05
