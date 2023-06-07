@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0338275036654343
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0291978859288971
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0189995045100008
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00080625981241055
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.586671235547202e-05
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008062598124105
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.3486705502151217e-05
