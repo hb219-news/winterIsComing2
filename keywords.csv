@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0402862965500156
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0387118829387258
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0338275036654343
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0291978859288971
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.025568773039562533
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0189995045100008
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008353358405489
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.74414472530425e-06
