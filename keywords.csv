@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0402862965500156
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0400427522044552
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0338275036654343
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0265339370836281
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.022554326521083887
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0178302016174236
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008810578947965
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,5.984122879427473e-06
