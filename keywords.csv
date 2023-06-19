@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0455450539679166
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0427248715683278
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0424382820248021
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0419398936733673
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0400427522044552
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0365489996223622
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0354434720675132
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0335991351482762
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0239716575429212
