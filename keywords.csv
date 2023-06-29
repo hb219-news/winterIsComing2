@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.09017650366051008
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0509223520128028
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.09017650366051
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.053403501029064195
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0479382172723679
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0456853692400977
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0435703877263493
