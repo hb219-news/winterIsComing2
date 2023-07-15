@@ -7,17 +7,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0437566651968
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0421762145320011
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.042097852684416
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0417503348347497
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0408101341194089
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0394357757212025
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0380673815312344
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0380562194214893
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0375162608330786
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.036837919609537244
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0330076792759705
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0310270412573862
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0282015736493666
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0253909062345871
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0228156869848334
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.02182404294606651
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0218240429460665
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0131717117762227
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.000558607226014
