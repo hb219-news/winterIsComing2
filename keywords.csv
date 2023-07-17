@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0380562194214893
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0375162608330786
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0330076792759705
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.03281238166810662
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0328123816681066
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0310270412573862
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0282015736493666
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0253909062345871
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0228156869848334
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0218240429460665
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.021582435299399034
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0131717117762227
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0006248311421119
