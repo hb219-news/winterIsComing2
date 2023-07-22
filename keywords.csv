@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0548986077221848
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.05161621656385708
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0490412557293996
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0468599068543291
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.04314748353887069
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0431474835388706
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.042097852684416
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0408101341194089
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0394357757212025
