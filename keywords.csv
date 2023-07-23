@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,2,0.15068112147079513
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.051616216563857
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0468599068543291
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0453412326388964
@@ -20,4 +21,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0263729850687782
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0184960997538157
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.017316917096542
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0006248311421119
