@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0328123816681066
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0263729850687782
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.025562234747580275
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0255622347475802
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0236397971577478
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0184960997538157
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.017316917096542
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.016621774790743345
