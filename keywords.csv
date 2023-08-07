@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0362755538645728
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.035630439192173
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.033949334356834
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0330076792759705
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.030357084203308897
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0263729850687782
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0260001210884553
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.022928019535443166
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0229280195354431
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0105118225737354
