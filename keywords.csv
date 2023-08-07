@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0412980340369514
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0412090466052798
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0403789782111365
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.040324421901832615
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0403244219018326
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0396437590014975
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0362755538645728
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.035630439192173
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0330076792759705
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.032386083313347046
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303570842033088
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0263729850687782
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0260001210884553
