@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0396437590014975
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0362755538645728
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0357777646144878
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.032386083313347
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.031161174922314627
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303570842033088
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.028506572384574925
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0285065723845749
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0263729850687782
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0260001210884553
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
