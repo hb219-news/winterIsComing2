@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0814842377194927
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07213284515322471
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0656702582771874
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0585154324469147
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0576450023193018
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0555438270393722
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0465718928352712
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0419014269880265
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0362755538645728
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.032386083313347
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.031161174922314627
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311611749223146
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303570842033088
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0285065723845749
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0263729850687782
