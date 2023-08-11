@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.07741684530715022
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0774168453071502
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.066265678380241
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0656702582771874
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0647004445023334
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0555438270393722
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.06464828226918065
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0465718928352712
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0419014269880265
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0403789782111365
