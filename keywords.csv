@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311611749223146
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303570842033088
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0291783358163449
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0285065723845749
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0260001210884553
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.024680631526888666
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0237671723084614
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.01648541044720396
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0164854104472039
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.009085064187675
