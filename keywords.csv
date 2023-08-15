@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.079460359805023
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0650936359844159
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0572456028269834
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0525364666894829
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0465718928352712
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.04465625168606046
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0403244219018326
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0396437590014975
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0389974940916973
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.037022401479466
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.035616572939822524
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356165729398225
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0315842957848868
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311611749223146
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303570842033088
