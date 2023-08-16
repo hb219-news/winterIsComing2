@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0465718928352712
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0446562516860604
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0396437590014975
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0389974940916973
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03809896497794271
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356165729398225
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0353258636165577
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0246806315268886
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0237671723084614
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0164854104472039
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.006841486625595145
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0068414866255951
