@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.079460359805023
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0770394903797241
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0704076617468052
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0650936359844159
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0572456028269834
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0389974940916973
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356165729398225
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.035325863616557714
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0353258636165577
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0331192062575461
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0315842957848868
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311611749223146
