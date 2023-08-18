@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0291783358163449
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0277467414171537
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0246806315268886
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0237671723084614
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.022100102925187003
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.022100102925187
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.021428581797855308
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0164854104472039
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0068414866255951
