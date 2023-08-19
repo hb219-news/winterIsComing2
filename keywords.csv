@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0704076617468052
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0586309105867535
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.049082223455435
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0486589574029358
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.04780817393315133
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0478081739331513
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.043160293792495426
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0396437590014975
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0380989649779427
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
