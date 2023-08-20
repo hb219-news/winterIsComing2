@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0245616956273091
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0237671723084614
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0214285817978553
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.01878508748640895
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0187850874864089
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.018664339528177004
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0146126588801233
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0068414866255951
