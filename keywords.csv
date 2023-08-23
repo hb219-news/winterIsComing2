@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0444206549371197
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0436806584629628
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0431602937924954
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03865198015127287
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0380989649779427
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0373977947085687
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.036735050231251294
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356165729398225
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311611749223146
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0296514753189141
