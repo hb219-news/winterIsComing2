@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0532876089987404
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0431296310643948
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0412851250477379
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.040637262843178604
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0406372628431786
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.038636444723621
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0384786946935183
@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0270039340210769
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0231706170868905
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0217812285907307
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0215522314621921
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.020764269302121094
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0163147335989504
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0135722257089303
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0128708050481048
