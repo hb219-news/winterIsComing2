@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0717953531120667
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0532876089987404
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0431296310643948
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0412851250477379
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0406372628431786
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.04004387129057721
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.038636444723621
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0384786946935183
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035425707696563516
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0354257076965635
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0277467414171537
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0273870886839674
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0270039340210769
