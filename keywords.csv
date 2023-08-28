@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0918366819931519
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0834244019988491
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.08088282582945651
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0610264701452566
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0532876089987404
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0431296310643948
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.038636444723621
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0354257076965635
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.033606980489490554
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0336069804894905
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0277467414171537
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0273870886839674
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0270039340210769
