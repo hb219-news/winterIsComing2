@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0406372628431786
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0400438712905772
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.030112781542078977
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0294660234160669
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0301127815420789
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.025946209903656862
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0240291003813722
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0231706170868905
