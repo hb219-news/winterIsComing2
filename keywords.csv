@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07144879763883538
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0714487976388353
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0610264701452566
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0587183163524649
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0526055529250148
@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0406372628431786
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0400438712905772
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.032344891493009745
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0301127815420789
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0259462099036568
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0240291003813722
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0231706170868905
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.020764269302121
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0196695317428632
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0176581409898397
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0141675535591078
