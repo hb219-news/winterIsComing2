@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0259462099036568
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0240291003813722
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0231706170868905
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.020595114523856924
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0196695317428632
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0176581409898397
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0135722257089303
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.01219243552524163
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0121924355252416
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0062671948929645
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0052610052290491
