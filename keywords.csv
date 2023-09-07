@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0485049074655804
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0456554737293635
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0431296310643948
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04235233767403643
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0406372628431786
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0400438712905772
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386519801512728
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0323448914930097
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0297680214141519
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0259462099036568
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0141675535591078
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0135722257089303
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0071966822270171
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.005261005229049116
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0052610052290491
