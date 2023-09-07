@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0651962655564895
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0566373988333953
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0526055529250148
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0512607038995951
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0485049074655804
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0456554737293635
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.044921733314655835
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0431296310643948
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0423523376740364
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0406372628431786
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0176581409898397
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0141675535591078
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0135722257089303
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.006267194892964534
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0062671948929645
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0052610052290491
