@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0400438712905772
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0398336383174574
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0395572276699589
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03875004516156752
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0387500451615675
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0323448914930097
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0259462099036568
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0256215026019616
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0121924355252416
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0115363918525907
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0062671948929645
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0052219294446917
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.005188715027987945
