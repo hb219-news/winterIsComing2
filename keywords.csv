@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0686927574485843
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.049418029081326316
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0494180290813263
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0487295786031161
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0485049074655804
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0435580669883231
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0121924355252416
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.009805933074702
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0054771306590198
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0051364853577212
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.00511608755406302
