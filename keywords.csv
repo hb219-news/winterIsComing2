@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0576441264189776
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0563266602834854
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.05395023745613096
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0417924395414765
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0405053574608534
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0399622908767625
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0157769125694635
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0108136151964553
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0060220686495012
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.004928286963046465
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0049282869630464
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0039572269011417
