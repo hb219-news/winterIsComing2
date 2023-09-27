@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0387500451615675
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0364085515407513
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.03586414418007
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.03396832224524812
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0339683222452481
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0276738984291543
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0274226290817083
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0259462099036568
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.024509354719452054
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0240291003813722
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0204092253799172
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0196695317428632
