@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0746953653387541
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0732921782906866
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.06844371553794097
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0612137840945831
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.056418019989827
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0499593026252573
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0357274931018291
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0354352875530595
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0350647560694078
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.02861263303205569
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0286126330320556
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0284735936647811
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.024509354719452
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0176191919814337
