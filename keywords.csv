@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0378915133873323
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0357274931018291
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0354352875530595
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0350647560694078
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.03055511765899663
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0286126330320556
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0284735936647811
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.024509354719452
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0176191919814337
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0150605406840439
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0070072322561807
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0020656971750639746
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0020656971750639
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0016409566481237
