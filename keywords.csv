@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0365429901723475
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0357274931018291
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0354352875530595
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.029153169615063937
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0286126330320556
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0284735936647811
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0214330115115342
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0176191919814337
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0150793875225884
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.011306483822927779
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0113064838229277
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0013948131509051
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0007790766890031
