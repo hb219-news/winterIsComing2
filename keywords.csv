@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.08753222545389747
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0875322254538974
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0746534453592646
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0682255592625147
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0625978529565857
@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0422417168198312
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.041193537457462
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0389012066467483
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0360180066464953
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0357274931018291
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035571845649521004
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0354352875530595
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0259808091728043
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.018818119784804
