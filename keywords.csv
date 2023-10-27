@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0445180519007766
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0422417168198312
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.041193537457462
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.03986518868200928
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0389012066467483
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0357274931018291
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035571845649521
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0354352875530595
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.02084176237735106
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.020841762377351
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0165954618170834
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.01616788473507
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0123758415238032
