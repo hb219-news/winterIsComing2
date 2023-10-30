@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1446506041796614
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.15517746582543945
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1058785179600239
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0793814257836454
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0769291542386928
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.020841762377351
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0165954618170834
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.01616788473507
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.01246966029523272
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0124696602952327
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0013948131509051
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003456804657554
