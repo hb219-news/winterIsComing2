@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0595436255108696
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0561753457798126
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0520422634080659
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0518819432065692
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.04680041672558382
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0456477518594631
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0399662468388427
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0399387455762524
