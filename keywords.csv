@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0398651886820092
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0384639817856483
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0355980987398145
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.017294387371244266
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0172943873712442
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0145561875445208
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.012358196419492
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0080383731698773
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0008565896262995
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0002497541365082
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00021229101603197
