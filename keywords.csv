@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.108152533359137
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1075431725465978
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.09180227859001891
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.09688161835526644
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0918022785900189
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0879854789193529
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0839879054132926
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.061668694468462
