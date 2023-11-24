@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1833702369133833
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1643681098605097
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1155575241447826
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0867182591282809
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.08323336905214221
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0714953550420448
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0646258474668382
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.061351982043860394
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.0613519820438603
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0595436255108696
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0510493739128407
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0502663298418331
