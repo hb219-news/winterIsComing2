@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0464408073410637
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0452766353655581
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0398651886820092
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0369617600901308
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03637301607661118
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311584739288423
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0168004392655575
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0112548002007787
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0101824866511204
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0068128251152363
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0011134465897944
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.000526053104251105
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0005260531042511
