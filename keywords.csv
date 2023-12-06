@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0591812850566467
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0581740875926242
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0527122916842391
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0524509604552604
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0487785540034637
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0464408073410637
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.04638349638697133
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0452766353655581
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0433923128259145
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0398651886820092
