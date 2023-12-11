@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2322653413513972
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2293627176164431
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.18663286060731096
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1862066708244682
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1816550098053926
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1659284537004458
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.08325708610473861
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0832570861047386
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0738884311995071
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0591812850566467
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0581740875926242
