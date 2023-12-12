@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0527122916842391
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0489714757853586
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0487785540034637
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.04792745947061691
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0471766380448844
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0463834963869713
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0452766353655581
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0398651886820092
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0366822260316073
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311584739288423
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0260667301706618
