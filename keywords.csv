@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.2021655545006074
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1854469413098491
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.16573039519646135
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1657303951964613
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1611100082474229
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1483606948809115
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1007098227526951
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0832570861047386
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0813946051559446
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0709412670578362
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0652853200607243
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.06105064699916076
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0587690878356842
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0544029694537305
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0527122916842391
