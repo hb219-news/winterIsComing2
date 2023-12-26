@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1595195764599582
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1492424288305929
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.125566988458763
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1146697317911357
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.10243299702246535
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.1007098227526951
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0832570861047386
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0813946051559446
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0403260619289256
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311584739288423
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0232068256450625
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.02140519425415809
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.021405194254158
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0027615719197088
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,0.0001035663915508
