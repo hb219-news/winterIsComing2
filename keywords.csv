@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1011224565600046
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0877427470516156
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0832570861047386
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0813946051559446
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.07868349392800746
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0650027617551326
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.05400412966033157
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0540041296603315
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0521968856266116
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0511972040356709
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0444505773381517
