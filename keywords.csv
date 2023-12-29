@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1802531231319109
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.15801937238579183
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.1580193723857918
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1454468831423676
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.125566988458763
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1244295129923197
@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0540041296603315
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0521968856266116
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0484723784303202
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.04646502132463781
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0444505773381517
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0434919315049215
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0403260619289256
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,3,0.0402784037730389
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0311584739288423
