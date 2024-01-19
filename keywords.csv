@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0842731907271568
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0821921490285576
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0786834939280074
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0732182379936486
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0696153984365352
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0687600531188452
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0667513484366447
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.06343562229460131
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0565093463641261
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0540041296603315
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04251409999102027
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0425140999910202
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.039030258783493
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0389813790077923
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,3,0.0346633103945419
