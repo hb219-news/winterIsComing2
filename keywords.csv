@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0709134316742739
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0696153984365352
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0687600531188452
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.06836320726509444
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0683632072650944
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0634356222946013
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0565093463641261
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0459038102112817
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.039030258783493
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0389813790077923
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.03632702496596905
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,3,0.0297338926623321
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0208634788878957
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0162341617058894
