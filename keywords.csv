@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036327024965969
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0331345171566234
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,3,0.0297338926623321
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0208634788878957
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.017734272054711345
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0162341617058894
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006396268549841549
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006396268549841
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.822086041007861e-05
