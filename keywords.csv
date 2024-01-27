@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0687600531188452
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0683848292097615
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0634356222946013
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.06306315117533023
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0630631511753302
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0614765369231328
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0519009158617174
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.04906693348245979
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036327024965969
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0331345171566234
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,3,0.0297338926623321
