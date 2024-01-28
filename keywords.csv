@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1707078012192563
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.17732698330909513
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1385138054715426
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.136827134716599
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1356552088018248
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0842731907271568
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0786834939280074
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0696153984365352
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.06919106699312368
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0691910669931236
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0683848292097615
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0634356222946013
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0630631511753302
