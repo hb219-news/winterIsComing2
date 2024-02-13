@@ -6,15 +6,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0932857703511658
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0885996731340442
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0870185386795894
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.08672800795907591
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0867280079590759
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0854699284751699
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0634356222946013
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0593272248282972
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.058812601944155
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0509277778316576
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0459319494269633
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0445057456985539
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0417078684600907
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0399422470129188
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036327024965969
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0316324666479997
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0140990674500059
