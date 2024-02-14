@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0634356222946013
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0593272248282972
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.058812601944155
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.048244236156908954
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0482442361569089
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0445057456985539
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0417078684600907
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0399422470129188
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036327024965969
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0316324666479997
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.031838091650799746
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0140990674500059
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0115427381223883
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0002838058335739
