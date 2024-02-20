@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.058812601944155
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0445057456985539
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0417078684600907
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04097565453413236
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0409756545341323
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0399422470129188
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0354072315379125
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0270628429031797
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0140990674500059
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0102823225434254
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.00888998916191159
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0002412349585378
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.2521745687272808e-05
