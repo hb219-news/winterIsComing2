@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.132168879908901
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.124242204602141
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1137221371669119
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1071860756960032
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0946006230938047
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.09230828434160272
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0902150683805776
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0867280079590759
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0854699284751699
