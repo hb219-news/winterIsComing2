@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,2,0.0553798811040526
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0445057456985539
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0417078684600907
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0397833863540124
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03877000340091054
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0350480068072256
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0348509999609809
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.022143807179477837
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0221438071794778
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0140990674500059
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0077065057876247
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0004518200075435
