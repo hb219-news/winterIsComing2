@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0387700034009105
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0350480068072256
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0306734549668337
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0221438071794778
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.02137249110255613
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.012134222332505
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0035519831442389245
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0035519831442389
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006039677054501
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.722570320734371e-06
