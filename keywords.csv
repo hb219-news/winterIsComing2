@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.091237497840258
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0884195265780368
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0824807511337878
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0820152478771255
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0816360481234909
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0787882109137897
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0761001084751297
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.06971374069555668
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.062196623524516
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.058812601944155
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,2,0.0553798811040526
