@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0906232606411995
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0884195265780368
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0825034631642193
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0824807511337878
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0816360481234909
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0787882109137897
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.078319215672603
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.07325895346371963
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0697137406955566
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.058812601944155
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,2,0.0488730789384447
