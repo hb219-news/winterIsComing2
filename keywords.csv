@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1287061564605987
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.09464774700399396
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0936689267652145
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0906232606411995
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.08479525962328116
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0847952596232811
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0825034631642193
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0816360481234909
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0787882109137897
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.078319215672603
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0768067625913312
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0732589534637196
