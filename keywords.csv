@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0732589534637196
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0731838852103855
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0697137406955566
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0668713633217125
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.06648586820263153
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0664858682026315
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0640328057434408
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.05714068882345562
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0415422970976779
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385470802907607
