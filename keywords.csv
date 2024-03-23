@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0827766577735867
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0703235643378674
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0697137406955566
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0687485859825335
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0662215332912765
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0640328057434408
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.05771310797223677
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.058436793085153475
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0577131079722367
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0571406888234556
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0555534248145034
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
