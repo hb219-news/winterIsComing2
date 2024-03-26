@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0571406888234556
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0555534248145034
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.038807592150941886
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0371111325330262
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0357658132471465
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0351918088110734
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0344827854182204
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.013628061232710988
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0136280612327109
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0106141189826292
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0007421427030729
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.4120570567305824e-06
