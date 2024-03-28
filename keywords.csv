@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0571406888234556
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0444429453509836
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.03793786332830053
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0379378633283005
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0371111325330262
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0348677024894123
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0136280612327109
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.012483942047804264
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0106141189826292
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006308212976119
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.4120570567305824e-06
