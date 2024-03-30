@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.11189919496353731
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.1118991949635373
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1050762706797889
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0862448361419112
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.080244773476399
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0348677024894123
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0124839420478042
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0106141189826292
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006308212976119
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006862131029701149
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.4120570567305824e-06
