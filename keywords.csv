@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0444429453509836
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0379378633283005
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.03719848882905543
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0371111325330262
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0345927371160004
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0124839420478042
