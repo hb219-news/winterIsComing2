@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0517560394778712
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.04272767354833606
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.042727673548336
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0371984888290554
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0371111325330262
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0343591065486003
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0116614557406335
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0106141189826292
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006862131029701
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.465211223487845e-06
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.0954295399646684e-06
