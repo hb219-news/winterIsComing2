@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1194932424393108
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.11707294344306785
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1050762706797889
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0862448361419112
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.070999715106312
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.07075607411511545
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0707560741151154
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0697137406955566
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0675692196797348
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0606751196871872
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0603242453384349
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0577131079722367
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0552428271176596
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
