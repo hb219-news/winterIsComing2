@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0552428271176596
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0476956462534712
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.045342768556190516
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0453427685561905
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.042727673548336
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0371984888290554
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0371111325330262
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0343591065486003
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03416044556631025
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0116614557406335
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0106141189826292
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006862131029701
