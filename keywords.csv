@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0603242453384349
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0552428271176596
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0453427685561905
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.042727673548336
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0420424393154505
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.03989148827276193
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036569930504697
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033848252171659
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0316944776530722
