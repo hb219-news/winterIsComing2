@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1337935283461414
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1686759840942202
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.1050762706797889
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1008621369266076
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0862448361419112
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.042727673548336
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0420424393154505
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.03989148827276193
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0398914882727619
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036569930504697
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033848252171659
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0316944776530722
