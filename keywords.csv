@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0420424393154505
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036569930504697
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0352579000318476
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0337259193459101
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03362201144402358
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0316944776530722
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0116614557406335
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0106141189826292
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008073342093614299
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008073342093614
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.781115108969968e-06
