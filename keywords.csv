@@ -4,16 +4,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0801042703183783
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0686900482072617
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0675692196797348
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.06580109571505283
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0658010957150528
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0635000728403652
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0603242453384349
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0592569495912231
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0552428271176596
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0527739717341091
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0523108471094232
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.042727673548336
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0421354896522657
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0420424393154505
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0412697075160856
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.036569930504697
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0336220114440235
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0316944776530722
