@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.120628629514791
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0893756685376696
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0834561538281872
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0801042703183783
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.07656937825701915
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0687042079041255
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0647200837564156
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0594376359761724
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0316944776530722
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0278440697730098
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0097720761352348
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008362490779571899
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008362490779571
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.5139478426244729e-06
