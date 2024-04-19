@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.120628629514791
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0775869493160761
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0765693782570191
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.07111243119295325
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0687042079041255
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0647200837564156
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.06297515389086523
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0629751538908652
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0594376359761724
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0592569495912231
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0558492835789988
