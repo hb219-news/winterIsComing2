@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0421354896522657
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0394443885717659
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0363105804287096
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.03573688341813292
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0209499236609995
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0357368834181329
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.018257480111849574
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0128784867766565
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0085526563690509
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006041899588239
