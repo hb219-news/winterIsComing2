@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.126088598169998
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0984095655991936
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0965830881881153
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.08860152075931456
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0832905839743839
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.08042079920172618
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0804207992017261
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.0785302829987802
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.069537009342509
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0686917488613638
