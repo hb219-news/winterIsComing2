@@ -10,14 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0594448625669523
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0587653900430097
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0586557040024554
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.051756556499962705
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0517565564999627
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0446485470673627
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0421354896522657
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0401272209054129
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0363105804287096
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0350908460346892
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0134836020736894
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0128784867766565
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.012661181762635991
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0085526563690509
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003710481584626
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,7.902902360239913e-07
