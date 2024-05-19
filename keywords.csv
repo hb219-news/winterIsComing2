@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1095725455106199
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.06851507195908416
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0685150719590841
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0658014278713405
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.062740102085835
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0626210389092737
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0594448625669523
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0586557040024554
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0567383897166186
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0560108344909155
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0550290308072354
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0517613395194858
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.04760968931727817
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0439933730249682
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0401272209054129
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0363105804287096
