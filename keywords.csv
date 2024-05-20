@@ -2,16 +2,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1092380136840269
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0658014278713405
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0631910361652214
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.06289466707122296
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.0628253813184143
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0626210389092737
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0594448625669523
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0586557040024554
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.057243237023761925
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0572432370237619
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0567383897166186
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0550290308072354
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0517613395194858
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0476096893172781
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0439933730249682
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0401272209054129
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0363105804287096
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0347826041294858
