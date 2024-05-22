@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.0628253813184143
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0626210389092737
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0596820836906394
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0594448625669523
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0586655757404381
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0586557040024554
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0572432370237619
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0550290308072354
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.054729048181909455
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0517613395194858
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.04867767625912581
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0486776762591258
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0476096893172781
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0401272209054129
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0347826041294858
