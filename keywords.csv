@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0939972879866134
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.09848527342498502
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0825697879136932
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0712311292937684
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0644940703438728
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0341069999485203
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,2,0.0292915544550823
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0235765002125262
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.008234158204214154
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0082341582042141
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0001399406332376
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,5.709846955273337e-07
