@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0486776762591258
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.04782478118615
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0463973785915629
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0428732568700669
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.042783812102171
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0401272209054129
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03369133436838493
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03704232833955686
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0336913343683849
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,2,0.0292915544550823
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0235765002125262
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0082341582042141
