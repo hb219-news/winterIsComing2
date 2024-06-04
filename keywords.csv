@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0574695691723425
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0547290481819094
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0507301461370434
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.050482354323448025
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0490214876150354
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0486776762591258
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0463973785915629
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0458666902868453
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.04501021117493079
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0434878681514972
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0417011690082275
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370423283395568
