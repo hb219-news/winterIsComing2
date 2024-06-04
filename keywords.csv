@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0486776762591258
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0463973785915629
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0458666902868453
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.04501021117493079
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0434878681514972
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0417011690082275
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0405089044986911
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370423283395568
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0336913343683849
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.033233862716635
