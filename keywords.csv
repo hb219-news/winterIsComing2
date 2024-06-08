@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0434878681514972
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0421370017438185
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0417011690082275
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.037582883823887435
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.037983663064438844
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0375828838238874
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370423283395568
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033509257081158
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.033233862716635
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,2,0.0278986162868199
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0235765002125262
