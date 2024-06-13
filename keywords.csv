@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1144649637437035
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.08653589007086568
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0865358900708656
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0649505897634192
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0564289520387022
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0559822854810748
@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0484460971326691
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0481900119089031
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0446207742164868
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.04421851947278
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0434878681514972
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0421370017438185
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.040135996551863
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0379836630644388
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370423283395568
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0360460536569933
