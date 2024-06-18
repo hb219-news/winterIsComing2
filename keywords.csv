@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.12231998150937118
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1223199815093711
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0646225690762003
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0601590362989063
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0573342899873492
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0537938914615986
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.05218627585407036
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0519161011041589
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0484460971326691
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0481900119089031
