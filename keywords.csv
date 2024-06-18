@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0646225690762003
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0573342899873492
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0537938914615986
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.05218627585407036
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0521862758540703
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0519161011041589
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0484460971326691
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0481900119089031
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370423283395568
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0369646879287726
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0360022043472183
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,2,0.0332101633892514
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.03197950888086369
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0319457512503042
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0312392056084443
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0138751677906742
