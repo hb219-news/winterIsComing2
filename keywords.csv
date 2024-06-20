@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1861986865556927
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0565793487147702
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0521862758540703
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0519161011041589
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0506763827423588
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.04974261140755468
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,2,0.0487351364892468
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0484460971326691
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0481900119089031
