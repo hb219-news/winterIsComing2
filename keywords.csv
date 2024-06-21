@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0481900119089031
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0480265603310049
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0446207742164868
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.04393138469642141
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0439313846964214
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0421370017438185
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.040135996551863
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370423283395568
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0369646879287726
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0360735214794483
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0360022043472183
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03561712825753105
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0319457512503042
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0312392056084443
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.030783437548734
