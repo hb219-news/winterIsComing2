@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0360022043472183
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035617128257531
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0319457512503042
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0315699997394567
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.030783437548734
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.027003369767177654
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0270033697671776
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.026984514778538193
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0138751677906742
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0042982820460884
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,4.4861760735514834e-05
