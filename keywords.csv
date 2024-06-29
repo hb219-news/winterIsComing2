@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0234029093021009
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0230868525617573
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.010024808728762
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.00365353973917514
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,3.813249662518761e-05
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0036535397391751
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,3.2412622131409466e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.5334894276167294e-07
