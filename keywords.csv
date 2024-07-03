@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0379277780840137
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0360022043472183
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0358166314822457
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0348998106660661
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03461926406615619
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0332886865087209
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0311167619164239
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0234029093021009
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0230868525617573
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.010024808728762
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.00263968246155398
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0026396824615539
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,2.7550728811698047e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.555879194735125e-07
