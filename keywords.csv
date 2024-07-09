@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0765152011359987
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.07289101904052929
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0728910190405292
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.062258832355961
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.061565622462999
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0563330802638837
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0533225016093358
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,2,0.052170382857965
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.05132466696056
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0505232590527239
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.048333163224301146
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0467769298837328
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0403861832421756
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0358166314822457
