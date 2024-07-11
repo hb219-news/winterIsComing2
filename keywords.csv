@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0505232590527239
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0483331632243011
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0467769298837328
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0403861832421756
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03537836075584926
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0346192640661561
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0341931706931643
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0323943317599088
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0311167619164239
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.030766994591331483
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0307669945913314
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0291729966656998
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0234029093021009
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0230868525617573
