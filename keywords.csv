@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0353783607558492
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0346192640661561
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0341931706931643
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0323943317599088
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0311167619164239
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0307669945913314
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.029485376995922477
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0291729966656998
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0234029093021009
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0230868525617573
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.007314226423050924
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0073142264230509
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0023937450923208
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.555043104667089e-08
