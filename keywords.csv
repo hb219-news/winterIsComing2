@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0483331632243011
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0471243063679354
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0467769298837328
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.04603591011765269
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0460359101176526
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0435453251948153
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0353783607558492
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0343804094562326
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0230868525617573
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0066671374595932
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0020070085792017
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.121786638967025e-08
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,6.903518643121972e-08
