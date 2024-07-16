@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.09944793622037501
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.099447936220375
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0831661633072029
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.053603370343153
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0492884643861501
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0208243484909012
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0066671374595932
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0020070085792017
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,6.903518643121973e-08
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,5.867990846653677e-08
