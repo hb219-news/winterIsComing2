@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0831661633072029
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,2,0.07680273066922089
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,2,0.0768027306692208
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.05533297696991361
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.053603370343153
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0485772269164759
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0483331632243011
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0471243063679354
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0467769298837328
