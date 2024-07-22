@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0483331632243011
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0467769298837328
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0435453251948153
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0428808986000047
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.042299707822928
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.039599078810004
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0362675333508332
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0353783607558492
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0341931706931643
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033857791632308794
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0338577916323087
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0311167619164239
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0294853769959224
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0253971071658448
