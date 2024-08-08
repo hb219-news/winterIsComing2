@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0385512269849955
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0361886403417504
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0361052616494888
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0353783607558492
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0314274633482082
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03097169664247182
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0307107994402278
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0275613547346162
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0211246874273228
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0196238246774937
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.016908601970767843
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0169086019707678
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0121716406396078
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0014244880474127
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.2131099055073675e-08
