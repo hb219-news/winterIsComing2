@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0745515594303552
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0535353290504271
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0483640527629687
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0442420972585886
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0432773218764269
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0432109937746825
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.042915597145248854
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0429155971452488
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0385512269849955
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.03820584266980031
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0362776401313401
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0361052616494888
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0357150842904878
