@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0777133065148453
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0745515594303552
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0483640527629687
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0432773218764269
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0432109937746825
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0429155971452488
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.038586398594962865
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0353121266469146
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0330750262693302
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.031586069111639
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0314274633482082
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.03098999740206548
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0309899974020654
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0309716966424718
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0307107994402278
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303510112466591
