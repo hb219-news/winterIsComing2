@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0309716966424718
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0307107994402278
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303510112466591
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.027598233744893147
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0275982337448931
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0275613547346162
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0211246874273228
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0169802809758696
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0169086019707678
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0104959095436666
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0013067203642555
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.2131099055073675e-08
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.8811434196812623e-08
