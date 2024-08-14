@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0800983296285275
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0782355331549303
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07145317318169075
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0668191705158019
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.06262943470848012
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0626294347084801
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0483640527629687
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0429155971452488
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385863985949628
