@@ -2,18 +2,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0800983296285275
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0714531731816907
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0626294347084801
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.05679663993843161
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0567966399384316
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0483640527629687
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0429155971452488
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385863985949628
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0353121266469146
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0330750262693302
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0314274633482082
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0309899974020654
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0309716966424718
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0307107994402278
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303510112466591
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0275613547346162
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.02731340384597697
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0242085736831591
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0211246874273228
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0169802809758696
