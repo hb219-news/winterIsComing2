@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0551515989394324
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385863985949628
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0372293225734614
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03497031764987741
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0349703176498774
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0330750262693302
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0309716966424718
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0307107994402278
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0303510112466591
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.027748554559660233
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0275613547346162
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0273134038459769
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0266420227917555
