@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0692846901842483
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0626294347084801
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0567966399384316
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.05183013409851754
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.047206918983739875
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385863985949628
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0372293225734614
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0349703176498774
