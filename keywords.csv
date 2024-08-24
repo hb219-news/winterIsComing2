@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0169802809758696
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0143723116751526
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0072176276235042
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.001891718383915725
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.359126120719712e-08
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0018917183839157
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.1552572026117553e-08
