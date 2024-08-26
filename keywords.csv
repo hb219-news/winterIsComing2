@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0157155063982338
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0143723116751526
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0072176276235042
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.002476877532379055
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.1552572026117551e-08
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.002476877532379
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.819686222199918e-09
