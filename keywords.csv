@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.052357643056661
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385863985949628
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.038502921905444
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03808650174036718
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03732864147931204
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0361856109524858
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0352860208980434
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0330750262693302
