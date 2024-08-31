@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0779015738685992
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07443431189569778
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0744343118956977
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0633004926878104
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0516044795241936
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0485590938142163
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0143723116751526
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0057697914579817
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0025553909025221
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.819686222199918e-09
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.34673328886993e-09
