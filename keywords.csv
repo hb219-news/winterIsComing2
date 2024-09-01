@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0779015738685992
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0744343118956977
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0633004926878104
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0516044795241936
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0485590938142163
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0469052265981618
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.04686410759556456
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0385863985949628
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0374693806153328
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0361380964688029
