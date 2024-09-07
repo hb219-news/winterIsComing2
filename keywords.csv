@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0576490236200629
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0547064987846388
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.05422257811938441
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0542225781193844
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.049601730077053464
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0448206126084375
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0388011248484969
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0380171135307712
