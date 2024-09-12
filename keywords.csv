@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0692241295832949
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0559969385123975
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.03888826436918625
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.04035811421116095
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0388882643691862
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0388011248484969
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0376600440345847
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.036947360980671
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0361380964688029
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0361043769945778
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.033068104954307
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0316458541874421
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0315762368266832
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0277485545596602
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0057697914579817
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.005399392219728
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0026221272671437
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,7.09472329553944e-09
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,7.0947232955394404e-09
