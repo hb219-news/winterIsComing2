@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0789176273169653
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0775598002406069
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07360154660653953
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0736015466065395
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0693302082194205
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0612079409161162
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0532191197370893
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.040218116543937
