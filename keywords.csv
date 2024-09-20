@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0909529482814389
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.07751755062287106
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.077517550622871
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0720596641610131
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0612079409161162
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.054484827010047
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.055808067503994495
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0503685827312521
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0382236639529944
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0371931262030389
