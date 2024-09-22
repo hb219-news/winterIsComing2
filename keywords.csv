@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.036982906789929
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0361043769945778
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357184691932263
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0337047831938929
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0321665849238797
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0318504310593257
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.02864944071480896
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0205468370828909
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0157155063982338
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0086860853423426
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0044736425094403
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.003779271766632945
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0037792717666329
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0027680546704345
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,5.125937581027246e-09
