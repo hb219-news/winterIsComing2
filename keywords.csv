@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0695053168335703
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0682494787633385
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0657707794017864
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.06281089419825753
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.06540315203697299
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0628108941982575
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0516106785887705
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0503685827312521
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0475873673783952
