@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0361043769945778
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357184691932263
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0318504310593257
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.029591822185297746
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0295918221852977
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0286494407148089
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0205468370828909
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0157155063982338
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0078332175409912
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0044736425094403
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0037792717666329
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0032123810016379648
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0027680546704345
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.357046943873159e-09
