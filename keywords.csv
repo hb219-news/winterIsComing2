@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0367828669560384
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357184691932263
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0356403404453911
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0308237364004268
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.03010106094036278
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0286494407148089
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.027553288857503
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0205468370828909
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0078332175409912
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0044736425094403
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0032123810016379
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0022774472493889046
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0022774472493889
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.357046943873159e-09
