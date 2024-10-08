@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0813306181079733
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.07801595912272388
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0654214826966514
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0592192663475896
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0548430766954607
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,1,0.0542001610620047
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0504434935697659
