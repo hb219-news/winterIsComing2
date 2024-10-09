@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0371931262030389
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0359389234302847
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0356403404453911
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.03432410873802235
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0343241087380223
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0332291988592109
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.027553288857503
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0255867417993082
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0209215600910862
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0205468370828909
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0069582649098425
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0016768829602361
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.001425350516200685
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.9332448758084087e-09
