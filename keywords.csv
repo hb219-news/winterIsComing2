@@ -8,15 +8,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0499453468170904
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0446134753215642
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0420972037803866
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0385637104226011
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0372834942694679
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0371931262030389
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0359389234302847
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0356403404453911
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.03322919885921094
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0286494407148089
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.027553288857503
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0255867417993082
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.02092156009108626
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0209215600910862
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0205468370828909
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0069582649098425
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0016768829602361
