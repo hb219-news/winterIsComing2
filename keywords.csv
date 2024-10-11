@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0913582137417628
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.08260614668049837
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0813306181079733
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0780159591227238
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0737479196299767
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0504434935697659
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0499453468170904
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.04681752622559966
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0468175262255996
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0446134753215642
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0420972037803866
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0372834942694679
