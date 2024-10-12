@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0343241087380223
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0285448490303292
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.027553288857503
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.023549405529411968
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0235494055294119
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0205468370828909
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0186834160774232
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0069582649098425
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0014253505162006
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.9332448758084087e-09
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.6432581444371473e-09
