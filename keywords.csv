@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0788052504887253
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0737479196299767
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0698355599307862
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0499453468170904
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.05212316556375761
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0484168298564423
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0450143024930241
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0446134753215642
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0183019325857508
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0069582649098425
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008753433857616
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.577910217595935e-10
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.577910217595934e-10
