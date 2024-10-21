@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0450143024930241
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0446134753215642
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0421215358946275
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0417450922917596
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.041155250377975953
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0411552503779759
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0404330882133286
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0372834942694679
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0371931262030389
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.036983478447995655
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0359389234302847
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0343241087380223
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.031759746721795
