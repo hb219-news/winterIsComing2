@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1865497687218144
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1042796388934809
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0941170735687841
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.09359118805945876
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0723306516223048
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0722300264324654
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0697910301290477
