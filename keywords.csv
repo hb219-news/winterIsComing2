@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1865497687218144
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.20897417386808767
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0845058998505398
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0814177900471151
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0722300264324654
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0504634932972341
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0416240306159382
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0411552503779759
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03861478506878805
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.038614785068788
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0359389234302847
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0349681849813293
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0343241087380223
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0235494055294119
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0069582649098425
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0007440418778973
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.2351546836410405e-10
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.23515468364104e-10
