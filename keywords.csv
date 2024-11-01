@@ -4,14 +4,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0814177900471151
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0697910301290477
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0647469653549755
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.06229561246759559
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0622956124675955
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0615087686804295
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0547133176135137
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.050493773444067
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0504634932972341
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0416240306159382
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0411552503779759
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.038614785068788
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0377781023084698
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0359389234302847
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0349681849813293
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0343241087380223
