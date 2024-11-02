@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0697910301290477
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0647469653549755
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0622956124675955
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0615087686804295
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.05615280550424203
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.056152805504242
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0547133176135137
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.053782603378365074
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0504634932972341
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0429200074274569
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0411552503779759
