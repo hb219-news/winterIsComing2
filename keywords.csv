@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.2201457123696932
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.09217937485449515
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0921793748544951
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0864289183561689
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0845058998505398
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0697910301290477
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0235494055294119
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0069582649098425
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0006324355962127
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.749881481094884e-10
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.3373992589306507e-10
