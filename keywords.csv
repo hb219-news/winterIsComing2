@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.053782603378365
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0469737765078376
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0432182017917391
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035135308870936424
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0351353088709364
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,2,0.0349681849813293
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0277468497135257
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0266991273268751
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0260303780760859
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0235494055294119
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0007743080980239
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.9867893700910527e-10
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.688770964577395e-10
