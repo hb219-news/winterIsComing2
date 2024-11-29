@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0277468497135257
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0272333400229308
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0266207503005556
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.022875896364673
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0221929097436672
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008822352159689799
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.02019458690997205
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008822352159689
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.815489983279283e-11
