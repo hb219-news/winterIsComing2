@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0262855872564968
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0202141082821171
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.020194586909972
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008822352159689
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.001049929933573565
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.815489983279283e-11
