@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0671925616275584
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0617117352377569
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.051706500666492
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.04562701544806261
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0442787342927302
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0410781529408686
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.03983306813085321
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0345502021592515
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0266207503005556
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0262855872564968
