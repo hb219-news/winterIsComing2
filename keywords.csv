@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.221551699053254
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1250916884252565
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1294619283432862
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1017835881261324
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0985663188758594
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0941986734857654
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0878495948110669
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0814189644415082
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0727940359995421
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.06183255125318364
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0618325512531836
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0617117352377569
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0451511405665182
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0429582075033601
