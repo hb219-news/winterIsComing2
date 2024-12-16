@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1017835881261324
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0887333660444804
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0878495948110669
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0824691124629005
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0814189644415082
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.07249898559346543
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0617117352377569
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.05453127804452275
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0545312780445227
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.052558073565206
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0451511405665182
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0348116675264975
