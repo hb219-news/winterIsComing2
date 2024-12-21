@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0527550049520933
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.052558073565206
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0451511405665182
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03825159920652575
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0355542500579869
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0348116675264975
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03382486430714267
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0320492024997775
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0307637865195707
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0186821420397995
