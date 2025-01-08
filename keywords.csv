@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.0961520903989046
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0809824013145289
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0803749811378083
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0773347624776424
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.06708468310599604
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0665420021248108
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0663864357603897
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0632612661667887
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0164798807338295
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0092218653646271
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0020607960929997
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.32475777719082e-11
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.3247577771908196e-11
