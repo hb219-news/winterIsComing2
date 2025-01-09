@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0248519376072101
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0164798807338295
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0092218653646271
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0020607960929997
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.3247577771908196e-11
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.001901691679049745
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.32475777719082e-11
