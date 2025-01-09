@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.2194241405633231
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1705910943429569
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1503186704754325
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1251446342920759
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.11132463414826452
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.1062257005556819
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0809824013145289
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0803749811378083
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0767957855375571
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.07503878230676325
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0750387823067632
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0665420021248108
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0663864357603897
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0632612661667887
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0164798807338295
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0092218653646271
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0019016916790497
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.3247577771908196e-11
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.32475777719082e-11
