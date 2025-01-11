@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0809824013145289
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0803749811378083
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0767957855375571
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0750387823067632
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0665420021248108
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0663864357603897
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.06498308496074871
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0632612661667887
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0451417842092793
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0438652543759352
