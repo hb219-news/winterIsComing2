@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.264898660671634
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1242242395240335
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1123197571493938
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.10070188978450381
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0836570476514801
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0809824013145289
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0803749811378083
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0767957855375571
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0645203045593093
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0637158220868815
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0632612661667887
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0591109568060891
