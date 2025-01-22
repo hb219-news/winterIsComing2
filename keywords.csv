@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0836570476514801
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0820247002904217
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.0803749811378083
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0698851461173495
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.069881474641794
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0637158220868815
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0632612661667887
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.060452479199747076
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0591109568060891
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0425198732390197
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0422400112195449
