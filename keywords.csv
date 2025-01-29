@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034572351216861
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0331699945912042
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0271850286300369
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.010854492168475895
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0108544921684758
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0010848229039118
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.735544339429715e-11
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.4752126885152577e-11
