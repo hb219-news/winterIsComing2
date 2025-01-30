@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.2500211981190374
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.2293396798140559
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1674471291324007
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.12359745985044694
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1105451935954284
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.11000940087287986
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0905471913168282
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0836570476514801
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0820247002904217
