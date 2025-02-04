@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0625887726006008
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.060452479199747
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0561728112417704
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.05204449328517573
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0520444932851757
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0386876842777029
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0343381035343318
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0331699945912042
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0271850286300369
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0110828316404651
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.000922099468325
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00078378454807625
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.0658411674522738e-11
