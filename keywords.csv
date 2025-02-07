@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0343381035343318
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0331699945912042
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0110828316404651
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00048134168558716493
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.0658411674522738e-11
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0004813416855871
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,9.059649923344327e-12
