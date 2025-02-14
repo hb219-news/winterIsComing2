@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0726576884004165
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0710711302468584
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0704328567788582
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.064134936113773
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0637158220868815
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0625887726006008
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.062254620959066
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0561728112417704
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.05571481569670704
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0442319717218171
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0378399766360474
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034139008004182
