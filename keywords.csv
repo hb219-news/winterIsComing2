@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.19856872192262146
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1985687219226214
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1968734471465311
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1822532167993079
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1219721559347435
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1095931422190117
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1089567292966463
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0905471913168282
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.07729155695566745
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0726576884004165
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0710711302468584
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0704328567788582
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0637158220868815
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0625887726006008
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.062254620959066
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0561728112417704
