@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0704328567788582
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0625887726006008
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.062254620959066
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0561728112417704
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.052697939555504836
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0485577133422009
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0442319717218171
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0359845015891124
