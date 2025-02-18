@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0772915569556674
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0726576884004165
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0710711302468584
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0704328567788582
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0625887726006008
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.062254620959066
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.06091803326202947
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0526979395555048
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0442319717218171
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0424741763408707
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0359845015891124
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034139008004182
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0281944954025235
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.009924664129136175
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0099246641291361
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003477693678366
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.019814800378096e-12
