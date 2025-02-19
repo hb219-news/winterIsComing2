@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0526979395555048
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0442319717218171
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0424741763408707
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0355406963507455
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035163536898133674
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034139008004182
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0281944954025235
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.009786099509765686
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0097860995097656
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003477693678366
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.019814800378096e-12
