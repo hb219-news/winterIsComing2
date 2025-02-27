@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.15841598059521192
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1584159805952119
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1570953762055995
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1341021860981493
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1318242842019811
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0880472209635445
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0726576884004165
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0710711302468584
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0625887726006008
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.06970060671051068
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0578850204004697
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0545665928152061
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0522303732727249
