@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0578850204004697
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0495261441511592
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0418481314170242
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.03844151518954369
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0384415151895436
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0343361613975661
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034139008004182
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0295061477220425
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0281944954025235
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0063003867934694
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,9.4763857634155e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.5160712048648056e-12
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.2886605241350847e-12
