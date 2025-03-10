@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0726576884004165
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.060745665703934
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0578850204004697
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.04952614415115922
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0446958472818161
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0418481314170242
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0370698146876383
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0345682134089014
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034139008004182
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0295061477220425
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0281944954025235
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0063003867934694
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,9.476385763415499e-05
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,9.4763857634155e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.5160712048648056e-12
