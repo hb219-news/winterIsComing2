@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1528903359264192
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.13325275794510028
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1260430896794391
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.1149027704084073
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,3,0.1135101542669629
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1126606857098296
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.10278449738895071
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.1027844973889507
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0971424080478368
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0966292382052742
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0928404378190128
