@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1133784949555813
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1132657592533351
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1075368228533551
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1013247807122441
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0966292382052742
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0895525559812286
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0893050243211253
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0796410522145392
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0794030788242366
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,3,0.0726576884004165
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.06970915047769219
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0697091504776921
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0578850204004697
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0529839508483439
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0428472975284853
