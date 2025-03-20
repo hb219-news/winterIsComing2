@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.12129461467759076
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1075368228533551
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.1212946146775907
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1001700326963165
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0966292382052742
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.09335649442535184
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0895525559812286
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0893050243211253
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,3,0.0841341717271532
