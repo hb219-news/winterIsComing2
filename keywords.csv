@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0420145309233706
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0418481314170242
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0339693418035546
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.03387540791111206
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.033875407911112
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0281944954025235
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,9.4763857634155e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,5.717855205677718e-13
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.860176924826061e-13
