@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1490281009505109
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1237065418467641
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.10813405294568379
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0946429823373235
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0893050243211253
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0862381844022261
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0856285166263753
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.081603245261549
