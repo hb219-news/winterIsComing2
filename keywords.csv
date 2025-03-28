@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0577957157250045
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0547153960921449
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0510029423403992
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04780522360789088
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0456364182210923
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.045068181249925114
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0428472975284853
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.042111417362159
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.040092620968133
