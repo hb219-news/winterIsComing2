@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0714629684723166
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0697091504776921
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.061759500140354
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0547153960921449
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0478052236078908
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.047408176678323165
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0460532659893393
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0456364182210923
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0428675156113157
