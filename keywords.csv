@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0411970401765746
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0407458447578351
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.039034682822913
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.03703744826961834
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0370374482696183
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.033875407911112
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0271766862408149
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,5.819685406957544e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.9847561539588056e-13
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.5370427308649846e-13
