@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.26065779848884
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1794359291190589
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.1620187392966546
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1237404492061131
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1066063645714382
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0811698286577857
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.07784049154240193
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0778404915424019
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0768910154879284
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.072784554132419
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0707941608879153
