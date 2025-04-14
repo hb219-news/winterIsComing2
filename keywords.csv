@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1127841844747393
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1121805546232357
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1070150307301101
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.10296346843738674
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1029634684373867
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1008170968035284
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.090254803357978
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0768910154879284
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.072784554132419
