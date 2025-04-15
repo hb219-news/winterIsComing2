@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1029634684373867
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.1008170968035284
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.090254803357978
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.07986717101255614
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0768910154879284
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.072784554132419
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0707941608879153
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0705767651166581
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0667104642052501
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0440966560909384
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0411970401765746
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0401678811362099
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.03796139133753583
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0379613913375358
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0367203363761214
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0281471951247991
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0201902113089887
