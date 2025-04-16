@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0768910154879284
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0707941608879153
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0705767651166581
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0667104642052501
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.06045426957446259
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0540697342744378
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0507203828992125
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0504857900667071
