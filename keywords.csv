@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0859950722829991
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0850325192903106
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.0835528516960118
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.08312323853097757
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0831232385309775
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0798671710125561
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0707941608879153
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0604542695744625
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0367203363761214
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356175441500884
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0281471951247991
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0174617096126403
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.015142483170744254
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003494973259591
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.324352162028591e-13
