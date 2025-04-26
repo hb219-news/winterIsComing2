@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0842207601366202
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0831232385309775
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0817767709422185
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.08137575189913422
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0813757518991342
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07900939984634027
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.078936086582232
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0726187871829945
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0725536311472953
