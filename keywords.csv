@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0479094691332721
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0478411260175491
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0401678811362099
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03774316833566494
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0377431683356649
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356175441500884
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0214464594776673
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.018529520556017205
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0100712046522332
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0009864622203045
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.133177715058084e-14
