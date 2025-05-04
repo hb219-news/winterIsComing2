@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0622518264971244
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0612403180556625
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0607246808432201
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.06003527958574726
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0600352795857472
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0594186770100656
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0504857900667071
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0479094691332721
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0401678811362099
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0359198532666401
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0356175441500884
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.03072495752757514
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0139426341017224
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0088605539543982
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0011385228872588
