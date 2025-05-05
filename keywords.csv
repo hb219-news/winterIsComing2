@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0612403180556625
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0607246808432201
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0594186770100656
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.05369326631231644
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0529801826478851
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0504857900667071
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.04804001136546894
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0479094691332721
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0478411260175491
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0401678811362099
