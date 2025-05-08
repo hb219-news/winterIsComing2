@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0478411260175491
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0401678811362099
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03548420027664409
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035484200276644
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0307249575275751
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.011851238986464
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0078315008612384
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0008225827860444
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00069919536813774
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.2455695996210415e-14
