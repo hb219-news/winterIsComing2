@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0544677032539207
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0538141425225557
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0529801826478851
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0504857900667071
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0478411260175491
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.0457845346606485
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0455062557952161
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.041473123763281286
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.04291323655670103
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0414731237632812
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0401678811362099
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035484200276644
