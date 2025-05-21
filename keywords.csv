@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0414731237632812
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0396658207130969
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0396304433509576
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.03624290896577841
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0362429089657784
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.035484200276644
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0351137452351474
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0233313950636729
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0062007216024697
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0048941604951967
