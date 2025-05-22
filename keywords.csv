@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0351137452351474
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0233313950636729
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0062007216024697
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.005720658362099245
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0048941604951967
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.000224146015257
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.607310430367272e-14
