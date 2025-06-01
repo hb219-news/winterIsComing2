@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0897580163955862
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0823202849764206
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0782494916809753
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.06123850116730829
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0612385011673082
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0485686017341896
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0463420811441723
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,2,0.042703254337773
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,2,0.0409649871149167
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0397765810731958
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0396304433509576
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.039540783972546456
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0380053384448659
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.036602290198789
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
