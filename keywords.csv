@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0345434363120435
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0335888003912408
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0306484479777748
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.012303433416114899
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.004207337457167
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0123034334161148
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.00417629683859195
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0033915399016125
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0001170056208766
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.8837817859403542e-14
