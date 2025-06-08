@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0357185176369054
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0345434363120435
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0335888003912408
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0323120666689706
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0306484479777748
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.02866537666862501
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0110579784036975
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0041499123128031
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0030328239163706
