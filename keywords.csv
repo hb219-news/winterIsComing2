@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1175033256098826
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.1074818708568148
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0927008604593587
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0857837614740611
+'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.07291664725295192
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0572190856579891
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0534600539285983
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0515463903972425
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0041274854658826
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.002727915328915
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,8.45365610833435e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.1568774892906201e-14
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.15687748929062e-14
