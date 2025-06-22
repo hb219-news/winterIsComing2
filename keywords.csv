@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0344240829353247
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033319293297355
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0293620108652369
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.028696480776415602
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0286964807764156
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0283014057811085
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0232084843930815
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0102993716431428
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0041084226460002
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0018252960013698
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,6.107766538271568e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.35843986012473e-15
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,7.1046738811060205e-15
