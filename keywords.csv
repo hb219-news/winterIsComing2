@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0838700429106243
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0714254638512835
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.06606509588991084
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0660650958899108
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0525805560206981
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0515463903972425
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0492896782182047
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0344472603253839
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0344359518483139
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0344240829353247
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033319293297355
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.03327885430275175
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0293620108652369
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0286964807764156
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0283014057811085
