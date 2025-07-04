@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0303206640710668
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0293620108652369
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0286964807764156
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.024956284913942223
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0249562849139422
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0192658797240013
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0093545258966713
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.003650903611735
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.00340329806997475
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0020238468609896
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,2.7100484605408294e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,6.038972798940118e-15
