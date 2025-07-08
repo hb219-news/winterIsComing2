@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0331505235716068
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0303206640710668
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0293620108652369
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.024842053659953258
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0248420536599532
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0175761177654011
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0093545258966713
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0034032980699747
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0020238468609896
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1.958010012740749e-05
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1.6643085108296366e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,6.038972798940118e-15
