@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0484269221118776
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0471129321768508
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0459466314854739
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.040931301816873
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0387766758220308
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03569169654434205
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0348202690476791
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034031184420772
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0331220087804858
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0293620108652369
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.021565790610960218
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0215657906109602
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0175761177654011
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0093545258966713
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0024006357160051
