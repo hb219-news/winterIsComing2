@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.064229823407303
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0581605096160322
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0560019017913456
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0533428483594784
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0511996051124518
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0491272531054086
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,1,0.0484269221118776
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0471129321768508
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0459466314854739
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.04564145110555663
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0387766758220308
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03569169654434205
+'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.035691696544342
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0348202690476791
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.034031184420772
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0331220087804858
