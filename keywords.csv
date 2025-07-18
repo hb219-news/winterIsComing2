@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.043944972753287
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0387766758220308
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0338778717576562
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0330909667923157
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.033083096773468344
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0285238555851999
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0186309520193161
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0184594876726135
