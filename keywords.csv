@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0459036958554457
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0442170070794131
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.043944972753287
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0425540832942471
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0413961273503231
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0384843639437464
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0379117944487261
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03737109080011003
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0338778717576562
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0330707376688308
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0179031263987608
