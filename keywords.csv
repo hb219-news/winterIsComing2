@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0869711656493495
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,2,0.0672978373402782
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0528594024528002
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.05052664819815174
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0505266481981517
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0476716847890172
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0459036958554457
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0442170070794131
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0175761177654011
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0161406095217214
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0161363392164186
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0093545258966713
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.007951347012170606
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0022044884215915
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1.0220934642132506e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.679524312932725e-15
