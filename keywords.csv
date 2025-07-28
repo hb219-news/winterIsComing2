@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0459036958554457
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0454720270706646
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0442170070794131
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.04414777096842894
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0441477709684289
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.043944972753287
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0413961273503231
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0384843639437464
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0140159183339558
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0079513470121706
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0015927428845997
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1.0220934642132506e-05
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,8.68779444581263e-06
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.679524312932725e-15
