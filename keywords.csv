@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0179031263987608
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0175761177654011
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0161406095217214
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.01401591833395581
+'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0140159183339558
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0079513470121706
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0022044884215915
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.001873815158352775
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,1.0220934642132506e-05
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.679524312932725e-15
