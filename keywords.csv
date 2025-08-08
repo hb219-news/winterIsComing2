@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,2,0.0386521980100649
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0384843639437464
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03737109080011
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0366868582477746
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0363406148924615
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.03253396451060841
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0159799518726768
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0126441886294436
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0123635755838624
