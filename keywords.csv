@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1331966897888189
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0804711109240744
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.07822229379487534
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0782222937948753
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.07335441928546324
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,3,0.0578378733722657
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0468964473994642
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0437811133304652
