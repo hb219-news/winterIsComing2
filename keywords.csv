@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0333117693521844
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0325155021800935
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0290040048340171
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.014830843728008919
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0148308437280089
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0123635755838624
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.011647650335027
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0071618078010969
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0048831209838492
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.001623297510263
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0005602051375181
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.000626189366890385
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.1889191726211629e-15
