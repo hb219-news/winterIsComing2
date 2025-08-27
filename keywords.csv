@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0071618078010969
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0048831209838492
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.001623297510263
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.000729949567578195
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.1889191726211629e-15
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0007299495675781
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.0105812967279885e-15
