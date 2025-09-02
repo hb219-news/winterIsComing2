@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1101171202125249
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.073021593479689
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0577887693058219
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.04881746695341013
+'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.05407237390994861
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0488174669534101
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0487677228083734
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0485609707782847
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0476283003908238
