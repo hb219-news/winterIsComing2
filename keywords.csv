@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.034263125561294
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0317341529955637
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0145564121688075
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.009653051117056964
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0096530511170569
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0068072715290962
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0031155267011649
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0005273885625751
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00044828027818883493
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.0105812967279885e-15
