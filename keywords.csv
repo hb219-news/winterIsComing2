@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.11076627514900378
+'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1107662751490037
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.073021593479689
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0509132878234563
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0485609707782847
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0031155267011649
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0004482802781888
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.0105812967279885e-15
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,8.5899410221879015e-16
