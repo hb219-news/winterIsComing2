@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.046227920161542
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0459456144524471
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0404844603322002
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.039846541275955424
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.0398465412759554
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0385650127290497
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0368855744808278
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.036329155381261
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0063058924297719
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0035482876959901
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003238825009913
+'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.00027530012584260497
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.484002900713473e-16
