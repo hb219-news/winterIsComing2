@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0404844603322002
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0395947521373107
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.03867004008456209
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,2,0.038670040084562
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0385650127290497
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0384647895134894
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0376722746780433
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.037648896086465995
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.036329155381261
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0360385272305164
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0355481476238387
