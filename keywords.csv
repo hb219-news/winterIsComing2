@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.036329155381261
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0360385272305164
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0355481476238387
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.027462348803387
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.02424308648287895
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0220425711127171
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0088051534494983
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0054936010305101845
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0054936010305101
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0043561456858327
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0002340051069662
