@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.036955626673496
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0367231638061029
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.036329155381261
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0360385272305164
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0355481476238387
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.02424308648287895
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.03183286814593894
+'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0242430864828789
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0220425711127171
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.0088051534494983
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0054936010305101
