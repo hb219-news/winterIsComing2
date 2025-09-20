@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0476974384076231
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0442384247721999
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0438826348715528
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,2,0.0392723844536509
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.042878091331057806
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0385650127290497
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.036955626673496
