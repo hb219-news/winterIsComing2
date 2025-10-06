@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.10089229483683497
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0970107035233044
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0861308554230144
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0855163129393251
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.05420132917467303
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.054201329174673
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0467163899943496
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0438676093769246
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0438172984220519
