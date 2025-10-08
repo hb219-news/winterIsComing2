@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0855163129393251
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.051336477061295
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0467163899943496
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.04607151979847205
+'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.046071519798472
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0438172984220519
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0428780913310578
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0220425711127171
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.021356698510447
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0028729542735832
+'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.00259202613254572
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0024375399619926
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0001437083863155
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.2218483046920928e-16
