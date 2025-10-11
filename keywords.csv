@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0922052757501329
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0467163899943496
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,1,0.046071519798472
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04428209953776775
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0442820995377677
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0413978776313991
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0408181343599324
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0165403256737979
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0025032522126638
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0022219239676937
+'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.002038650372539645
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0001437083863155
 'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,1.0385710589882787e-16
