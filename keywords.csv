@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0385650127290497
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0379028525007272
+'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.03661427255108052
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0343286930349228
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.0309660004802628
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.028067352461096044
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.028067352461096
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.027958027924048
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0220425711127171
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0165403256737979
