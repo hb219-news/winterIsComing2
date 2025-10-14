@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.0972484192796249
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.09191592386583465
+'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0919159238658346
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.0905307001753184
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0881561528651483
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,2,0.0441113168287011
@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0366142725510805
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0343286930349228
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.028067352461096
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0229749526751245
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0220425711127171
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.021028859773855824
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0165403256737979
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0025032522126638
