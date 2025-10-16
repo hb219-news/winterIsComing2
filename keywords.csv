@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0343286930349228
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.028067352461096
 'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0210288597738558
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.018736515445809534
+'Glatteis',de,Klima,#b3ecff,#d9f6ff,1,0.0187365154458095
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0165403256737979
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0044506828362718
+'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.00438314041083103
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0025032522126638
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0018828678166586
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0001437083863155
