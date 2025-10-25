@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.048020201661024
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0464994021968253
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0454633396506772
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.041838733600262815
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0418387336002628
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0408181343599324
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0379028525007272
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0021127813990866
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0017879147475358
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,7.5016675833998e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,6.378124516011766e-17
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,5.4214058386100005e-17
