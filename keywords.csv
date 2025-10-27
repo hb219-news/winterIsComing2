@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0800528691373861
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0559701704477977
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0527067799750494
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.04873788329685163
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.048020201661024
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0464994021968253
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0454633396506772
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0418387336002628
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0408181343599324
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0379028525007272
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0367280357177316
