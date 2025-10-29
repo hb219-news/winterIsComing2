@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.0899354987574712
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.089756433654752
 'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0800528691373861
+'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.06910556852959658
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.0559701704477977
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0527067799750494
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0487378832968516
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.048020201661024
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0454633396506772
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04052135356022338
+'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0405213535602233
 'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0402745668673015
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0367280357177316
