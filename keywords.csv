@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,1,0.0367280357177316
 'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0366142725510805
 'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0340185946256181
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.016604342471119093
+'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,1,0.016604342471119
 'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.0123554257993189
 'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0021127813990866
 'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0018197575354054
 'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,6.37641744588983e-05
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,4.608194962818501e-17
+'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,3.9169657183957254e-17
