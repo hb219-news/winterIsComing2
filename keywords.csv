@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.1287637499976933
 'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1177614803074868
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0717241314818607
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0699562275714971
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0691055685295965
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.06554554444201204
+'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.065545544442012
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.06171301843577253
 'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0497527279787919
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.0486548596457861
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.048020201661024
