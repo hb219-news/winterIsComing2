@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0717241314818607
 'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0691055685295965
 'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.065545544442012
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.06171301843577253
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0497527279787919
+'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0617130184357725
 'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.0486548596457861
 'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.048020201661024
+'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.04724182878197311
 'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0454633396506772
 'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0394017755261898
 'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
