@@ -1,23 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Weihnachtsmarkt',de,Freizeit,#c299ff,#e1ccff,3,0.14492430110060614
-'Einsamkeit',de,Emotion,#cccccc,#d9d9d9,3,0.1309313278179028
-'Zeitumstellung',de,Emotion,#cccccc,#d9d9d9,3,0.1177614803074868
-'Heizkosten',de,Wohnen,#ffdd99,#ffe8bb,3,0.0931903690323088
-'Obdachlosenhilfe',de,Soziales,#ff8080,#ffaaaa,2,0.0897137511004511
-'Vorsichtsmaßnahmen',de,Soziales,#ff8080,#ffaaaa,3,0.0759065490808152
-'Skisaison',de,Freizeit,#c299ff,#e1ccff,1,0.065545544442012
-'Geldsorgen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0617130184357725
-'Nachbarschaftshilfe',de,Soziales,#ff8080,#ffaaaa,2,0.0486548596457861
-'Kälteeinbruch',de,Klima,#b3ecff,#d9f6ff,1,0.048020201661024
-'Verkehrsinfrastruktur',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0472418287819731
-'Glatteis',de,Klima,#b3ecff,#d9f6ff,2,0.0454633396506772
-'Wintersport',de,Freizeit,#c299ff,#e1ccff,2,0.0391856525396707
-'Infrastruktur Gefahr',de,Infrastruktur,#9fdf9f,#d7f2d7,3,0.0384484691972613
-'Wintereinbruch',de,Klima,#b3ecff,#d9f6ff,2,0.0366142725510805
-'Energiesparmaßnahmen',de,Wohnen,#ffdd99,#ffe8bb,1,0.0348334418372062
-'Isolierung',de,Wohnen,#ffdd99,#ffe8bb,3,0.0340185946256181
-'Winterdepression',de,Emotion,#cccccc,#d9d9d9,1,0.0299349162267139
-'Schneeschmelze',de,Klima,#b3ecff,#d9f6ff,1,0.010652126929421
-'Nahrungsmittelversorgung',de,Infrastruktur,#9fdf9f,#d7f2d7,1,0.0018197575354054
-'Temperaturextreme',de,Klima,#b3ecff,#d9f6ff,1,0.0003235973660465
-'Extremtemperatur',de,Klima,#b3ecff,#d9f6ff,1,2.830007731540911e-17
+'dry soil',en,Impacts,#ffff00,#ffff00,2,0.5
+'drought weather',en,Hazard,#ff0000,#ff0000,2,0.5
+'water management',en,Adaptation,#0000ff,#0000ff,2,0.5
+'irrigation',en,Mitigation,#00ff00,#00ff00,2,0.5
+'drought climate change',en,Causes,#00ffff,#00ffff,2,0.5
+
